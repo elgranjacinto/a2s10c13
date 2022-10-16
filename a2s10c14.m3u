@@ -224,7 +224,7 @@ http://6amigo.top:80/live/zqq039/nyt5hn6/278.ts
 http://6amigo.top:80/live/zqq039/nyt5hn6/291.ts
 #EXTINF:-1 group-title="DOCUMENTALES/NATURALEZA",DISCOVERY HD
 http://6amigo.top:80/live/zqq039/nyt5hn6/292.ts
-#EXTINF:-1 group-title="DOCUMENTALES",DISCOVERY FHD
+#EXTINF:-1 group-title="DOCUMENTALES/NATURALEZA",DISCOVERY FHD
 http://6amigo.top:80/live/zqq039/nyt5hn6/293.ts
 #EXTINF:-1 group-title="DOCUMENTALES/NATURALEZA",NAT GEO WILD SD
 http://6amigo.top:80/live/zqq039/nyt5hn6/294.ts
@@ -242,7 +242,7 @@ http://6amigo.top:80/live/zqq039/nyt5hn6/305.ts
 http://6amigo.top:80/live/zqq039/nyt5hn6/306.ts
 #EXTINF:-1 group-title="DOCUMENTALES/NATURALEZA",HISTORIA HD
 http://6amigo.top:80/live/zqq039/nyt5hn6/307.ts
-#EXTINF:-1 group-title="DOCUMENTALES",HISTORIA FHD
+#EXTINF:-1 group-title="DOCUMENTALES/NATURALEZA",HISTORIA FHD
 http://6amigo.top:80/live/zqq039/nyt5hn6/308.ts
 #EXTINF:-1 group-title="DOCUMENTALES/NATURALEZA",CAZA Y PESCA SD
 http://6amigo.top:80/live/zqq039/nyt5hn6/312.ts
@@ -324,7 +324,7 @@ http://6amigo.top:80/live/zqq039/nyt5hn6/252.ts
 http://6amigo.top:80/live/zqq039/nyt5hn6/253.ts
 #EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 5 SD
 http://6amigo.top:80/live/zqq039/nyt5hn6/255.ts
-#EXTINF:-1,M+ DEPORTES 5 HD
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 5 HD
 http://6amigo.top:80/live/zqq039/nyt5hn6/256.ts
 #EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 6 SD
 http://6amigo.top:80/live/zqq039/nyt5hn6/258.ts
@@ -564,7 +564,6 @@ http://6amigo.top:80/live/zqq039/nyt5hn6/279.ts
 http://6amigo.top:80/live/zqq039/nyt5hn6/280.ts
 #EXTINF:-1 group-title="PELICULAS",SOMOS FHD
 http://6amigo.top:80/live/zqq039/nyt5hn6/281.ts
-
 #EXTINF:-1 group-title="SERIES",A3 SERIES SD
 http://6amigo.top:80/live/zqq039/nyt5hn6/111.ts
 #EXTINF:-1 group-title="SERIES",A3 SERIES HD
