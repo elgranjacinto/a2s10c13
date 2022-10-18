@@ -1,0 +1,449 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORTS ESPANA" tvg-logo="https://docdog.top/Logotv/countries//beinsportsenespanol.png" group-title="SPAIN SPORT",ES: BEIN SPORTS ESPANA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/24040.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 1" tvg-logo="https://docdog.top/Logotv/countries/spain/DAZNLaLigaWhite.png" group-title="SPAIN SPORT",ES: DAZN LALIGA 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25125.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://asiagrandiptv.us/logo/DAZNLALIGA2.png" group-title="SPAIN SPORT",ES: DAZN LALIGA 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25127.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga SmartBankTV" tvg-logo="https://docdog.top/Logotv/countries/spain/LaLigaSmartbankTV.png" group-title="SPAIN SPORT",ES: Laliga SmartBankTV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25128.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/dazn-1-es.png" group-title="SPAIN SPORT",ES: DAZN 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5589.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/dazn-2-es.png" group-title="SPAIN SPORT",ES: DAZN 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5590.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/dazn-3-es.png" group-title="SPAIN SPORT",ES: DAZN 3
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5591.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/dazn-4-es.png" group-title="SPAIN SPORT",ES: DAZN 4
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5592.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/dazn-f1-es.png" group-title="SPAIN SPORT",ES: DAZN F1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5593.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN" tvg-logo="https://docdog.top/Logotv/countries//espn.png" group-title="SPAIN SPORT",ES: ESPN
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5605.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/eurosport-1-es.png" group-title="SPAIN SPORT",ES: EUROSPORT 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5607.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/eurosport-2-es.png" group-title="SPAIN SPORT",ES: EUROSPORT 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5608.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5758.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 1 (MATCH TIME)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-1-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 1 (MATCH TIME)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5650.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 2 (MATCH TIME)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-2-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 2 (MATCH TIME)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5651.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 3 (MATCH TIME)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-3-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 3 (MATCH TIME)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5652.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 4 (MATCH TIME)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-4-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 4 (MATCH TIME)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5653.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 5 (MATCH TIME)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-5-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 5 (MATCH TIME)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5654.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 6 (MATCH TIME)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-6-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 6 (MATCH TIME)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5655.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 7 (MATCH TIME)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-7-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 7 (MATCH TIME)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5656.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 8 (MATCH TIME)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-8-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 8 (MATCH TIME)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5657.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 9 (MATCH TIME)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-9-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 9 (MATCH TIME)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5658.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA 10 (MATCH TIME)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-10-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 10 (MATCH TIME)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5659.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-liga-de-campeones-es.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5671.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-liga-de-campeones-1-es.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5662.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-liga-de-campeones-2-es.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5663.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-liga-de-campeones-3-es.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 3
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5664.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-liga-de-campeones-4-es.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 4
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5665.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-liga-de-campeones-5-es.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 5
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5666.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-liga-de-campeones-6-es.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 6
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5667.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-liga-de-campeones-7-es.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 7
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5668.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-liga-de-campeones-8-es.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 8
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5669.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones_9.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 9
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5670.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones_10.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 10
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5685.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones_11.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 11
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5686.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones_12.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 12
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5687.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-deportes-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5643.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-deportes-1-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5638.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-deportes-2-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5639.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-deportes-3-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 3
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5640.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-deportes-4-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 4
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5641.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-deportes-5-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 5
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5681.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-deportes-6-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 6
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5682.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-deportes-7-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 7
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5683.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGATV BAR" tvg-logo="https://docdog.top/Logotv/countries/spain/LaLigaTVBAR.png" group-title="SPAIN SPORT",ES: M+ LALIGATV BAR
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5661.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ F1" tvg-logo="https://docdog.top/Logotv/countries//f1tv.png" group-title="SPAIN SPORT",ES: M+ F1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5647.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-golf-es.png" group-title="SPAIN SPORT",ES: M+ GOLF
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5649.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUPERSPORT LA LIGA" tvg-logo="https://docdog.top/Logotv/countries//supersportlaliga.png" group-title="SPAIN SPORT",ES: SUPERSPORT LA LIGA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5752.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLASSICA" tvg-logo="https://docdog.top/Logotv/countries//classica.png" group-title="SPAIN",ES: CLASSICA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5545.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #0" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: M+ #0
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5546.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7 RM" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/7-television-region-de-murcia-es.png" group-title="SPAIN",ES: 7 RM
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5548.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 8 TV MADRID" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/8tv-es.png" group-title="SPAIN",ES: 8 TV MADRID
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5549.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/24h-es.png" group-title="SPAIN",ES: 24 HORAS
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5550.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: A&AMP;E" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: A&AMP;E
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5551.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3 SERIES HD" tvg-logo="https://docdog.top/Logotv/countries//a3series.png" group-title="SPAIN",ES: A3 SERIES HD
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5552.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/amc-es.png" group-title="SPAIN",ES: AMC FHD
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5553.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/andalucia-tv-es.png" group-title="SPAIN",ES: ANDALUCIA TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5554.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/antena-3-es.png" group-title="SPAIN",ES: ANTENA 3 FHD
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5555.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/aragon-tv-es.png" group-title="SPAIN",ES: ARAGON TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5556.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/axn-es.png" group-title="SPAIN",ES: AXN
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5557.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/axn-white-es.png" group-title="SPAIN",ES: AXN WHITE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5558.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/baby-tv-es.png" group-title="SPAIN",ES: BABY TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5559.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/barca-tv-es.png" group-title="SPAIN",ES: BARCA TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5560.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE MAD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/be-mad-tv-es.png" group-title="SPAIN",ES: BE MAD
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5561.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLAZE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/blaze-es.png" group-title="SPAIN",ES: BLAZE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5564.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/boing-es.png" group-title="SPAIN",ES: BOING
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5565.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/bom-cine-es.png" group-title="SPAIN",ES: BOM CINE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5566.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/calle-13-es.png" group-title="SPAIN",ES: CALLE 13 FHD
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5567.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 26" tvg-logo="https://docdog.top/Logotv/countries//canal26.png" group-title="SPAIN",ES: CANAL 26
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5569.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-cocina-es.png" group-title="SPAIN",ES: CANAL COCINA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5570.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DE CASA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/decasa-es.png" group-title="SPAIN",ES: CANAL DE CASA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5571.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL PANDA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-panda-es.png" group-title="SPAIN",ES: CANAL PANDA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5574.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-sur-andalucia-es.png" group-title="SPAIN",ES: CANAL SUR
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5575.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR ANDALUCIA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-sur-andalucia-es.png" group-title="SPAIN",ES: CANAL SUR ANDALUCIA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5576.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAYPESCA FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/caza-y-pesca-es.png" group-title="SPAIN",ES: CAZAYPESCA FHD
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5578.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/clan-es.png" group-title="SPAIN",ES: CLAN
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5580.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/comedy-central-es.png" group-title="SPAIN",ES: COMEDY CENTRAL
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5584.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/cosmo-es.png" group-title="SPAIN",ES: COSMO
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5585.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN INVESTIGATION" tvg-logo="https://docdog.top/Logotv/countries//crimeninves.png" group-title="SPAIN",ES: CRIMEN INVESTIGATION
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5586.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/cuatro-es.png" group-title="SPAIN",ES: CUATRO
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5588.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY MAX" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/discovery-channel-es.png" group-title="SPAIN",ES: DISCOVERY MAX
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5594.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/disney-channel-es.png" group-title="SPAIN",ES: DISNEY CHANNEL
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5596.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/disney-junior-es.png" group-title="SPAIN",ES: DISNEY JR
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5597.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY XD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/disney-channel-es.png" group-title="SPAIN",ES: DISNEY XD
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5598.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/divinity-es.png" group-title="SPAIN",ES: DIVINITY
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5599.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/dkiss-es.png" group-title="SPAIN",ES: DKISS
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5600.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/dmax-es.png" group-title="SPAIN",ES: DMAX
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5601.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/dreamworks-channel-es.png" group-title="SPAIN",ES: DREAMWORKS
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5602.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/energy-es.png" group-title="SPAIN",ES: ENERGY
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5603.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPRANZA TV" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: ESPRANZA TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5606.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: EXTRA MADURA TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-extremadura-es.png" group-title="SPAIN",ES: EXTRA MADURA TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5609.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/fdf-es.png" group-title="SPAIN",ES: FDF
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5611.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/fox-es.png" group-title="SPAIN",ES: FOX
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5612.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/fox-life-es.png" group-title="SPAIN",ES: FOX LIFE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5613.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/fox-es.png" group-title="SPAIN",ES: FOX NEWS
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5614.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: GALICIA TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/galicia-es.png" group-title="SPAIN",ES: GALICIA TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5616.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/gol-es.png" group-title="SPAIN",ES: GOL TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5617.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/historia-es.png" group-title="SPAIN",ES: HISTORIA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5618.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-hollywood-es.png" group-title="SPAIN",ES: HOLLYWOOD
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5619.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/iberalia-tv-es.png" group-title="SPAIN",ES: IBERALIA TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5621.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/Logotv/countries//la1.png" group-title="SPAIN",ES: LA 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5622.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/Logotv/countries//la2.png" group-title="SPAIN",ES: LA 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5623.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LEVANTE TV" tvg-logo="" group-title="SPAIN",ES: LEVANTE TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5624.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/lasexta-es.png" group-title="SPAIN",ES: LA SEXTA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5625.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA UNA 1" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: LA UNA 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5626.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA 123" tvg-logo="https://docdog.top/Logotv/countries//liga123.png" group-title="SPAIN",ES: LIGA 123
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5627.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #VAMOS" tvg-logo="https://docdog.top/Logotv/countries//vamos.png" group-title="SPAIN",ES: M+ #VAMOS
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5630.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ACCION" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-accion-es.png" group-title="SPAIN",ES: M+ ACCION
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5632.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE ESPAÃNOL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-cine-espanol-es.png" group-title="SPAIN",ES: M+ CINE ESPAÃNOL
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5633.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLASICOS" tvg-logo="https://docdog.top/Logotv/countries/spain/M_Clásicos.png" group-title="SPAIN",ES: M+ CLASICOS
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5634.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COMEDIA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-comedia-es.png" group-title="SPAIN",ES: M+ COMEDIA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5636.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DCINE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-cine-espanol-es.png" group-title="SPAIN",ES: M+ DCINE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5637.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DRAMA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-drama-es.png" group-title="SPAIN",ES: M+ DRAMA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5644.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/Logotv/countries/spain/M_Estrenos.png" group-title="SPAIN",ES: M+ ESTRENOS
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5645.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS 2" tvg-logo="https://docdog.top/Logotv/countries/spain/M_Estrenos2.png" group-title="SPAIN",ES: M+ ESTRENOS 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5646.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ FEST" tvg-logo="https://docdog.top/Logotv/countries/spain/M_Fest.png" group-title="SPAIN",ES: M+ FEST
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5648.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SAGAS" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: M+ SAGAS
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5672.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SERIES 2" tvg-logo="https://docdog.top/Logotv/countries/movistar-series-es.png" group-title="SPAIN",ES: M+ SERIES 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5673.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SERIES EXTRA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-series-es.png" group-title="SPAIN",ES: M+ SERIES EXTRA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5674.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SERIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-series-es.png" group-title="SPAIN",ES: M+ SERIES
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5675.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENO" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-estrenos-es.png" group-title="SPAIN",ES: M+ ESTRENO
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5684.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/mega-es.png" group-title="SPAIN",ES: MEGA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5688.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/mezzo-live-hd-es.png" group-title="SPAIN",ES: MEZZO LIVE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 1 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 1 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5690.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 2 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 2 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5691.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 3 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 3 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5692.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 4 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 4 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5693.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 5 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 5 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5694.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 6 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 6 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5695.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 7 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 7 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5696.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 8 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 8 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5697.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 9 (MULTIAUDIO)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-accion-es.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 9 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5698.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 10 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 10 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5699.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CINE DOC &AMP; ROLL" tvg-logo="https://docdog.top/Logotv/countries//movistarcinedocroll.png" group-title="SPAIN",ES: MOVISTAR CINE DOC &AMP; ROLL
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5700.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TAQUILLA 1" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR TAQUILLA 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5702.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TAQUILLA 2" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR TAQUILLA 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5703.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TAQUILLA 3" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR TAQUILLA 3
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5704.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TAQUILLA 4" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR TAQUILLA 4
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5705.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TAQUILLA 5" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR TAQUILLA 5
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5706.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TAQUILLA 6" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR TAQUILLA 6
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5707.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TAQUILLA 7" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR TAQUILLA 7
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5708.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TAQUILLA 8" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR TAQUILLA 8
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5709.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TAQUILLA 9" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR TAQUILLA 9
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5710.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ESPANA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/mtv-es.png" group-title="SPAIN",ES: MTV ESPANA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5712.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTI DEPORTE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-multideporte-es.png" group-title="SPAIN",ES: MULTI DEPORTE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5713.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/national-geographic-es.png" group-title="SPAIN",ES: NAT GEO
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5714.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/national-geographic-wild-es.png" group-title="SPAIN",ES: NAT GEO WILD
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5715.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/neox-es.png" group-title="SPAIN",ES: NEOX
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5718.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICK JR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/nick-jr-es.png" group-title="SPAIN",ES: NICK JR
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5720.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/nickelodeon-es.png" group-title="SPAIN",ES: NICKELODEON
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5721.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NON STOP PEOPLE" tvg-logo="https://docdog.top/Logotv/countries//nonstoppeople.png" group-title="SPAIN",ES: NON STOP PEOPLE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5722.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/nova-es.png" group-title="SPAIN",ES: NOVA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5723.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/odisea-es.png" group-title="SPAIN",ES: ODISEA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5724.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ORBE 21" tvg-logo="https://docdog.top/Logotv/countries//orbe21.png" group-title="SPAIN",ES: ORBE 21
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5725.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PANDA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-panda-es.png" group-title="SPAIN",ES: PANDA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5726.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/paramount-network-es.png" group-title="SPAIN",ES: PARAMOUNT CHANNEL
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5727.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: POPULARTV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/popular-tv-cantabria-es.png" group-title="SPAIN",ES: POPULARTV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5728.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/real-madrid-tv-es.png" group-title="SPAIN",ES: REAL MADRID TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5729.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/somos-es.png" group-title="SPAIN",ES: SOMOS
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5730.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/sundance-tv-es.png" group-title="SPAIN",ES: SUNDANCE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5731.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/syfy-es.png" group-title="SPAIN",ES: SYFY
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5732.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tcm-es.png" group-title="SPAIN",ES: TCM
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5733.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELE CINCO" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/telecinco-es.png" group-title="SPAIN",ES: TELE CINCO
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5734.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELE DEPORTE" tvg-logo="https://docdog.top/Logotv/countries//teledeporte.png" group-title="SPAIN",ES: TELE DEPORTE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5735.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELE MADRID" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tele-madrid-es.png" group-title="SPAIN",ES: TELE MADRID
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5736.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TEN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/ten-es.png" group-title="SPAIN",ES: TEN
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5738.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tnt-es.png" group-title="SPAIN",ES: TNT
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5739.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/toros-es.png" group-title="SPAIN",ES: TOROS
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5740.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/trece-es.png" group-title="SPAIN",ES: TRECE
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5741.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV GALICIA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/galicia-es.png" group-title="SPAIN",ES: TV GALICIA
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5742.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tv3-cat-es.png" group-title="SPAIN",ES: TV3
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5743.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE CLAN" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: TVE CLAN
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5744.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE INTERNACIONAL" tvg-logo="https://docdog.top/Logotv/countries//tveinternacionalamericai.png" group-title="SPAIN",ES: TVE INTERNACIONAL
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5745.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVM" tvg-logo="https://docdog.top/Logotv/countries//tvm1.png" group-title="SPAIN",ES: TVM
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5748.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: VH1" tvg-logo="https://docdog.top/Logotv/countries//vh1.png" group-title="SPAIN",ES: VH1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5749.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/viajar-es.png" group-title="SPAIN",ES: VIAJAR
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5750.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/xtrm-es.png" group-title="SPAIN",ES: XTRM
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5751.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/etb2-es.png" group-title="SPAIN",ES: ETB 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5759.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/etb1-es.png" group-title="SPAIN",ES: ETB 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5760.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER PRESENTATION" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER PRESENTATION
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5763.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 11 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 11 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5764.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 12 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 12 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5765.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 13 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 13 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5766.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 14 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 14 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5767.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 15 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 15 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5768.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 16 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 16 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5769.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 17 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 17 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5770.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ALQUILER 18 (MULTIAUDIO)" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 18 (MULTIAUDIO)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/5771.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PPV 1 (LIVE EVENT)" tvg-logo="https://docdog.top/Logotv/countries//ppvevents.png" group-title="SPAIN",ES: PPV 1 (LIVE EVENT)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/24103.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PPV 3 (LIVE EVENT)" tvg-logo="https://docdog.top/Logotv/countries//ppvevents.png" group-title="SPAIN",ES: PPV 3 (LIVE EVENT)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/24104.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PPV 4 (LIVE EVENT)" tvg-logo="https://docdog.top/Logotv/countries//ppvevents.png" group-title="SPAIN",ES: PPV 4 (LIVE EVENT)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/24105.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PPV 5 (LIVE EVENT)" tvg-logo="https://docdog.top/Logotv/countries//ppvevents.png" group-title="SPAIN",ES: PPV 5 (LIVE EVENT)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/24106.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PPV 2 (LIVE EVENT)" tvg-logo="https://docdog.top/Logotv/countries//ppvevents.png" group-title="SPAIN",ES: PPV 2 (LIVE EVENT)
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/24107.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CNN" tvg-logo="https://docdog.top/Logotv/countries/spain/CNN.png" group-title="SPAIN",ES: CNN
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25923.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 324" tvg-logo="https://docdog.top/Logotv/countries/spain/324.png" group-title="SPAIN",ES: 324
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25924.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: À Punt" tvg-logo="https://docdog.top/Logotv/countries/spain/A_Punt.png" group-title="SPAIN",ES: À Punt
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25925.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Break" tvg-logo="https://docdog.top/Logotv/countries/spain/AMC_Break.png" group-title="SPAIN",ES: AMC Break
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25926.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Crime" tvg-logo="https://docdog.top/Logotv/countries/spain/AMC_Crime.png" group-title="SPAIN",ES: AMC Crime
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25927.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Betevé" tvg-logo="https://docdog.top/Logotv/countries/spain/Beteve.png" group-title="SPAIN",ES: Betevé
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25928.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Castilla La Mancha Media" tvg-logo="https://docdog.top/Logotv/countries/spain/Castilla_la_Mancha_TV.png" group-title="SPAIN",ES: Castilla La Mancha Media
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25929.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dark" tvg-logo="https://docdog.top/Logotv/countries/spain/DARK.png" group-title="SPAIN",ES: Dark
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25930.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: El Toro TV" tvg-logo="https://docdog.top/Logotv/countries/spain/El_Toro_TV.png" group-title="SPAIN",ES: El Toro TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25932.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Esport 3 CAT" tvg-logo="https://docdog.top/Logotv/countries/spain/Esport_3.png" group-title="SPAIN",ES: Esport 3 CAT
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25933.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB Basque" tvg-logo="https://docdog.top/Logotv/countries/spain/ETB_Basque.png" group-title="SPAIN",ES: ETB Basque
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25934.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Euronews" tvg-logo="https://docdog.top/Logotv/countries/spain/Euronews.png" group-title="SPAIN",ES: Euronews
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25935.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Horse TV" tvg-logo="https://docdog.top/Logotv/countries/spain/Horse_TV.png" group-title="SPAIN",ES: Horse TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25936.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 7" tvg-logo="https://docdog.top/Logotv/countries/spain/La_7.png" group-title="SPAIN",ES: La 7
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25937.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Resistencia" tvg-logo="https://docdog.top/Logotv/countries/spain/La_Resistencia.png" group-title="SPAIN",ES: La Resistencia
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25938.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Otra" tvg-logo="https://docdog.top/Logotv/countries/spain/La_Otra.png" group-title="SPAIN",ES: La Otra
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25939.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Cracks" tvg-logo="https://docdog.top/Logotv/countries/spain/M_Cracks.png" group-title="SPAIN",ES: M+ Cracks
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25940.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV 00s" tvg-logo="https://docdog.top/Logotv/countries/spain/MTV_00s.png" group-title="SPAIN",ES: MTV 00s
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25941.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sol Music" tvg-logo="https://docdog.top/Logotv/countries/spain/Sol_Musica.png" group-title="SPAIN",ES: Sol Music
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25942.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Telesur" tvg-logo="https://docdog.top/Logotv/countries/spain/Telesur.png" group-title="SPAIN",ES: Telesur
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25943.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Musigal" tvg-logo="" group-title="SPAIN",ES: TVG Musigal
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25944.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Momentos G" tvg-logo="" group-title="SPAIN",ES: TVG Momentos G
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25945.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Infantil" tvg-logo="" group-title="SPAIN",ES: TVG Infantil
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25946.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Eventos 2" tvg-logo="" group-title="SPAIN",ES: TVG Eventos 2
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25947.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Eventos 1" tvg-logo="" group-title="SPAIN",ES: TVG Eventos 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25948.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG Cultura" tvg-logo="" group-title="SPAIN",ES: TVG Cultura
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25949.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG América" tvg-logo="" group-title="SPAIN",ES: TVG América
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25950.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: U-Beat" tvg-logo="" group-title="SPAIN",ES: U-Beat
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25951.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Atreseries" tvg-logo="https://docdog.top/Logotv/countries/spain/Atreseries.png" group-title="SPAIN",ES: Atreseries
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25952.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Smartbank TV" tvg-logo="" group-title="SPAIN SPORT",ES: M+ LaLiga Smartbank TV
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25953.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLiga Smartbank TV 1" tvg-logo="" group-title="SPAIN SPORT",ES: M+ LaLiga Smartbank TV 1
+http://test.heistmoi.cfd:8080/live/1461666088249462/3831666088249462/25954.ts
