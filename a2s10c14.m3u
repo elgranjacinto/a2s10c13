@@ -143,7 +143,6 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/301.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/302.ts
 #EXTINF:-1 group-title="TDT",NOVA FHD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1501.ts
-
 #EXTINF:-1 group-title="LA LIGA",DAZN LaLiga SD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1774.ts
 #EXTINF:-1 group-title="LA LIGA",DAZN LaLiga HD
@@ -204,7 +203,6 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/196.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/197.ts
 #EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD 5
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/198.ts
-
 #EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES SD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/200.ts
 #EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES HD Option1
@@ -231,7 +229,6 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/213.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1503.ts
 #EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 5 HD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1502.ts
-
 #EXTINF:-1 group-title="DAZN-MOTOR",DAZN F1 SD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/226.ts
 #EXTINF:-1 group-title="DAZN-MOTOR",DAZN F1 HD
@@ -262,8 +259,6 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/223.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/224.ts
 #EXTINF:-1 group-title="DAZN-MOTOR",DAZN 4 FHD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/225.ts
-
-
 #EXTINF:-1 group-title="DEPORTES",M+ VAMOS SD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/229.ts
 #EXTINF:-1 group-title="DEPORTES",M+ VAMOS HD
@@ -322,7 +317,7 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/256.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/258.ts
 #EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 6 HD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/259.ts
-#EXTINF:-1 group-title="DEPORTES",M+DEPORTES7
+#EXTINF:-1 group-title="DEPORTES",M+DEPORTES 7
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/371.ts
 #EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 7 HD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/372.ts
@@ -362,8 +357,6 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/315.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/316.ts
 #EXTINF:-1 group-title="DEPORTES",Horse TV FHD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/317.ts
-
-
 #EXTINF:-1 group-title="DOCUMENTALES/OCIO",NAT GEO SD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/273.ts
 #EXTINF:-1 group-title="DOCUMENTALES/OCIO",NAT GEO HD
@@ -432,7 +425,6 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/319.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1506.ts
 #EXTINF:-1 group-title="DOCUMENTALES/OCIO",IBERALIA FHD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1504.ts
-
 #EXTINF:-1 group-title="24/7",Xena La Princesa Guerrera 24/7
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1839.ts
 #EXTINF:-1 group-title="24/7",El Principe de Bel Air Temp 1 24/7
@@ -479,7 +471,6 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1864.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1865.ts
 #EXTINF:-1 group-title="24/7",Caballeros del Zodiaco Hades HD (115-145) 24/7
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1866.ts
-
 #EXTINF:-1 group-title="CANALES DE CINE",Prair TV BOX OFFICE 1HD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1867.ts
 #EXTINF:-1 group-title="CANALES DE CINE",Prair TV BOX OFFICE 2HD
@@ -642,7 +633,7 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/132.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/133.ts
 #EXTINF:-1 group-title="CANALES DE CINE",CALLE 13 FHD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/134.ts
-#EXTINF:-1,SUNDANCE SD
+#EXTINF:-1 group-title="CANALES DE CINE",SUNDANCE SD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/135.ts
 #EXTINF:-1 group-title="CANALES DE CINE",SUNDANCE HD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/136.ts
@@ -712,7 +703,6 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/279.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/280.ts
 #EXTINF:-1 group-title="CANALES DE CINE",SOMOS FHD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/281.ts
-
 #EXTINF:-1 group-title="INFANTIL",M+ DREAMWORKS SD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/336.ts
 #EXTINF:-1 group-title="INFANTIL",M+ DREAMWORKS HD
@@ -765,7 +755,6 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/359.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/360.ts
 #EXTINF:-1 group-title="INFANTIL",Pequeradio
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/65.ts
-
 #EXTINF:-1 group-title="MUSICA",MTV SD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/327.ts
 #EXTINF:-1 group-title="MUSICA",MTV HD
@@ -776,7 +765,6 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/329.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/330.ts
 #EXTINF:-1 group-title="MUSICA",M+ SOL MUSICA FHD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/331.ts
-
 #EXTINF:-1 group-title="OTROS",LA RESISTENCIA SD
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/176.ts
 #EXTINF:-1 group-title="OTROS",M+ RESISTENCIA HD
@@ -813,7 +801,3 @@ http://a2.7sbpp.top:80/live/y2132/k87nyu67j/289.ts
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/290.ts
 #EXTINF:-1 group-title="OTROS",M+ ELLAS
 http://a2.7sbpp.top:80/live/y2132/k87nyu67j/1500.ts
-
-
-
-
