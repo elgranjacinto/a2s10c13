@@ -1,112 +1,847 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIGA",Dazn Liga 1080 MultiAudio
+#EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 MultiAudio
 ACESTREAM://df98650743f24a245c44cdf2851e57078f4c487a
-#EXTINF:-1 group-title="LIGA",Dazn Liga 1080 MultiAudio opc-1
+#EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 MultiAudio opc-1
 ACESTREAM://fee5612d57824b6e8db780f210ec54093056dc3a
-#EXTINF:-1 group-title="LIGA",Dazn Liga 1080 MultiAudio opc-2
+#EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 MultiAudio opc-2
 ACESTREAM://c72263175266c90d376dcb8607c28e02939c1873
-#EXTINF:-1 group-title="LIGA",Dazn Liga 720 
+#EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 720 
 ACESTREAM://c35d2207792128fc0ae49c40e885c463f664dbce
-#EXTINF:-1 group-title="LIGA",LaLiga Tv Bar 1080
+#EXTINF:-1 group-title="LIGA-ACE",LaLiga Tv Bar 1080
 ACESTREAM://01b333b9369c662775902638ef8cffac346a0f61
-#EXTINF:-1 group-title="LIGA",LaLiga 720
+#EXTINF:-1 group-title="LIGA-ACE",LaLiga 720
 ACESTREAM://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
-#EXTINF:-1 group-title="LIGA",M.LaLiga 1080 MultiAudio
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 1080 MultiAudio
 ACESTREAM://167e3b44a520cd76d4372f6d30fe6d7ccd524175
-#EXTINF:-1 group-title="LIGA",M.LaLiga 1080 MultiAudio opc-1
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 1080 MultiAudio opc-1
 ACESTREAM://684e5c085484e8ea79858713eeb7a3668baca29e
-#EXTINF:-1 group-title="LIGA",M.LaLiga 1080
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 1080
 ACESTREAM://c22bfcc2a70b2a3f447d9b30c52e617946b03888
-#EXTINF:-1 group-title="LIGA",M.LaLiga 720
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 720
 ACESTREAM://df139bbcd7ae6825b46d5955c52d639f1215346a
-#EXTINF:-1 group-title="LIGA",M.LaLiga 2 1080
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 2 1080
 ACESTREAM://4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF:-1 group-title="LIGA",Liga Smartbank 1080 multiaudio
+#EXTINF:-1 group-title="LIGA-ACE",Liga Smartbank 1080 multiaudio
 ACESTREAM://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
-#EXTINF:-1 group-title="LIGA",Liga Smartbank 1 1080
+#EXTINF:-1 group-title="LIGA-ACE",Liga Smartbank 1 1080
 ACESTREAM://d475208e72b5a343080afa0724c7b7c42264b9a0
-#EXTINF:-1 group-title="LIGA",GOL TV 1080
+#EXTINF:-1 group-title="LIGA-ACE",GOL TV 1080
 ACESTREAM://49c35606668ebf7a895434ec4c9243a163d87718
 
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES HD
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES HD
 ACESTREAM://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 1080 MultiAudio
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 1080 MultiAudio
 ACESTREAM://aedf221240a0f8513d90b555bf1b6e5306ac1e76
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 1080
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 1080
 ACESTREAM://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 720
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 720
 ACESTREAM://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES MULTICHAMPIONS
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES MULTICHAMPIONS
 ACESTREAM://f2b785193cfa99c581287be39e2fb5a73827957b
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 2 1080p
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 2 1080p
 acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 2 720p
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 2 720p
 acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 3 1080
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 3 1080
 ACESTREAM://f2b785193cfa99c581287be39e2fb5a73827957b
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 3 720
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 3 720
 ACESTREAM://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 4 SD
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 4 SD
 ACESTREAM://8a9018cccaa36014ab0f050e5132d5ee264f7737
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 5 SD
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 5 SD
 ACESTREAM://662cceb5a2b23f2150172df24247fa220d8d95d4
-#EXTINF:-1 group-title="CHAMPIONS",M+ Liga de Campeones 6 SD
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ Liga de Campeones 6 SD
 acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913
 #EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 7 SD
 ACESTREAM://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 8 SD
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 8 SD
 ACESTREAM://fdd9e3660059051660dbd7857443c2b807f258d0
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 9 SD
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 9 SD
 ACESTREAM://69c95dc47b35dde559a6ef025c1b91c89646a17f
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 10 SD
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 10 SD
 ACESTREAM://df67afe5c5f5e82a3ae629d126727b006b65e676
-#EXTINF:-1 group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 11 SD
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 11 SD
 ACESTREAM://57e284a3c13100baeff7a88dc50949585c9f1277
 
-#EXTINF:-1 group-title="F1",DAZN F1 1080
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 1080
 ACESTREAM://cbf281d5e481697aa4184fe1de5e069928c95057
-#EXTINF:-1 group-title="F1",DAZN F1 1080 opc-1
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 1080 opc-1
 ACESTREAM://c372020ed2744033f56548b6beb11a9f3e740f37
-#EXTINF:-1 group-title="F1",DAZN F1 1080 opc-2
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 1080 opc-2
 ACESTREAM://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
-#EXTINF:-1 group-title="F1",DAZN F1 720
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 720
 ACESTREAM://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
 
-#EXTINF:-1 group-title="DEPORTES",M. Vamos 1080
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Vamos 1080
 ACESTREAM://069431a1199eb2545a14c0a724095e57bdc58e9c
-#EXTINF:-1 group-title="DEPORTES",M. Deportes 21080
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 21080
 ACESTREAM://c47f756750190e4b2a9eefe8afdac48a2203b8d6
-#EXTINF:-1 group-title="DEPORTES",M. Deportes 3 1080
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 3 1080
 ACESTREAM://85bd65161dfd8c4033194da3c978c0450c9111db
-#EXTINF:-1 group-title="DEPORTES",M. Deportes 4 1080
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 4 1080
 ACESTREAM://0c8935087510ee1c5117243a6cc46f9d6d795faf
-#EXTINF:-1 group-title="DEPORTES",M. Deportes 5 1080
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 5 1080
 ACESTREAM://478833f6390f04e95c6d94180a784b78ad540d2f
-#EXTINF:-1 group-title="DEPORTES",M. Deportes 8 SD
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 8 SD
 ACESTREAM://b779e6056975e3682a804d47cbd5cc806217f64d
-#EXTINF:-1 group-title="DEPORTES",DAZN 1 1080
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 1 1080
 ACESTREAM://d4d4200a1e52fc23940b2dde915600af7e9a6b05
-#EXTINF:-1 group-title="DEPORTES",DAZN 1 720
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 1 720
 ACESTREAM://9f27ea73230f9c65034601636dbfe39de43a8212
-#EXTINF:-1 group-title="DEPORTES",DAZN 2 1080
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 2 1080
 ACESTREAM://42fea4e172bf3debe0e004260bdd077fe0b4f58e
-#EXTINF:-1 group-title="DEPORTES",DAZN 2 720
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 2 720
 ACESTREAM://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf
-#EXTINF:-1 group-title="DEPORTES",DAZN 3 1080
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 3 1080
 ACESTREAM://bfbcda5a0999256360ce560caf2a6473aafc3f11
-#EXTINF:-1 group-title="DEPORTES",DAZN 4 1080
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 4 1080
 ACESTREAM://a0465ef421f30d0c68ff706654147762ec7b6c03
-#EXTINF:-1 group-title="DEPORTES",eurosport 1 1080
+#EXTINF:-1 group-title="DEPORTES-ACE",eurosport 1 1080
 ACESTREAM://40da37534656efcc6179c1b7693335d5e8212e43
-#EXTINF:-1 group-title="DEPORTES",eurosport 2 1080
+#EXTINF:-1 group-title="DEPORTES-ACE",eurosport 2 1080
 ACESTREAM://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
-#EXTINF:-1 group-title="DEPORTES",tdp 1080 (TeleDeporte) 
+#EXTINF:-1 group-title="DEPORTES-ACE",tdp 1080 (TeleDeporte) 
 ACESTREAM://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
-#EXTINF:-1 group-title="TDT",LA 1 1080
+#EXTINF:-1 group-title="TDT-ACE",LA 1 1080
 ACESTREAM://b41d52a733be6f4709db3bdf33e260de2b67d27a
-#EXTINF:-1 group-title="TDT",CUATRO 1080
+#EXTINF:-1 group-title="TDT-ACE",CUATRO 1080
 ACESTREAM://e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 group-title="TDT",TeleCinco 1080
+#EXTINF:-1 group-title="TDT-ACE",TeleCinco 1080
 ACESTREAM://cbf281d5e481697aa4184fe1de5e069928c95057
+
+
+
+
+#EXTINF:-1 group-title="LA LIGA",DAZN LaLiga SD
+http://cc.userport.top:80/live/xp879637/225650/1774.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LaLiga HD
+http://cc.userport.top:80/live/xp879637/225650/1775.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LA LIGA FHD
+http://cc.userport.top:80/live/xp879637/225650/1888.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LA LIGA 2 SD
+http://cc.userport.top:80/live/xp879637/225650/1781.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LA LIGA 2 HD
+http://cc.userport.top:80/live/xp879637/225650/1780.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LaLiga2 FHD
+http://cc.userport.top:80/live/xp879637/225650/1769.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank FHD
+http://cc.userport.top:80/live/xp879637/225650/1772.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank1 FHD
+http://cc.userport.top:80/live/xp879637/225650/1773.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank1 HD
+http://cc.userport.top:80/live/xp879637/225650/1776.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank1 SD
+http://cc.userport.top:80/live/xp879637/225650/1777.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank HD
+http://cc.userport.top:80/live/xp879637/225650/1778.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank SD
+http://cc.userport.top:80/live/xp879637/225650/1779.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA SD
+http://cc.userport.top:80/live/xp879637/225650/182.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD
+http://cc.userport.top:80/live/xp879637/225650/183.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA FHD
+http://cc.userport.top:80/live/xp879637/225650/184.ts
+#EXTINF:-1 group-title="LA LIGA",M+LA LIGA 1 SD
+http://cc.userport.top:80/live/xp879637/225650/185.ts
+#EXTINF:-1 group-title="LA LIGA",M+LA LIGA 1 HD
+http://cc.userport.top:80/live/xp879637/225650/186.ts
+#EXTINF:-1 group-title="LA LIGA",M+LA LIGA 1 FHD
+http://cc.userport.top:80/live/xp879637/225650/187.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA SD 2
+http://cc.userport.top:80/live/xp879637/225650/188.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD 2
+http://cc.userport.top:80/live/xp879637/225650/189.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA FHD 2
+http://cc.userport.top:80/live/xp879637/225650/190.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA SD 3
+http://cc.userport.top:80/live/xp879637/225650/191.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD 3
+http://cc.userport.top:80/live/xp879637/225650/192.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA FHD 3
+http://cc.userport.top:80/live/xp879637/225650/193.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA SD 4
+http://cc.userport.top:80/live/xp879637/225650/194.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD 4
+http://cc.userport.top:80/live/xp879637/225650/195.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA FHD 4
+http://cc.userport.top:80/live/xp879637/225650/196.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA SD 5
+http://cc.userport.top:80/live/xp879637/225650/197.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD 5
+http://cc.userport.top:80/live/xp879637/225650/198.ts
+#EXTINF:-1 group-title="LA LIGA",M+LA LIGA 4k
+http://cc.userport.top:80/live/xp879637/225650/1782.ts
+
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES SD
+http://cc.userport.top:80/live/xp879637/225650/200.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES HD Option1
+http://cc.userport.top:80/live/xp879637/225650/201.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES FHD
+http://cc.userport.top:80/live/xp879637/225650/202.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 SD
+http://cc.userport.top:80/live/xp879637/225650/206.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 HD
+http://cc.userport.top:80/live/xp879637/225650/207.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 FHD
+http://cc.userport.top:80/live/xp879637/225650/208.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 SD
+http://cc.userport.top:80/live/xp879637/225650/209.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 HD
+http://cc.userport.top:80/live/xp879637/225650/210.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 FHD
+http://cc.userport.top:80/live/xp879637/225650/211.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 4 SD
+http://cc.userport.top:80/live/xp879637/225650/212.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 4 HD
+http://cc.userport.top:80/live/xp879637/225650/213.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 6 HD
+http://cc.userport.top:80/live/xp879637/225650/1503.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 5 HD
+http://cc.userport.top:80/live/xp879637/225650/1502.ts
+
+#EXTINF:-1 group-title="F1",DAZN F1 SD
+http://cc.userport.top:80/live/xp879637/225650/226.ts
+#EXTINF:-1 group-title="F1",DAZN F1 HD
+http://cc.userport.top:80/live/xp879637/225650/227.ts
+#EXTINF:-1 group-title="F1",DAZN F1 FHD
+http://cc.userport.top:80/live/xp879637/225650/228.ts
+
+#EXTINF:-1 group-title="DEPORTES",DAZN 1 SD
+http://cc.userport.top:80/live/xp879637/225650/214.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 1 HD
+http://cc.userport.top:80/live/xp879637/225650/215.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 1 FHD
+http://cc.userport.top:80/live/xp879637/225650/216.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 2 SD
+http://cc.userport.top:80/live/xp879637/225650/217.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 2 HD
+http://cc.userport.top:80/live/xp879637/225650/218.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 2 FHD
+http://cc.userport.top:80/live/xp879637/225650/219.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 3 SD
+http://cc.userport.top:80/live/xp879637/225650/220.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 3 HD
+http://cc.userport.top:80/live/xp879637/225650/221.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 3 FHD
+http://cc.userport.top:80/live/xp879637/225650/222.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 4 SD
+http://cc.userport.top:80/live/xp879637/225650/223.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 4 HD
+http://cc.userport.top:80/live/xp879637/225650/224.ts
+#EXTINF:-1 group-title="DEPORTES",DAZN 4 FHD
+http://cc.userport.top:80/live/xp879637/225650/225.ts
+#EXTINF:-1 group-title="DEPORTES",M+ VAMOS SD
+http://cc.userport.top:80/live/xp879637/225650/229.ts
+#EXTINF:-1 group-title="DEPORTES",M+ VAMOS HD
+http://cc.userport.top:80/live/xp879637/225650/230.ts
+#EXTINF:-1 group-title="DEPORTES",M+ VAMOS FHD
+http://cc.userport.top:80/live/xp879637/225650/231.ts
+#EXTINF:-1 group-title="DEPORTES",BARCA TV FHD
+http://cc.userport.top:80/live/xp879637/225650/232.ts
+#EXTINF:-1 group-title="DEPORTES",Real Madrid TV HD
+http://cc.userport.top:80/live/xp879637/225650/233.ts
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 1 SD
+http://cc.userport.top:80/live/xp879637/225650/234.ts
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 1 HD
+http://cc.userport.top:80/live/xp879637/225650/235.ts
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 1 FHD
+http://cc.userport.top:80/live/xp879637/225650/236.ts
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 SD
+http://cc.userport.top:80/live/xp879637/225650/237.ts
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 HD
+http://cc.userport.top:80/live/xp879637/225650/238.ts
+#EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 FHD
+http://cc.userport.top:80/live/xp879637/225650/239.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES SD
+http://cc.userport.top:80/live/xp879637/225650/240.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES HD
+http://cc.userport.top:80/live/xp879637/225650/241.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES FHD
+http://cc.userport.top:80/live/xp879637/225650/242.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 1 SD
+http://cc.userport.top:80/live/xp879637/225650/243.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 1 HD
+http://cc.userport.top:80/live/xp879637/225650/244.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 1 FHD
+http://cc.userport.top:80/live/xp879637/225650/245.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 2 SD
+http://cc.userport.top:80/live/xp879637/225650/246.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 2 HD
+http://cc.userport.top:80/live/xp879637/225650/247.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 2 FHD
+http://cc.userport.top:80/live/xp879637/225650/248.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 3 SD
+http://cc.userport.top:80/live/xp879637/225650/249.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 3 HD
+http://cc.userport.top:80/live/xp879637/225650/250.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 3 FHD
+http://cc.userport.top:80/live/xp879637/225650/251.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 4 SD
+http://cc.userport.top:80/live/xp879637/225650/252.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 4 HD
+http://cc.userport.top:80/live/xp879637/225650/253.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 5 SD
+http://cc.userport.top:80/live/xp879637/225650/255.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 5 HD
+http://cc.userport.top:80/live/xp879637/225650/256.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 6 SD
+http://cc.userport.top:80/live/xp879637/225650/258.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 6 HD
+http://cc.userport.top:80/live/xp879637/225650/259.ts
+#EXTINF:-1 group-title="DEPORTES",M+DEPORTES7
+http://cc.userport.top:80/live/xp879637/225650/371.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 7 HD
+http://cc.userport.top:80/live/xp879637/225650/372.ts
+#EXTINF:-1 group-title="DEPORTES",M+ DEPORTES 7 FHD
+http://cc.userport.top:80/live/xp879637/225650/373.ts
+#EXTINF:-1 group-title="DEPORTES",LA LIGA TV BAR HD
+http://cc.userport.top:80/live/xp879637/225650/266.ts
+#EXTINF:-1 group-title="DEPORTES",LA LIGA TV BAR FHD
+http://cc.userport.top:80/live/xp879637/225650/199.ts
+#EXTINF:-1 group-title="DEPORTES",TELEDEPORTE SD
+http://cc.userport.top:80/live/xp879637/225650/263.ts
+#EXTINF:-1 group-title="DEPORTES",TELEDEPORTE HD
+http://cc.userport.top:80/live/xp879637/225650/264.ts
+#EXTINF:-1 group-title="DEPORTES",TELEDEPORTE FHD
+http://cc.userport.top:80/live/xp879637/225650/265.ts
+#EXTINF:-1 group-title="DEPORTES",M+ GOLF SD
+http://cc.userport.top:80/live/xp879637/225650/260.ts
+#EXTINF:-1 group-title="DEPORTES",M+ GOLF HD
+http://cc.userport.top:80/live/xp879637/225650/261.ts
+#EXTINF:-1 group-title="DEPORTES",M+ GOLF FHD
+http://cc.userport.top:80/live/xp879637/225650/262.ts
+#EXTINF:-1 group-title="DEPORTES",GOL SD
+http://cc.userport.top:80/live/xp879637/225650/267.ts
+#EXTINF:-1 group-title="DEPORTES",GOL HD
+http://cc.userport.top:80/live/xp879637/225650/268.ts
+#EXTINF:-1 group-title="DEPORTES",GOL FHD
+http://cc.userport.top:80/live/xp879637/225650/269.ts
+
+#EXTINF:-1 group-title="TDT",LA 1 SD
+http://cc.userport.top:80/live/xp879637/225650/1.ts
+#EXTINF:-1 group-title="TDT",LA 1 HD
+http://cc.userport.top:80/live/xp879637/225650/2.ts
+#EXTINF:-1 group-title="TDT",LA 1 FHD
+http://cc.userport.top:80/live/xp879637/225650/3.ts
+#EXTINF:-1 group-title="TDT",LA 2 SD
+http://cc.userport.top:80/live/xp879637/225650/4.ts
+#EXTINF:-1 group-title="TDT",LA 2 HD
+http://cc.userport.top:80/live/xp879637/225650/5.ts
+#EXTINF:-1 group-title="TDT",LA 2 FHD
+http://cc.userport.top:80/live/xp879637/225650/6.ts
+#EXTINF:-1 group-title="TDT",ANTENA 3 SD
+http://cc.userport.top:80/live/xp879637/225650/7.ts
+#EXTINF:-1 group-title="TDT",ANTENA 3 HD
+http://cc.userport.top:80/live/xp879637/225650/8.ts
+#EXTINF:-1 group-title="TDT",ANTENA 3 FHD
+http://cc.userport.top:80/live/xp879637/225650/9.ts
+#EXTINF:-1 group-title="TDT",CUATRO SD
+http://cc.userport.top:80/live/xp879637/225650/10.ts
+#EXTINF:-1 group-title="TDT",CUATRO HD
+http://cc.userport.top:80/live/xp879637/225650/11.ts
+#EXTINF:-1 group-title="TDT",CUATRO FHD
+http://cc.userport.top:80/live/xp879637/225650/12.ts
+#EXTINF:-1 group-title="TDT",TELECINCO SD
+http://cc.userport.top:80/live/xp879637/225650/13.ts
+#EXTINF:-1 group-title="TDT",TELECINCO HD
+http://cc.userport.top:80/live/xp879637/225650/14.ts
+#EXTINF:-1 group-title="TDT",TELECINCO FHD
+http://cc.userport.top:80/live/xp879637/225650/15.ts
+#EXTINF:-1 group-title="TDT",LA SEXTA SD
+http://cc.userport.top:80/live/xp879637/225650/16.ts
+#EXTINF:-1 group-title="TDT",LA SEXTA HD
+http://cc.userport.top:80/live/xp879637/225650/17.ts
+#EXTINF:-1 group-title="TDT",LA SEXTA FHD
+http://cc.userport.top:80/live/xp879637/225650/18.ts
+#EXTINF:-1 group-title="TDT",24 HORAS SD
+http://cc.userport.top:80/live/xp879637/225650/19.ts
+#EXTINF:-1 group-title="TDT",24 HORAS HD
+http://cc.userport.top:80/live/xp879637/225650/20.ts
+#EXTINF:-1 group-title="TDT",TELEMADRID SD
+http://cc.userport.top:80/live/xp879637/225650/21.ts
+#EXTINF:-1 group-title="TDT",TELEMADRID HD
+http://cc.userport.top:80/live/xp879637/225650/22.ts
+#EXTINF:-1 group-title="TDT",TELEMADRID FHD
+http://cc.userport.top:80/live/xp879637/225650/23.ts
+#EXTINF:-1 group-title="TDT",TVG
+http://cc.userport.top:80/live/xp879637/225650/24.ts
+#EXTINF:-1 group-title="TDT",TVG 2
+http://cc.userport.top:80/live/xp879637/225650/25.ts
+#EXTINF:-1 group-title="TDT",TVG MOMENTO
+http://cc.userport.top:80/live/xp879637/225650/26.ts
+#EXTINF:-1 group-title="TDT",TVG EUROPA
+http://cc.userport.top:80/live/xp879637/225650/27.ts
+#EXTINF:-1 group-title="TDT",TVG AMERICA
+http://cc.userport.top:80/live/xp879637/225650/28.ts
+#EXTINF:-1 group-title="TDT",TVG EVENTO 1
+http://cc.userport.top:80/live/xp879637/225650/29.ts
+#EXTINF:-1 group-title="TDT",TVG Musigal
+http://cc.userport.top:80/live/xp879637/225650/30.ts
+#EXTINF:-1 group-title="TDT",ETB 1
+http://cc.userport.top:80/live/xp879637/225650/31.ts
+#EXTINF:-1 group-title="TDT",ETB 2
+http://cc.userport.top:80/live/xp879637/225650/32.ts
+#EXTINF:-1 group-title="TDT",TV3CAT
+http://cc.userport.top:80/live/xp879637/225650/33.ts
+#EXTINF:-1 group-title="TDT",TV3 Catalunya HD
+http://cc.userport.top:80/live/xp879637/225650/34.ts
+#EXTINF:-1 group-title="TDT",EURONEWS EN ESPAÑOL
+http://cc.userport.top:80/live/xp879637/225650/37.ts
+#EXTINF:-1 group-title="TDT",TV GIRONA
+http://cc.userport.top:80/live/xp879637/225650/38.ts
+#EXTINF:-1 group-title="TDT",101TV Malaga
+http://cc.userport.top:80/live/xp879637/225650/40.ts
+#EXTINF:-1 group-title="TDT",Canal Parlamento
+http://cc.userport.top:80/live/xp879637/225650/41.ts
+#EXTINF:-1 group-title="TDT",7 Televisión Región de Murcia
+http://cc.userport.top:80/live/xp879637/225650/42.ts
+#EXTINF:-1 group-title="TDT",Hamaika Telebista
+http://cc.userport.top:80/live/xp879637/225650/43.ts
+#EXTINF:-1 group-title="TDT",Interalmeria TV
+http://cc.userport.top:80/live/xp879637/225650/44.ts
+#EXTINF:-1 group-title="TDT",TVM Córdoba
+http://cc.userport.top:80/live/xp879637/225650/46.ts
+#EXTINF:-1 group-title="TDT",Ribera TV
+http://cc.userport.top:80/live/xp879637/225650/47.ts
+#EXTINF:-1 group-title="TDT",Bon Dia TV
+http://cc.userport.top:80/live/xp879637/225650/48.ts
+#EXTINF:-1 group-title="TDT",Televisión de Galicia América
+http://cc.userport.top:80/live/xp879637/225650/49.ts
+#EXTINF:-1 group-title="TDT",Tv Galicia
+http://cc.userport.top:80/live/xp879637/225650/50.ts
+#EXTINF:-1 group-title="TDT",101 Tele Antequera
+http://cc.userport.top:80/live/xp879637/225650/53.ts
+#EXTINF:-1 group-title="TDT",Solidaria TV
+http://cc.userport.top:80/live/xp879637/225650/55.ts
+#EXTINF:-1 group-title="TDT",Canal Extremadura
+http://cc.userport.top:80/live/xp879637/225650/56.ts
+#EXTINF:-1 group-title="TDT",CANAL COSTA TV
+http://cc.userport.top:80/live/xp879637/225650/57.ts
+#EXTINF:-1 group-title="TDT",LA 7
+http://cc.userport.top:80/live/xp879637/225650/58.ts
+#EXTINF:-1 group-title="TDT",Costa del Sol TV
+http://cc.userport.top:80/live/xp879637/225650/61.ts
+#EXTINF:-1 group-title="TDT",Canal San Roque
+http://cc.userport.top:80/live/xp879637/225650/62.ts
+#EXTINF:-1 group-title="TDT",Popular TV Cantabria
+http://cc.userport.top:80/live/xp879637/225650/63.ts
+#EXTINF:-1 group-title="TDT",Onda Algeciras Televisión
+http://cc.userport.top:80/live/xp879637/225650/64.ts
+#EXTINF:-1 group-title="TDT",Radio Televisión Melilla
+http://cc.userport.top:80/live/xp879637/225650/66.ts
+#EXTINF:-1 group-title="TDT",RTVC
+http://cc.userport.top:80/live/xp879637/225650/67.ts
+#EXTINF:-1 group-title="TDT",Canal Sur Andalucía HD
+http://cc.userport.top:80/live/xp879637/225650/68.ts
+#EXTINF:-1 group-title="TDT",TV Melilla
+http://cc.userport.top:80/live/xp879637/225650/71.ts
+#EXTINF:-1 group-title="TDT",ENERGY HD
+http://cc.userport.top:80/live/xp879637/225650/157.ts
+#EXTINF:-1 group-title="TDT",FDF SD
+http://cc.userport.top:80/live/xp879637/225650/158.ts
+#EXTINF:-1 group-title="TDT",FDF HD
+http://cc.userport.top:80/live/xp879637/225650/159.ts
+#EXTINF:-1 group-title="TDT",NEOX SD
+http://cc.userport.top:80/live/xp879637/225650/165.ts
+#EXTINF:-1 group-title="TDT",NEOX HD
+http://cc.userport.top:80/live/xp879637/225650/166.ts
+#EXTINF:-1 group-title="TDT",DIVINITY SD
+http://cc.userport.top:80/live/xp879637/225650/167.ts
+#EXTINF:-1 group-title="TDT",DIVINITY HD
+http://cc.userport.top:80/live/xp879637/225650/168.ts
+#EXTINF:-1 group-title="TDT",NOVA SD
+http://cc.userport.top:80/live/xp879637/225650/169.ts
+#EXTINF:-1 group-title="TDT",NOVA HD
+http://cc.userport.top:80/live/xp879637/225650/170.ts
+#EXTINF:-1 group-title="TDT",MEGA SD
+http://cc.userport.top:80/live/xp879637/225650/300.ts
+#EXTINF:-1 group-title="TDT",MEGA HD
+http://cc.userport.top:80/live/xp879637/225650/301.ts
+#EXTINF:-1 group-title="TDT",MEGA FHD
+http://cc.userport.top:80/live/xp879637/225650/302.ts
+#EXTINF:-1 group-title="TDT",NOVA FHD
+http://cc.userport.top:80/live/xp879637/225650/1501.ts
+
+#EXTINF:-1 group-title="MUSICA",MTV SD
+http://cc.userport.top:80/live/xp879637/225650/327.ts
+#EXTINF:-1 group-title="MUSICA",MTV HD
+http://cc.userport.top:80/live/xp879637/225650/328.ts
+#EXTINF:-1 group-title="MUSICA",M+ SOL MUSICA SD
+http://cc.userport.top:80/live/xp879637/225650/329.ts
+#EXTINF:-1 group-title="MUSICA",M+ SOL MUSICA HD
+http://cc.userport.top:80/live/xp879637/225650/330.ts
+#EXTINF:-1 group-title="MUSICA",M+ SOL MUSICA FHD
+http://cc.userport.top:80/live/xp879637/225650/331.ts
+
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",M+ NAUTICAL SD
+http://cc.userport.top:80/live/xp879637/225650/270.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",M+ NAUTICAL HD
+http://cc.userport.top:80/live/xp879637/225650/271.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",M+ NAUTICAL FHD
+http://cc.userport.top:80/live/xp879637/225650/272.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",NAT GEO SD
+http://cc.userport.top:80/live/xp879637/225650/273.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",NAT GEO HD
+http://cc.userport.top:80/live/xp879637/225650/274.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",NAT GEO FHD
+http://cc.userport.top:80/live/xp879637/225650/275.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",CRIMEN+ INVESTIGACION SD
+http://cc.userport.top:80/live/xp879637/225650/276.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",AMC CRIMEN HD
+http://cc.userport.top:80/live/xp879637/225650/277.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",CRIMEN+ INVESTIGACION FHD
+http://cc.userport.top:80/live/xp879637/225650/278.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",DISCOVERY SD
+http://cc.userport.top:80/live/xp879637/225650/291.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",DISCOVERY HD
+http://cc.userport.top:80/live/xp879637/225650/292.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",DISCOVERY FHD
+http://cc.userport.top:80/live/xp879637/225650/293.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",NAT GEO WILD SD
+http://cc.userport.top:80/live/xp879637/225650/294.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",NAT GEO WILD HD
+http://cc.userport.top:80/live/xp879637/225650/295.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",NAT GEO WILD FHD
+http://cc.userport.top:80/live/xp879637/225650/296.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",BE MAD SD
+http://cc.userport.top:80/live/xp879637/225650/297.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",BE MAD HD
+http://cc.userport.top:80/live/xp879637/225650/298.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",BE MAD FHD
+http://cc.userport.top:80/live/xp879637/225650/299.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",ODISEA SD
+http://cc.userport.top:80/live/xp879637/225650/303.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",ODISEA HD
+http://cc.userport.top:80/live/xp879637/225650/304.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",ODISEA FHD
+http://cc.userport.top:80/live/xp879637/225650/305.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",HISTORIA SD
+http://cc.userport.top:80/live/xp879637/225650/306.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",HISTORIA HD
+http://cc.userport.top:80/live/xp879637/225650/307.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",HISTORIA FHD
+http://cc.userport.top:80/live/xp879637/225650/308.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",CAZA Y PESCA SD
+http://cc.userport.top:80/live/xp879637/225650/312.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",CAZA Y PESCA HD
+http://cc.userport.top:80/live/xp879637/225650/313.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",IBERALIA HD
+http://cc.userport.top:80/live/xp879637/225650/314.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",Horse TV SD
+http://cc.userport.top:80/live/xp879637/225650/315.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",Horse TV HD
+http://cc.userport.top:80/live/xp879637/225650/316.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",Horse TV FHD
+http://cc.userport.top:80/live/xp879637/225650/317.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",DMAX
+http://cc.userport.top:80/live/xp879637/225650/319.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",DMAX HD
+http://cc.userport.top:80/live/xp879637/225650/1506.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",AMC BREAK FHD
+http://cc.userport.top:80/live/xp879637/225650/1505.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",IBERALIA FHD
+http://cc.userport.top:80/live/xp879637/225650/1504.ts
+#EXTINF:-1 group-title="DOCUMENTALES-NATURALEZA",CAZA y PESCA FHD
+http://cc.userport.top:80/live/xp879637/225650/374.ts
+
+#EXTINF:-1 group-title="CASA-COCINA",CANAL DE CASA SD
+http://cc.userport.top:80/live/xp879637/225650/285.ts
+#EXTINF:-1 group-title="CASA-COCINA",CANAL DE CASA HD
+http://cc.userport.top:80/live/xp879637/225650/286.ts
+#EXTINF:-1 group-title="CASA-COCINA",CANAL DE CASA FHD
+http://cc.userport.top:80/live/xp879637/225650/287.ts
+#EXTINF:-1 group-title="CASA-COCINA",CANAL COCINA SD
+http://cc.userport.top:80/live/xp879637/225650/309.ts
+#EXTINF:-1 group-title="CASA-COCINA",CANAL COCINA HD
+http://cc.userport.top:80/live/xp879637/225650/310.ts
+#EXTINF:-1 group-title="CASA-COCINA",CANAL COCINA FHD
+http://cc.userport.top:80/live/xp879637/225650/311.ts
+
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV BOX OFFICE 1HD
+http://cc.userport.top:80/live/xp879637/225650/1867.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV BOX OFFICE 2HD
+http://cc.userport.top:80/live/xp879637/225650/1868.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV BOX OFFICE 3HD
+http://cc.userport.top:80/live/xp879637/225650/1869.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ACCION 1HD
+http://cc.userport.top:80/live/xp879637/225650/1870.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ACCION 2HD
+http://cc.userport.top:80/live/xp879637/225650/1871.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ACCION 3HD
+http://cc.userport.top:80/live/xp879637/225650/1872.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ACCION 4HD
+http://cc.userport.top:80/live/xp879637/225650/1873.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ACCION 5HD
+http://cc.userport.top:80/live/xp879637/225650/1874.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV NETFLIX 1HD
+http://cc.userport.top:80/live/xp879637/225650/1875.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV NETFLIX 2HD
+http://cc.userport.top:80/live/xp879637/225650/1876.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV NETFLIX 3HD
+http://cc.userport.top:80/live/xp879637/225650/1877.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV NETFLIX 4HD
+http://cc.userport.top:80/live/xp879637/225650/1878.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV NETFLIX 5HD
+http://cc.userport.top:80/live/xp879637/225650/1879.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV NETFLIX 6HD
+http://cc.userport.top:80/live/xp879637/225650/1880.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ANIMACION 1HD
+http://cc.userport.top:80/live/xp879637/225650/1881.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ANIMACION 2HD
+http://cc.userport.top:80/live/xp879637/225650/1882.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ANIMACION 3HD
+http://cc.userport.top:80/live/xp879637/225650/1883.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ANIMACION 4HD
+http://cc.userport.top:80/live/xp879637/225650/1884.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ANIMACION 5HD
+http://cc.userport.top:80/live/xp879637/225650/1885.ts
+#EXTINF:-1 group-title="CANALES DE CINE",Prair TV ANIMACION 6HD
+http://cc.userport.top:80/live/xp879637/225650/1886.ts
+#EXTINF:-1 group-title="CANALES DE CINE",MTK TV ANIMACION 7HD
+http://cc.userport.top:80/live/xp879637/225650/1887.ts
+#EXTINF:-1 group-title="CANALES DE CINE",ES: MOVISTAR+ ALQUILER 1 HD
+http://cc.userport.top:80/live/xp879637/225650/361.ts
+#EXTINF:-1 group-title="CANALES DE CINE",ES: MOVISTAR+ ALQUILER 2 HD
+http://cc.userport.top:80/live/xp879637/225650/362.ts
+#EXTINF:-1 group-title="CANALES DE CINE",ES: MOVISTAR+ ALQUILER 3 HD
+http://cc.userport.top:80/live/xp879637/225650/363.ts
+#EXTINF:-1 group-title="CANALES DE CINE",ES: MOVISTAR+ ALQUILER 4 HD
+http://cc.userport.top:80/live/xp879637/225650/364.ts
+#EXTINF:-1 group-title="CANALES DE CINE",ES: MOVISTAR+ ALQUILER 5 HD
+http://cc.userport.top:80/live/xp879637/225650/365.ts
+#EXTINF:-1 group-title="CANALES DE CINE",ES: MOVISTAR+ ALQUILER 6 HD
+http://cc.userport.top:80/live/xp879637/225650/366.ts
+#EXTINF:-1 group-title="CANALES DE CINE",ES: MOVISTAR+ ALQUILER 7 HD
+http://cc.userport.top:80/live/xp879637/225650/367.ts
+#EXTINF:-1 group-title="CANALES DE CINE",ES: MOVISTAR+ ALQUILER 8 HD
+http://cc.userport.top:80/live/xp879637/225650/368.ts
+#EXTINF:-1 group-title="CANALES DE CINE",ES: MOVISTAR+ ALQUILER 9 HD
+http://cc.userport.top:80/live/xp879637/225650/369.ts
+#EXTINF:-1 group-title="CANALES DE CINE",BOM CINE SD
+http://cc.userport.top:80/live/xp879637/225650/84.ts
+#EXTINF:-1 group-title="CANALES DE CINE",BOM CINE HD
+http://cc.userport.top:80/live/xp879637/225650/85.ts
+#EXTINF:-1 group-title="CANALES DE CINE",BOM CINE FHD
+http://cc.userport.top:80/live/xp879637/225650/86.ts
+#EXTINF:-1 group-title="CANALES DE CINE",HOLLYWOOD SD
+http://cc.userport.top:80/live/xp879637/225650/87.ts
+#EXTINF:-1 group-title="CANALES DE CINE",HOLLYWOOD HD
+http://cc.userport.top:80/live/xp879637/225650/88.ts
+#EXTINF:-1 group-title="CANALES DE CINE",HOLLYWOOD FHD
+http://cc.userport.top:80/live/xp879637/225650/89.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ ESTRENOS SD
+http://cc.userport.top:80/live/xp879637/225650/90.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M.ESTRENOS HD
+http://cc.userport.top:80/live/xp879637/225650/91.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ ESTRENOS FHD
+http://cc.userport.top:80/live/xp879637/225650/92.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ ESTRENOS 2 SD
+http://cc.userport.top:80/live/xp879637/225650/93.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M.ESTRENOS 2 HD
+http://cc.userport.top:80/live/xp879637/225650/94.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ ESTRENOS 2 FHD
+http://cc.userport.top:80/live/xp879637/225650/95.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ COMEDIA SD
+http://cc.userport.top:80/live/xp879637/225650/96.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ COMEDIA HD
+http://cc.userport.top:80/live/xp879637/225650/97.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ COMEDIA FHD
+http://cc.userport.top:80/live/xp879637/225650/98.ts
+#EXTINF:-1 group-title="CANALES DE CINE",COMEDY CENTRAL SD
+http://cc.userport.top:80/live/xp879637/225650/99.ts
+#EXTINF:-1 group-title="CANALES DE CINE",COMEDY CENTRAL HD
+http://cc.userport.top:80/live/xp879637/225650/100.ts
+#EXTINF:-1 group-title="CANALES DE CINE",COMEDY CENTRAL FHD
+http://cc.userport.top:80/live/xp879637/225650/101.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ DRAMA SD
+http://cc.userport.top:80/live/xp879637/225650/102.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ DRAMA HD
+http://cc.userport.top:80/live/xp879637/225650/103.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ DRAMA FHD
+http://cc.userport.top:80/live/xp879637/225650/104.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ ACCION SD
+http://cc.userport.top:80/live/xp879637/225650/105.ts
+#EXTINF:-1 group-title="CANALES DE CINE",C+ ACCION HD
+http://cc.userport.top:80/live/xp879637/225650/106.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ ACCION FHD
+http://cc.userport.top:80/live/xp879637/225650/107.ts
+#EXTINF:-1 group-title="CANALES DE CINE",DCINE ESPANOL SD
+http://cc.userport.top:80/live/xp879637/225650/108.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ DCINE ESPANOL HD
+http://cc.userport.top:80/live/xp879637/225650/109.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ CINE ESPANOL FHD
+http://cc.userport.top:80/live/xp879637/225650/110.ts
+#EXTINF:-1 group-title="CANALES DE CINE",A3 SERIES SD
+http://cc.userport.top:80/live/xp879637/225650/111.ts
+#EXTINF:-1 group-title="CANALES DE CINE",A3 SERIES HD
+http://cc.userport.top:80/live/xp879637/225650/112.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ SERIES SD
+http://cc.userport.top:80/live/xp879637/225650/113.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ SERIES HD
+http://cc.userport.top:80/live/xp879637/225650/114.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ SERIES FHD
+http://cc.userport.top:80/live/xp879637/225650/115.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ SERIES 2 SD
+http://cc.userport.top:80/live/xp879637/225650/116.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ SERIES 2 HD
+http://cc.userport.top:80/live/xp879637/225650/117.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ SERIES 2 FHD
+http://cc.userport.top:80/live/xp879637/225650/118.ts
+#EXTINF:-1 group-title="CANALES DE CINE",DARK SD
+http://cc.userport.top:80/live/xp879637/225650/119.ts
+#EXTINF:-1 group-title="CANALES DE CINE",DARK HD
+http://cc.userport.top:80/live/xp879637/225650/120.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AMC SD
+http://cc.userport.top:80/live/xp879637/225650/121.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AMC HD
+http://cc.userport.top:80/live/xp879637/225650/122.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AMC FHD
+http://cc.userport.top:80/live/xp879637/225650/123.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AMC BREAK SD
+http://cc.userport.top:80/live/xp879637/225650/124.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AMC BREAK HD
+http://cc.userport.top:80/live/xp879637/225650/125.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AMC BREAK FHD
+http://cc.userport.top:80/live/xp879637/225650/126.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AMC CRIME SD
+http://cc.userport.top:80/live/xp879637/225650/127.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AMC CRIME HD
+http://cc.userport.top:80/live/xp879637/225650/128.ts
+#EXTINF:-1 group-title="CANALES DE CINE",FOX SD
+http://cc.userport.top:80/live/xp879637/225650/129.ts
+#EXTINF:-1 group-title="CANALES DE CINE",FOX HD
+http://cc.userport.top:80/live/xp879637/225650/130.ts
+#EXTINF:-1 group-title="CANALES DE CINE",FOX FHD
+http://cc.userport.top:80/live/xp879637/225650/131.ts
+#EXTINF:-1 group-title="CANALES DE CINE",CALLE 13 SD
+http://cc.userport.top:80/live/xp879637/225650/132.ts
+#EXTINF:-1 group-title="CANALES DE CINE",CALLE 13 HD
+http://cc.userport.top:80/live/xp879637/225650/133.ts
+#EXTINF:-1 group-title="CANALES DE CINE",CALLE 13 FHD
+http://cc.userport.top:80/live/xp879637/225650/134.ts
+#EXTINF:-1 group-title="CANALES DE CINE",SUNDANCE SD
+http://cc.userport.top:80/live/xp879637/225650/135.ts
+#EXTINF:-1 group-title="CANALES DE CINE",SUNDANCE HD
+http://cc.userport.top:80/live/xp879637/225650/136.ts
+#EXTINF:-1 group-title="CANALES DE CINE",SUNDANCE FHD
+http://cc.userport.top:80/live/xp879637/225650/137.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AXN SD
+http://cc.userport.top:80/live/xp879637/225650/138.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AXN HD
+http://cc.userport.top:80/live/xp879637/225650/139.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AXN FHD
+http://cc.userport.top:80/live/xp879637/225650/140.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AXN WHITE SD
+http://cc.userport.top:80/live/xp879637/225650/141.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AXN WHITE HD
+http://cc.userport.top:80/live/xp879637/225650/142.ts
+#EXTINF:-1 group-title="CANALES DE CINE",AXN WHITE FHD
+http://cc.userport.top:80/live/xp879637/225650/143.ts
+#EXTINF:-1 group-title="CANALES DE CINE",TNT SD
+http://cc.userport.top:80/live/xp879637/225650/144.ts
+#EXTINF:-1 group-title="CANALES DE CINE",TNT HD
+http://cc.userport.top:80/live/xp879637/225650/145.ts
+#EXTINF:-1 group-title="CANALES DE CINE",TNT FHD
+http://cc.userport.top:80/live/xp879637/225650/146.ts
+#EXTINF:-1 group-title="CANALES DE CINE",COSMOPOLITAN SD
+http://cc.userport.top:80/live/xp879637/225650/147.ts
+#EXTINF:-1 group-title="CANALES DE CINE",COSMOPOLITAN HD
+http://cc.userport.top:80/live/xp879637/225650/148.ts
+#EXTINF:-1 group-title="CANALES DE CINE",COSMOPOLITAN FHD
+http://cc.userport.top:80/live/xp879637/225650/149.ts
+#EXTINF:-1 group-title="CANALES DE CINE",SYFY SD
+http://cc.userport.top:80/live/xp879637/225650/150.ts
+#EXTINF:-1 group-title="CANALES DE CINE",SYFY HD
+http://cc.userport.top:80/live/xp879637/225650/151.ts
+#EXTINF:-1 group-title="CANALES DE CINE",SYFY FHD
+http://cc.userport.top:80/live/xp879637/225650/152.ts
+#EXTINF:-1 group-title="CANALES DE CINE",TCM SD
+http://cc.userport.top:80/live/xp879637/225650/153.ts
+#EXTINF:-1 group-title="CANALES DE CINE",TCM HD
+http://cc.userport.top:80/live/xp879637/225650/154.ts
+#EXTINF:-1 group-title="CANALES DE CINE",TCM FHD
+http://cc.userport.top:80/live/xp879637/225650/155.ts
+#EXTINF:-1 group-title="CANALES DE CINE",XTRM SD
+http://cc.userport.top:80/live/xp879637/225650/160.ts
+#EXTINF:-1 group-title="CANALES DE CINE",XTRM HD
+http://cc.userport.top:80/live/xp879637/225650/161.ts
+#EXTINF:-1 group-title="CANALES DE CINE",XTRM FHD
+http://cc.userport.top:80/live/xp879637/225650/162.ts
+#EXTINF:-1 group-title="CANALES DE CINE",PARAMOUNT SD
+http://cc.userport.top:80/live/xp879637/225650/163.ts
+#EXTINF:-1 group-title="CANALES DE CINE",PARAMOUNT HD
+http://cc.userport.top:80/live/xp879637/225650/164.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ #0 SD
+http://cc.userport.top:80/live/xp879637/225650/171.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ #0 HD
+http://cc.userport.top:80/live/xp879637/225650/172.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ #0 FHD
+http://cc.userport.top:80/live/xp879637/225650/173.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ TRECE SD
+http://cc.userport.top:80/live/xp879637/225650/179.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+ TRECE HD
+http://cc.userport.top:80/live/xp879637/225650/180.ts
+#EXTINF:-1 group-title="CANALES DE CINE",M+CLASICOS HD
+http://cc.userport.top:80/live/xp879637/225650/181.ts
+#EXTINF:-1 group-title="CANALES DE CINE",SOMOS SD
+http://cc.userport.top:80/live/xp879637/225650/279.ts
+#EXTINF:-1 group-title="CANALES DE CINE",SOMOS HD
+http://cc.userport.top:80/live/xp879637/225650/280.ts
+#EXTINF:-1 group-title="CANALES DE CINE",SOMOS FHD
+http://cc.userport.top:80/live/xp879637/225650/281.ts
+
+#EXTINF:-1 group-title="INFANTILES",M+ DREAMWORKS SD
+http://cc.userport.top:80/live/xp879637/225650/336.ts
+#EXTINF:-1 group-title="INFANTILES",M+ DREAMWORKS HD
+http://cc.userport.top:80/live/xp879637/225650/337.ts
+#EXTINF:-1 group-title="INFANTILES",M+ DREAMWORKS FHD
+http://cc.userport.top:80/live/xp879637/225650/338.ts
+#EXTINF:-1 group-title="INFANTILES",CANAL PANDA SD
+http://cc.userport.top:80/live/xp879637/225650/339.ts
+#EXTINF:-1 group-title="INFANTILES",CANAL PANDA HD
+http://cc.userport.top:80/live/xp879637/225650/340.ts
+#EXTINF:-1 group-title="INFANTILES",CANAL PANDA FHD
+http://cc.userport.top:80/live/xp879637/225650/341.ts
+#EXTINF:-1 group-title="INFANTILES",DISNEY JUNIOR SD
+http://cc.userport.top:80/live/xp879637/225650/342.ts
+#EXTINF:-1 group-title="INFANTILES",DISNEY JUNIOR HD
+http://cc.userport.top:80/live/xp879637/225650/343.ts
+#EXTINF:-1 group-title="INFANTILES",DISNEY JUNIOR FHD
+http://cc.userport.top:80/live/xp879637/225650/344.ts
+#EXTINF:-1 group-title="INFANTILES",DISNEY CHANNEL SD
+http://cc.userport.top:80/live/xp879637/225650/345.ts
+#EXTINF:-1 group-title="INFANTILES",DISNEY CHANNEL HD
+http://cc.userport.top:80/live/xp879637/225650/346.ts
+#EXTINF:-1 group-title="INFANTILES",DISNEY CHANNEL FHD
+http://cc.userport.top:80/live/xp879637/225650/347.ts
+#EXTINF:-1 group-title="INFANTILES",NICKELODEON SD
+http://cc.userport.top:80/live/xp879637/225650/348.ts
+#EXTINF:-1 group-title="INFANTILES",NICKELODEON HD
+http://cc.userport.top:80/live/xp879637/225650/349.ts
+#EXTINF:-1 group-title="INFANTILES",NICKELODEON FHD
+http://cc.userport.top:80/live/xp879637/225650/350.ts
+#EXTINF:-1 group-title="INFANTILES",NICK JR SD
+http://cc.userport.top:80/live/xp879637/225650/351.ts
+#EXTINF:-1 group-title="INFANTILES",NICK JR HD
+http://cc.userport.top:80/live/xp879637/225650/352.ts
+#EXTINF:-1 group-title="INFANTILES",NICK JR FHD
+http://cc.userport.top:80/live/xp879637/225650/353.ts
+#EXTINF:-1 group-title="INFANTILES",CLAN TV SD
+http://cc.userport.top:80/live/xp879637/225650/354.ts
+#EXTINF:-1 group-title="INFANTILES",CLAN TV HD
+http://cc.userport.top:80/live/xp879637/225650/355.ts
+#EXTINF:-1 group-title="INFANTILES",CLAN TV FHD
+http://cc.userport.top:80/live/xp879637/225650/356.ts
+#EXTINF:-1 group-title="INFANTILES",BOING SD
+http://cc.userport.top:80/live/xp879637/225650/357.ts
+#EXTINF:-1 group-title="INFANTILES",BOING HD
+http://cc.userport.top:80/live/xp879637/225650/358.ts
+#EXTINF:-1 group-title="INFANTILES",BABY TV SD
+http://cc.userport.top:80/live/xp879637/225650/359.ts
+#EXTINF:-1 group-title="INFANTILES",BABY TV HD
+http://cc.userport.top:80/live/xp879637/225650/360.ts
+#EXTINF:-1 group-title="INFANTILES",Pequeradio
+http://cc.userport.top:80/live/xp879637/225650/65.ts
