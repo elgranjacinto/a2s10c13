@@ -1,5 +1,102 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL
+ACESTREAM://16150dafbbd4515a8b539a8e21e0f083f86416da
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080
+ACESTREAM://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080 opc1
+ACESTREAM://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080 opc2
+ACESTREAM://4e7b21206691ecdb489d4b1334944236f065e762
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720
+ACESTREAM://ea800270d91039624e821e2e9394d0bee4ea0e35
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc1
+ACESTREAM://bc125e7047cc7a83f58ae31c213899065d88794c
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc2
+ACESTREAM://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc3
+ACESTREAM://16150dafbbd4515a8b539a8e21e0f083f86416da
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 1080
+ACESTREAM://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 1080 opc1
+ACESTREAM://b67faee973e5a969a0adb02d476b78ef8cec4f3e
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 720
+ACESTREAM://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 720
+ACESTREAM://2aab272d05089ce881538a1b3288d391de152d53
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL MULTIAUDIO
+ACESTREAM://045718bad2ddb4f03b1a420754a97a23ad8b493b
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| Gol Mundial 2 HD 4K" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 HD 4K
+http://cc.userport.top:80/live/xp879637/225650/2079.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Gol Mundial 2 HD (H.265)" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 HD (H.265)
+http://cc.userport.top:80/live/xp879637/225650/2084.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Gol Mundial 2 HD (1080P)" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 HD (1080P)
+http://cc.userport.top:80/live/xp879637/225650/2085.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Gol Mundial 2 HD (720P)" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 HD (720P)
+http://cc.userport.top:80/live/xp879637/225650/2086.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Gol Mundial 2 HD FHD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 HD FHD
+http://cc.userport.top:80/live/xp879637/225650/2080.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Gol Mundial 2 HD HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 HD HD
+http://cc.userport.top:80/live/xp879637/225650/2081.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| Gol Mundial 2 SD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 SD
+http://cc.userport.top:80/live/xp879637/225650/2082.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol Mundial 4K" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES: Gol Mundial 4K
+http://cc.userport.top:80/live/xp879637/225650/2083.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL MUNDIAL FHD" tvg-logo="" group-title="EVENTOS DEPORTES",GOL MUNDIAL FHD
+http://cc.userport.top:80/live/xp879637/225650/2078.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL MUNDIAL HD" tvg-logo="" group-title="EVENTOS DEPORTES",GOL MUNDIAL HD
+http://cc.userport.top:80/live/xp879637/225650/2077.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL MUNDIAL SD" tvg-logo="" group-title="EVENTOS DEPORTES",GOL MUNDIAL SD
+http://cc.userport.top:80/live/xp879637/225650/2076.ts
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 001 Gol Mundial - 1080 Multiaudio
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 002 Gol Mundial - 1080 (Opcion 1)
+acestream://4e7b21206691ecdb489d4b1334944236f065e762
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 003 Gol Mundial - 1080 (Opcion 2)
+acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 004 Gol Mundial - 1080 (Opcion 3)
+acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 005 Gol Mundial - 1080 (Opcion 4)
+acestream://2f54416685b49e9a8fbe73884712fe018e3e9855
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 006 Gol Mundial - 720 (Opcion 1)
+acestream://ea800270d91039624e821e2e9394d0bee4ea0e35
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 007 Gol Mundial - 720 (Opcion 2)
+acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 008 Gol Mundial - 720 (Opcion 3)
+acestream://bc125e7047cc7a83f58ae31c213899065d88794c
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 009 Gol Mundial 2 - 1080 (Opcion 1)
+acestream://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 010 Gol Mundial 2 - 1080 (Opcion 2)
+acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 011 Gol Mundial 2 - 1080 (Opcion 3)
+acestream://8a26b327719faf000af9c0f46014be28415eacf1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 012 Gol Mundial 2 - 720 (Opcion 1)
+acestream://2aab272d05089ce881538a1b3288d391de152d53
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 013 Gol Mundial 2 - 720 (Opcion 2)
+acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL
+http://dalmanve.bio:2082/stop/stop/151637
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL FHD
+http://dalmanve.bio:2082/stop/stop/243743
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL HD
+http://dalmanve.bio:2082/stop/stop/243744
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL SD
+http://dalmanve.bio:2082/stop/stop/243745
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1 FHD
+http://dalmanve.bio:2082/stop/stop/243746
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1 HD
+http://dalmanve.bio:2082/stop/stop/243747
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1 SD
+http://dalmanve.bio:2082/stop/stop/243748
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/96700
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/96698
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 2
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/96699
+
 #EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 MultiAudio
 ACESTREAM://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 Multi opc-1
@@ -113,33 +210,6 @@ ACESTREAM://f2b785193cfa99c581287be39e2fb5a73827957b
 ACESTREAM://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 #EXTINF:-1 group-title="CHAMPIONS-ACE",Multichampions/MultiEuropaleague 1080
 ACESTREAM://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
-
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL
-ACESTREAM://16150dafbbd4515a8b539a8e21e0f083f86416da
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080
-ACESTREAM://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080 opc1
-ACESTREAM://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080 opc2
-ACESTREAM://4e7b21206691ecdb489d4b1334944236f065e762
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720
-ACESTREAM://ea800270d91039624e821e2e9394d0bee4ea0e35
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc1
-ACESTREAM://bc125e7047cc7a83f58ae31c213899065d88794c
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc2
-ACESTREAM://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc3
-ACESTREAM://16150dafbbd4515a8b539a8e21e0f083f86416da
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 1080
-ACESTREAM://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 1080 opc1
-ACESTREAM://b67faee973e5a969a0adb02d476b78ef8cec4f3e
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 720
-ACESTREAM://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 720
-ACESTREAM://2aab272d05089ce881538a1b3288d391de152d53
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL MULTIAUDIO
-ACESTREAM://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
 #EXTINF:-1 group-title="F1-ACE",DAZN F1 1080
 ACESTREAM://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
@@ -267,6 +337,24 @@ ACESTREAM://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 #EXTINF:-1 group-title="DEPORTES-ACE",FOX 3 Argentina
 ACESTREAM://9a8c5485a38e9399e81b3eed23e588946946039f
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="Canales M+",Mega - 1080
+acestream://eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="Canales M+",Mega - 720
+http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="Canales M+",National Geographic
+Acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" group-title="Canales M+",Historia
+Acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
+
+#EXTINF:-1 group-title="TDT-ACE",LA 1 1080
+ACESTREAM://b41d52a733be6f4709db3bdf33e260de2b67d27a
+#EXTINF:-1 group-title="TDT-ACE",LA 1 HD
+ACESTREAM://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1 group-title="TDT-ACE",CUATRO 1080
+ACESTREAM://e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 group-title="TDT-ACE",TeleCinco 1080
+ACESTREAM://cbf281d5e481697aa4184fe1de5e069928c95057
+
 #EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[US] ESPN2 USA 1080
 ACESTREAM://664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[US] ESPN2 USA 720
@@ -326,15 +414,6 @@ ACESTREAM://54cbfaf8ad446499aae28ae50b512d95c263f811
 #EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PL] CANAL+ SPORT 1 HD
 ACESTREAM://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
-#EXTINF:-1 group-title="TDT-ACE",LA 1 1080
-ACESTREAM://b41d52a733be6f4709db3bdf33e260de2b67d27a
-#EXTINF:-1 group-title="TDT-ACE",LA 1 HD
-ACESTREAM://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
-#EXTINF:-1 group-title="TDT-ACE",CUATRO 1080
-ACESTREAM://e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 group-title="TDT-ACE",TeleCinco 1080
-ACESTREAM://cbf281d5e481697aa4184fe1de5e069928c95057
-
 #EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF A" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF A
 http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/85236
 #EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF B" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF B
@@ -361,27 +440,6 @@ http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95028
 http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95029
 #EXTINF:-1 tvg-id="" tvg-name="INSPORTS 10 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 10 RFEF
 http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95030
-
-#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL
-http://dalmanve.bio:2082/stop/stop/151637
-#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL FHD
-http://dalmanve.bio:2082/stop/stop/243743
-#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL HD
-http://dalmanve.bio:2082/stop/stop/243744
-#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL SD
-http://dalmanve.bio:2082/stop/stop/243745
-#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1 FHD
-http://dalmanve.bio:2082/stop/stop/243746
-#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1 HD
-http://dalmanve.bio:2082/stop/stop/243747
-#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1 SD
-http://dalmanve.bio:2082/stop/stop/243748
-#EXTINF:-1 tvg-id="" tvg-name="GOL MUNDIAL" tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/1366_521.jpg" group-title="FUTBOL FIBRA",GOL MUNDIAL
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/96700
-#EXTINF:-1 tvg-id="" tvg-name="GOL MUNDIAL 1" tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/1366_521.jpg" group-title="FUTBOL TOP",GOL MUNDIAL 1
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/96698
-#EXTINF:-1 tvg-id="" tvg-name="GOL MUNDIAL 2" tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/1366_521.jpg" group-title="FUTBOL TOP",GOL MUNDIAL 2
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/96699
 
 #EXTINF:-1 group-title="LA LIGA",DAZN LaLiga SD
 http://cc.userport.top:80/live/xp879637/225650/1774.ts
@@ -470,6 +528,53 @@ http://cc.userport.top:80/live/xp879637/225650/213.ts
 http://cc.userport.top:80/live/xp879637/225650/1503.ts
 #EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 5 HD
 http://cc.userport.top:80/live/xp879637/225650/1502.ts
+
+#EXTINF:-1 group-title="Canales 24/7",Xena La Princesa Guerrera 24/7
+http://cc.userport.top:80/live/xp879637/225650/1839.ts
+#EXTINF:-1 group-title="Canales 24/7",El Principe de Bel Air Temp 1 24/7
+http://cc.userport.top:80/live/xp879637/225650/1840.ts
+#EXTINF:-1 group-title="Canales 24/7",Expedientes X Temp 1 24/7
+http://cc.userport.top:80/live/xp879637/225650/1844.ts
+#EXTINF:-1 group-title="Canales 24/7",Los Simpsons Temp 1-5 24/7
+http://cc.userport.top:80/live/xp879637/225650/1846.ts
+#EXTINF:-1 group-title="Canales 24/7",Los Simpsons HD 24/7
+http://cc.userport.top:80/live/xp879637/225650/1847.ts
+#EXTINF:-1 group-title="Canales 24/7",Los Simpsons La casa-árbol del terror SD 24/7
+http://cc.userport.top:80/live/xp879637/225650/1848.ts
+#EXTINF:-1 group-title="Canales 24/7",Futurama 24/7
+http://cc.userport.top:80/live/xp879637/225650/1850.ts
+#EXTINF:-1 group-title="Canales 24/7",Futurama HD 24/7
+http://cc.userport.top:80/live/xp879637/225650/1851.ts
+#EXTINF:-1 group-title="Canales 24/7",Padre de Familia 24/7
+http://cc.userport.top:80/live/xp879637/225650/1852.ts
+#EXTINF:-1 group-title="Canales 24/7",Ben Y Holly 24/7
+http://cc.userport.top:80/live/xp879637/225650/1853.ts
+#EXTINF:-1 group-title="Canales 24/7",Fabulas de Disney 24/7
+http://cc.userport.top:80/live/xp879637/225650/1854.ts
+#EXTINF:-1 group-title="Canales 24/7",Patrulla Canina 24/7
+http://cc.userport.top:80/live/xp879637/225650/1855.ts
+#EXTINF:-1 group-title="Canales 24/7",Vaca y Pollito 24/7
+http://cc.userport.top:80/live/xp879637/225650/1856.ts
+#EXTINF:-1 group-title="Canales 24/7",Super Wings 24/7
+http://cc.userport.top:80/live/xp879637/225650/1857.ts
+#EXTINF:-1 group-title="Canales 24/7",El Bebé Jefazo (Vuelta al curro) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1858.ts
+#EXTINF:-1 group-title="Canales 24/7",Wabbit 24/7
+http://cc.userport.top:80/live/xp879637/225650/1859.ts
+#EXTINF:-1 group-title="Canales 24/7",Kim Possible HD 24/7
+http://cc.userport.top:80/live/xp879637/225650/1860.ts
+#EXTINF:-1 group-title="Canales 24/7",Lilo y Stitch HD 24/7
+http://cc.userport.top:80/live/xp879637/225650/1861.ts
+#EXTINF:-1 group-title="Canales 24/7",Caballeros del Zodiaco Torneo Galactico HD (1-40) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1862.ts
+#EXTINF:-1 group-title="Canales 24/7",Caballeros del Zodiaco Santuario HD (41-73) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1863.ts
+#EXTINF:-1 group-title="Canales 24/7",Caballeros del Zodiaco Asgard HD (74-99) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1864.ts
+#EXTINF:-1 group-title="Canales 24/7",Caballeros del Zodiaco Poseidon HD (100-114) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1865.ts
+#EXTINF:-1 group-title="Canales 24/7",Caballeros del Zodiaco Hades HD (115-145) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1866.ts
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LA LIGA FHD (HEVC)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="FUTBOL TOP",MOVISTAR LA LIGA FHD (HEVC)
 http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/69724
@@ -1808,3 +1913,563 @@ http://cc.userport.top:80/live/xp879637/225650/359.ts
 http://cc.userport.top:80/live/xp879637/225650/360.ts
 #EXTINF:-1 group-title="INFANTILES",Pequeradio
 http://cc.userport.top:80/live/xp879637/225650/65.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mND3MZbnOIasM3XaL2mXOVMvBw6.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mND3MZbnOIasM3XaL2mXOVMvBw6.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mND3MZbnOIasM3XaL2mXOVMvBw6.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mND3MZbnOIasM3XaL2mXOVMvBw6.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mND3MZbnOIasM3XaL2mXOVMvBw6.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mND3MZbnOIasM3XaL2mXOVMvBw6.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mND3MZbnOIasM3XaL2mXOVMvBw6.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la espía S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mND3MZbnOIasM3XaL2mXOVMvBw6.jpg" group-title="NETFLIX 2022",El regreso de la espía S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Guardianes de la Justicia S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/14zqlquJLhxAKmEOh6bNznJzE4.jpg" group-title="NETFLIX 2022",Los Guardianes de la Justicia S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E09
+http://cc.userport.top:80/series/xp879637/225650/1490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg" group-title="NETFLIX 2022",Lupin S01 E10
+http://cc.userport.top:80/series/xp879637/225650/1491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mi Nombre S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="NETFLIX 2022",Mi Nombre S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E09
+http://cc.userport.top:80/series/xp879637/225650/1690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E10
+http://cc.userport.top:80/series/xp879637/225650/1691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E11
+http://cc.userport.top:80/series/xp879637/225650/1692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E12
+http://cc.userport.top:80/series/xp879637/225650/1693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E13
+http://cc.userport.top:80/series/xp879637/225650/1694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E14
+http://cc.userport.top:80/series/xp879637/225650/1695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E15
+http://cc.userport.top:80/series/xp879637/225650/1696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Rojo S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="NETFLIX 2022",Sky Rojo S01 E16
+http://cc.userport.top:80/series/xp879637/225650/1697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rj1lqZZcSLCimqvVhXcSCS65mpe.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rj1lqZZcSLCimqvVhXcSCS65mpe.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rj1lqZZcSLCimqvVhXcSCS65mpe.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rj1lqZZcSLCimqvVhXcSCS65mpe.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rj1lqZZcSLCimqvVhXcSCS65mpe.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atracadores: La serie S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rj1lqZZcSLCimqvVhXcSCS65mpe.jpg" group-title="NETFLIX 2022",Atracadores: La serie S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30m8oSz46yESF57ihmWMIwneG7d.jpg" group-title="NETFLIX 2022",Comando Queer S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30m8oSz46yESF57ihmWMIwneG7d.jpg" group-title="NETFLIX 2022",Comando Queer S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30m8oSz46yESF57ihmWMIwneG7d.jpg" group-title="NETFLIX 2022",Comando Queer S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30m8oSz46yESF57ihmWMIwneG7d.jpg" group-title="NETFLIX 2022",Comando Queer S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30m8oSz46yESF57ihmWMIwneG7d.jpg" group-title="NETFLIX 2022",Comando Queer S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30m8oSz46yESF57ihmWMIwneG7d.jpg" group-title="NETFLIX 2022",Comando Queer S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30m8oSz46yESF57ihmWMIwneG7d.jpg" group-title="NETFLIX 2022",Comando Queer S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30m8oSz46yESF57ihmWMIwneG7d.jpg" group-title="NETFLIX 2022",Comando Queer S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30m8oSz46yESF57ihmWMIwneG7d.jpg" group-title="NETFLIX 2022",Comando Queer S01 E09
+http://cc.userport.top:80/series/xp879637/225650/1631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Queer S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/30m8oSz46yESF57ihmWMIwneG7d.jpg" group-title="NETFLIX 2022",Comando Queer S01 E10
+http://cc.userport.top:80/series/xp879637/225650/1632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qhdNHqEapVtr27Yzp886NFzryiG.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qhdNHqEapVtr27Yzp886NFzryiG.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qhdNHqEapVtr27Yzp886NFzryiG.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qhdNHqEapVtr27Yzp886NFzryiG.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qhdNHqEapVtr27Yzp886NFzryiG.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrupción en Bangkok S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qhdNHqEapVtr27Yzp886NFzryiG.jpg" group-title="NETFLIX 2022",Corrupción en Bangkok S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg" group-title="NETFLIX 2022",Dealer S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg" group-title="NETFLIX 2022",Dealer S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg" group-title="NETFLIX 2022",Dealer S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg" group-title="NETFLIX 2022",Dealer S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg" group-title="NETFLIX 2022",Dealer S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg" group-title="NETFLIX 2022",Dealer S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg" group-title="NETFLIX 2022",Dealer S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg" group-title="NETFLIX 2022",Dealer S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dealer S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dQstisZnYgpZc8FhpnpxH3Xs1KZ.jpg" group-title="NETFLIX 2022",Dealer S01 E09
+http://cc.userport.top:80/series/xp879637/225650/1647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinero fácil S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4HsSD9LuvE8cUzMQ1AdohbY8cxn.jpg" group-title="NETFLIX 2022",Dinero fácil S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinero fácil S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4HsSD9LuvE8cUzMQ1AdohbY8cxn.jpg" group-title="NETFLIX 2022",Dinero fácil S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinero fácil S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4HsSD9LuvE8cUzMQ1AdohbY8cxn.jpg" group-title="NETFLIX 2022",Dinero fácil S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinero fácil S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4HsSD9LuvE8cUzMQ1AdohbY8cxn.jpg" group-title="NETFLIX 2022",Dinero fácil S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinero fácil S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4HsSD9LuvE8cUzMQ1AdohbY8cxn.jpg" group-title="NETFLIX 2022",Dinero fácil S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gQZpVysbT5FGYVYrsjuwQa2XIay.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gQZpVysbT5FGYVYrsjuwQa2XIay.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gQZpVysbT5FGYVYrsjuwQa2XIay.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gQZpVysbT5FGYVYrsjuwQa2XIay.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gQZpVysbT5FGYVYrsjuwQa2XIay.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Reino Perdido de los Piratas S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gQZpVysbT5FGYVYrsjuwQa2XIay.jpg" group-title="NETFLIX 2022",El Reino Perdido de los Piratas S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg" group-title="NETFLIX 2022",Hit & Run S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg" group-title="NETFLIX 2022",Hit & Run S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg" group-title="NETFLIX 2022",Hit & Run S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg" group-title="NETFLIX 2022",Hit & Run S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg" group-title="NETFLIX 2022",Hit & Run S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg" group-title="NETFLIX 2022",Hit & Run S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg" group-title="NETFLIX 2022",Hit & Run S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg" group-title="NETFLIX 2022",Hit & Run S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hit & Run S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg" group-title="NETFLIX 2022",Hit & Run S01 E09
+http://cc.userport.top:80/series/xp879637/225650/1675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eYHdtR2UmKW61wk3NNUNehSRa4J.jpg" group-title="NETFLIX 2022",Jaguar S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eYHdtR2UmKW61wk3NNUNehSRa4J.jpg" group-title="NETFLIX 2022",Jaguar S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eYHdtR2UmKW61wk3NNUNehSRa4J.jpg" group-title="NETFLIX 2022",Jaguar S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eYHdtR2UmKW61wk3NNUNehSRa4J.jpg" group-title="NETFLIX 2022",Jaguar S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eYHdtR2UmKW61wk3NNUNehSRa4J.jpg" group-title="NETFLIX 2022",Jaguar S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eYHdtR2UmKW61wk3NNUNehSRa4J.jpg" group-title="NETFLIX 2022",Jaguar S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El legado de Júpiter S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg" group-title="NETFLIX 2022",El legado de Júpiter S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E09
+http://cc.userport.top:80/series/xp879637/225650/1702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E10
+http://cc.userport.top:80/series/xp879637/225650/1752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E11
+http://cc.userport.top:80/series/xp879637/225650/1703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E12
+http://cc.userport.top:80/series/xp879637/225650/1753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E13
+http://cc.userport.top:80/series/xp879637/225650/1754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E14
+http://cc.userport.top:80/series/xp879637/225650/1704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E15
+http://cc.userport.top:80/series/xp879637/225650/1705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombra y hueso S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1Ok36olOn9HXOUlFdlOYngItmxX.jpg" group-title="NETFLIX 2022",Sombra y hueso S01 E16
+http://cc.userport.top:80/series/xp879637/225650/1755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7FioKNA7z0Dl1EMn14bxCyUUpp.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7FioKNA7z0Dl1EMn14bxCyUUpp.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7FioKNA7z0Dl1EMn14bxCyUUpp.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7FioKNA7z0Dl1EMn14bxCyUUpp.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7FioKNA7z0Dl1EMn14bxCyUUpp.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7FioKNA7z0Dl1EMn14bxCyUUpp.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7FioKNA7z0Dl1EMn14bxCyUUpp.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Tooth: El niño ciervo S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a7FioKNA7z0Dl1EMn14bxCyUUpp.jpg" group-title="NETFLIX 2022",Sweet Tooth: El niño ciervo S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/epm87meDcnss6OO8eJfe8xw3lbg.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/epm87meDcnss6OO8eJfe8xw3lbg.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/epm87meDcnss6OO8eJfe8xw3lbg.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/epm87meDcnss6OO8eJfe8xw3lbg.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/epm87meDcnss6OO8eJfe8xw3lbg.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribus de Europa S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/epm87meDcnss6OO8eJfe8xw3lbg.jpg" group-title="NETFLIX 2022",Tribus de Europa S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos: Valhalla S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg" group-title="NETFLIX 2022",Vikingos: Valhalla S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZViFKyiDIJ3gRlK27bQB4u2yYc.jpg" group-title="NETFLIX 2022",Bárbaros S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZViFKyiDIJ3gRlK27bQB4u2yYc.jpg" group-title="NETFLIX 2022",Bárbaros S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZViFKyiDIJ3gRlK27bQB4u2yYc.jpg" group-title="NETFLIX 2022",Bárbaros S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZViFKyiDIJ3gRlK27bQB4u2yYc.jpg" group-title="NETFLIX 2022",Bárbaros S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZViFKyiDIJ3gRlK27bQB4u2yYc.jpg" group-title="NETFLIX 2022",Bárbaros S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaros S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZViFKyiDIJ3gRlK27bQB4u2yYc.jpg" group-title="NETFLIX 2022",Bárbaros S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betaal S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87nmt1R1W34fNOb31fvDnw15fUa.jpg" group-title="NETFLIX 2022",Betaal S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betaal S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87nmt1R1W34fNOb31fvDnw15fUa.jpg" group-title="NETFLIX 2022",Betaal S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betaal S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87nmt1R1W34fNOb31fvDnw15fUa.jpg" group-title="NETFLIX 2022",Betaal S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betaal S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/87nmt1R1W34fNOb31fvDnw15fUa.jpg" group-title="NETFLIX 2022",Betaal S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eOobdXCqm8288Wz2nJXUetX1sAD.jpg" group-title="NETFLIX 2022",Carta al rey S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eOobdXCqm8288Wz2nJXUetX1sAD.jpg" group-title="NETFLIX 2022",Carta al rey S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eOobdXCqm8288Wz2nJXUetX1sAD.jpg" group-title="NETFLIX 2022",Carta al rey S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eOobdXCqm8288Wz2nJXUetX1sAD.jpg" group-title="NETFLIX 2022",Carta al rey S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eOobdXCqm8288Wz2nJXUetX1sAD.jpg" group-title="NETFLIX 2022",Carta al rey S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta al rey S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eOobdXCqm8288Wz2nJXUetX1sAD.jpg" group-title="NETFLIX 2022",Carta al rey S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La facción Octubre S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7yrXh19tH2ThJHXriORT16WKbBi.jpg" group-title="NETFLIX 2022",La facción Octubre S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbqSEQvCyQK1QDYqG8lYlpS5oan.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbqSEQvCyQK1QDYqG8lYlpS5oan.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbqSEQvCyQK1QDYqG8lYlpS5oan.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbqSEQvCyQK1QDYqG8lYlpS5oan.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbqSEQvCyQK1QDYqG8lYlpS5oan.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbqSEQvCyQK1QDYqG8lYlpS5oan.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbqSEQvCyQK1QDYqG8lYlpS5oan.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbqSEQvCyQK1QDYqG8lYlpS5oan.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La monja guerrera S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pbqSEQvCyQK1QDYqG8lYlpS5oan.jpg" group-title="NETFLIX 2022",La monja guerrera S01 E09
+http://cc.userport.top:80/series/xp879637/225650/1737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VNWWEwDQqZFPzwY17doboxBKRK.jpg" group-title="NETFLIX 2022",Maldita S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VNWWEwDQqZFPzwY17doboxBKRK.jpg" group-title="NETFLIX 2022",Maldita S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VNWWEwDQqZFPzwY17doboxBKRK.jpg" group-title="NETFLIX 2022",Maldita S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VNWWEwDQqZFPzwY17doboxBKRK.jpg" group-title="NETFLIX 2022",Maldita S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VNWWEwDQqZFPzwY17doboxBKRK.jpg" group-title="NETFLIX 2022",Maldita S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VNWWEwDQqZFPzwY17doboxBKRK.jpg" group-title="NETFLIX 2022",Maldita S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VNWWEwDQqZFPzwY17doboxBKRK.jpg" group-title="NETFLIX 2022",Maldita S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VNWWEwDQqZFPzwY17doboxBKRK.jpg" group-title="NETFLIX 2022",Maldita S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VNWWEwDQqZFPzwY17doboxBKRK.jpg" group-title="NETFLIX 2022",Maldita S01 E09
+http://cc.userport.top:80/series/xp879637/225650/1746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maldita S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/VNWWEwDQqZFPzwY17doboxBKRK.jpg" group-title="NETFLIX 2022",Maldita S01 E10
+http://cc.userport.top:80/series/xp879637/225650/1747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E01
+http://cc.userport.top:80/series/xp879637/225650/1756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E02
+http://cc.userport.top:80/series/xp879637/225650/1757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E03
+http://cc.userport.top:80/series/xp879637/225650/1758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E04
+http://cc.userport.top:80/series/xp879637/225650/1759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E05
+http://cc.userport.top:80/series/xp879637/225650/1760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E06
+http://cc.userport.top:80/series/xp879637/225650/1761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E07
+http://cc.userport.top:80/series/xp879637/225650/1762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E08
+http://cc.userport.top:80/series/xp879637/225650/1763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTUzqX7Ude2JskIBQVgldRLEaaS.jpg" group-title="NETFLIX 2022",Animal S01 E09
+http://cc.userport.top:80/series/xp879637/225650/1764.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Wyrmwood: Apocalypse" tvg-logo="" group-title="CINE 2022",Wyrmwood: Apocalypse
+http://cc.userport.top:80/movie/xp879637/225650/1971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vuelta al insti" tvg-logo="" group-title="CINE 2022",Vuelta al insti
+http://cc.userport.top:80/movie/xp879637/225650/1970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venganza a golpes" tvg-logo="" group-title="CINE 2022",Venganza a golpes
+http://cc.userport.top:80/movie/xp879637/225650/1969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un lugar seguro" tvg-logo="" group-title="CINE 2022",Un lugar seguro
+http://cc.userport.top:80/movie/xp879637/225650/1968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un d&iacute;a para morir" tvg-logo="" group-title="CINE 2022",Un d&iacute;a para morir
+http://cc.userport.top:80/movie/xp879637/225650/1967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uncharted" tvg-logo="" group-title="CINE 2022",Uncharted
+http://cc.userport.top:80/movie/xp879637/225650/1965.avi
+#EXTINF:-1 tvg-id="" tvg-name="Una cita con el pasado" tvg-logo="" group-title="CINE 2022",Una cita con el pasado
+http://cc.userport.top:80/movie/xp879637/225650/1964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tratamiento real" tvg-logo="" group-title="CINE 2022",Tratamiento real
+http://cc.userport.top:80/movie/xp879637/225650/1963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The King's Man: La primera misi&oacute;n" tvg-logo="" group-title="CINE 2022",The King's Man: La primera misi&oacute;n
+http://cc.userport.top:80/movie/xp879637/225650/1962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Batman" tvg-logo="" group-title="CINE 2022",The Batman
+http://cc.userport.top:80/movie/xp879637/225650/1961.avi
+#EXTINF:-1 tvg-id="" tvg-name="Tal para cual" tvg-logo="" group-title="CINE 2022",Tal para cual
+http://cc.userport.top:80/movie/xp879637/225650/1960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tacticas en el amor" tvg-logo="" group-title="CINE 2022",Tacticas en el amor
+http://cc.userport.top:80/movie/xp879637/225650/1959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2" tvg-logo="" group-title="CINE 2022",Sonic 2
+http://cc.userport.top:80/movie/xp879637/225650/1958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2 La pelicula (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]" tvg-logo="" group-title="CINE 2022",Sonic 2 La pelicula (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]
+http://cc.userport.top:80/movie/xp879637/225650/1957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sneakerella Cenicienta En Zapatillas" tvg-logo="" group-title="CINE 2022",Sneakerella Cenicienta En Zapatillas
+http://cc.userport.top:80/movie/xp879637/225650/1956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin respiro (Sans repit)" tvg-logo="" group-title="CINE 2022",Sin respiro (Sans repit)
+http://cc.userport.top:80/movie/xp879637/225650/1955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Pudor" tvg-logo="" group-title="CINE 2022",Sin Pudor
+http://cc.userport.top:80/movie/xp879637/225650/1954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharkwater" tvg-logo="" group-title="CINE 2022",Sharkwater
+http://cc.userport.top:80/movie/xp879637/225650/1953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sex Appeal" tvg-logo="" group-title="CINE 2022",Sex Appeal
+http://cc.userport.top:80/movie/xp879637/225650/1952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream" tvg-logo="" group-title="CINE 2022",Scream
+http://cc.userport.top:80/movie/xp879637/225650/1951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red" tvg-logo="" group-title="CINE 2022",Red
+http://cc.userport.top:80/movie/xp879637/225650/1950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quiero que vuelvas (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.ART]" tvg-logo="" group-title="CINE 2022",Quiero que vuelvas (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.ART]
+http://cc.userport.top:80/movie/xp879637/225650/1949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que tengas un buen viaje" tvg-logo="" group-title="CINE 2022",Que tengas un buen viaje
+http://cc.userport.top:80/movie/xp879637/225650/1948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OVNI (UFO)" tvg-logo="" group-title="CINE 2022",OVNI (UFO)
+http://cc.userport.top:80/movie/xp879637/225650/1947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muerte en el Nilo (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.LINK]" tvg-logo="" group-title="CINE 2022",Muerte en el Nilo (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.LINK]
+http://cc.userport.top:80/movie/xp879637/225650/1946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morbius" tvg-logo="" group-title="CINE 2022",Morbius
+http://cc.userport.top:80/movie/xp879637/225650/1945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonshot" tvg-logo="" group-title="CINE 2022",Moonshot
+http://cc.userport.top:80/movie/xp879637/225650/1944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonfall" tvg-logo="" group-title="CINE 2022",Moonfall
+http://cc.userport.top:80/movie/xp879637/225650/1943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metal Lords" tvg-logo="" group-title="CINE 2022",Metal Lords
+http://cc.userport.top:80/movie/xp879637/225650/1942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las ninas de cristal (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.CLUB]" tvg-logo="" group-title="CINE 2022",Las ninas de cristal (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.CLUB]
+http://cc.userport.top:80/movie/xp879637/225650/1941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La octava clausula" tvg-logo="" group-title="CINE 2022",La octava clausula
+http://cc.userport.top:80/movie/xp879637/225650/1940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La matanza de Texas" tvg-logo="" group-title="CINE 2022",La matanza de Texas
+http://cc.userport.top:80/movie/xp879637/225650/1939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del rey" tvg-logo="" group-title="CINE 2022",La hija del rey
+http://cc.userport.top:80/movie/xp879637/225650/1938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La fierecilla indomable" tvg-logo="" group-title="CINE 2022",La fierecilla indomable
+http://cc.userport.top:80/movie/xp879637/225650/1937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La ciudad perdida (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]" tvg-logo="" group-title="CINE 2022",La ciudad perdida (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]
+http://cc.userport.top:80/movie/xp879637/225650/1936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La casa belleville (Master)" tvg-logo="" group-title="CINE 2022",La casa belleville (Master)
+http://cc.userport.top:80/movie/xp879637/225650/1935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La burbuja (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.LINK]" tvg-logo="" group-title="CINE 2022",La burbuja (2022) [BluRay Rip][AC3 5.1 Castellano][www.atomixHQ.LINK]
+http://cc.userport.top:80/movie/xp879637/225650/1934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kimi" tvg-logo="" group-title="CINE 2022",Kimi
+http://cc.userport.top:80/movie/xp879637/225650/1933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jugar En Casa" tvg-logo="" group-title="CINE 2022",Jugar En Casa
+http://cc.userport.top:80/movie/xp879637/225650/1932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackass Forever" tvg-logo="" group-title="CINE 2022",Jackass Forever
+http://cc.userport.top:80/movie/xp879637/225650/1931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackass Forever (2022)" tvg-logo="" group-title="CINE 2022",Jackass Forever (2022)
+http://cc.userport.top:80/movie/xp879637/225650/1930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackass 4.5" tvg-logo="" group-title="CINE 2022",Jackass 4.5
+http://cc.userport.top:80/movie/xp879637/225650/1929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incompatibles 2" tvg-logo="" group-title="CINE 2022",Incompatibles 2
+http://cc.userport.top:80/movie/xp879637/225650/1928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Love America" tvg-logo="" group-title="CINE 2022",I Love America
+http://cc.userport.top:80/movie/xp879637/225650/1927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ice Age Las aventuras de Buck" tvg-logo="" group-title="CINE 2022",Ice Age Las aventuras de Buck
+http://cc.userport.top:80/movie/xp879637/225650/1926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="How I Fell in Love with a Gangster" tvg-logo="" group-title="CINE 2022",How I Fell in Love with a Gangster
+http://cc.userport.top:80/movie/xp879637/225650/1925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heatwave (Ola de Calor)" tvg-logo="" group-title="CINE 2022",Heatwave (Ola de Calor)
+http://cc.userport.top:80/movie/xp879637/225650/1924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Granizo" tvg-logo="" group-title="CINE 2022",Granizo
+http://cc.userport.top:80/movie/xp879637/225650/1923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gold" tvg-logo="" group-title="CINE 2022",Gold
+http://cc.userport.top:80/movie/xp879637/225650/1922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell SAC_2045 Guerra sostenible" tvg-logo="" group-title="CINE 2022",Ghost in the Shell SAC_2045 Guerra sostenible
+http://cc.userport.top:80/movie/xp879637/225650/1921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frutos del viento (Windfall)" tvg-logo="" group-title="CINE 2022",Frutos del viento (Windfall)
+http://cc.userport.top:80/movie/xp879637/225650/1920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fresh" tvg-logo="" group-title="CINE 2022",Fresh
+http://cc.userport.top:80/movie/xp879637/225650/1919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fin de semana en Croacia" tvg-logo="" group-title="CINE 2022",Fin de semana en Croacia
+http://cc.userport.top:80/movie/xp879637/225650/1918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En la Toscana" tvg-logo="" group-title="CINE 2022",En la Toscana
+http://cc.userport.top:80/movie/xp879637/225650/1917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En la tormenta" tvg-logo="" group-title="CINE 2022",En la tormenta
+http://cc.userport.top:80/movie/xp879637/225650/1916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emergency" tvg-logo="" group-title="CINE 2022",Emergency
+http://cc.userport.top:80/movie/xp879637/225650/1915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El triangulo del diablo" tvg-logo="" group-title="CINE 2022",El triangulo del diablo
+http://cc.userport.top:80/movie/xp879637/225650/1914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El sueNo de Nate" tvg-logo="" group-title="CINE 2022",El sueNo de Nate
+http://cc.userport.top:80/movie/xp879637/225650/1913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El rescate de Ruby" tvg-logo="" group-title="CINE 2022",El rescate de Ruby
+http://cc.userport.top:80/movie/xp879637/225650/1912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso a casa de Madea" tvg-logo="" group-title="CINE 2022",El regreso a casa de Madea
+http://cc.userport.top:80/movie/xp879637/225650/1911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El proyecto Adam" tvg-logo="" group-title="CINE 2022",El proyecto Adam
+http://cc.userport.top:80/movie/xp879637/225650/1910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El privilegio" tvg-logo="" group-title="CINE 2022",El privilegio
+http://cc.userport.top:80/movie/xp879637/225650/1909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elige o muere" tvg-logo="" group-title="CINE 2022",Elige o muere
+http://cc.userport.top:80/movie/xp879637/225650/1908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El hilo imperceptible " tvg-logo="" group-title="CINE 2022",El hilo imperceptible 
+http://cc.userport.top:80/movie/xp879637/225650/1907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El cielo esta en cualquier lugar" tvg-logo="" group-title="CINE 2022",El cielo esta en cualquier lugar
+http://cc.userport.top:80/movie/xp879637/225650/1906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El asedio de Silverton" tvg-logo="" group-title="CINE 2022",El asedio de Silverton
+http://cc.userport.top:80/movie/xp879637/225650/1905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Aparcacoches" tvg-logo="" group-title="CINE 2022",El Aparcacoches
+http://cc.userport.top:80/movie/xp879637/225650/1904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce en casa" tvg-logo="" group-title="CINE 2022",Doce en casa
+http://cc.userport.top:80/movie/xp879637/225650/1903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despierta tigre" tvg-logo="" group-title="CINE 2022",Despierta tigre
+http://cc.userport.top:80/movie/xp879637/225650/1902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desperate Riders" tvg-logo="" group-title="CINE 2022",Desperate Riders
+http://cc.userport.top:80/movie/xp879637/225650/1901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dejate Llevar (Along For The Ride)" tvg-logo="" group-title="CINE 2022",Dejate Llevar (Along For The Ride)
+http://cc.userport.top:80/movie/xp879637/225650/1900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crush" tvg-logo="" group-title="CINE 2022",Crush
+http://cc.userport.top:80/movie/xp879637/225650/1899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corre y dispara" tvg-logo="" group-title="CINE 2022",Corre y dispara
+http://cc.userport.top:80/movie/xp879637/225650/1898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conspiracion en Hollywood" tvg-logo="" group-title="CINE 2022",Conspiracion en Hollywood
+http://cc.userport.top:80/movie/xp879637/225650/1897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chip y Chop" tvg-logo="" group-title="CINE 2022",Chip y Chop
+http://cc.userport.top:80/movie/xp879637/225650/1896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casate conmigo (Marry Me) (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]" tvg-logo="" group-title="CINE 2022",Casate conmigo (Marry Me) (2022) [BluRay Rip][AC3 5.1 Castellano][www.nucleohd.com]
+http://cc.userport.top:80/movie/xp879637/225650/1895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cangrejo negro (Black Crab)" tvg-logo="" group-title="CINE 2022",Cangrejo negro (Black Crab)
+http://cc.userport.top:80/movie/xp879637/225650/1894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camera Cafe, la pelicula" tvg-logo="" group-title="CINE 2022",Camera Cafe, la pelicula
+http://cc.userport.top:80/movie/xp879637/225650/1893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animales fantasticos los secretos de Dumbledore" tvg-logo="" group-title="CINE 2022",Animales fantasticos los secretos de Dumbledore
+http://cc.userport.top:80/movie/xp879637/225650/1892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A mi altura 2 (Tall Girl 2)" tvg-logo="" group-title="CINE 2022",A mi altura 2 (Tall Girl 2)
+http://cc.userport.top:80/movie/xp879637/225650/1891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente 355" tvg-logo="" group-title="CINE 2022",Agente 355
+http://cc.userport.top:80/movie/xp879637/225650/1890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 dias Aquel dia" tvg-logo="" group-title="CINE 2022",365 dias Aquel dia
+http://cc.userport.top:80/movie/xp879637/225650/1889.mp4
