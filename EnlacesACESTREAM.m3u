@@ -24,8 +24,6 @@ ACESTREAM://b67faee973e5a969a0adb02d476b78ef8cec4f3e
 ACESTREAM://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
 #EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 720
 ACESTREAM://2aab272d05089ce881538a1b3288d391de152d53
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL MULTIAUDIO
-ACESTREAM://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
 #EXTINF:-1 group-title="MUNDIAL",Gol Mundial 4K
 http://cc.userport.top:80/live/xp879637/225650/2083.ts
@@ -133,7 +131,6 @@ ACESTREAM://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 ACESTREAM://49c35606668ebf7a895434ec4c9243a163d87718
 #EXTINF:-1 group-title="LIGA 2ªDIV-ACE",GOL TV 1080 Opc1
 ACESTREAM://d4627f7b6b237a8556819445b3283d866caceca2
-
 
 #EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES HD
 ACESTREAM://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
@@ -336,22 +333,17 @@ ACESTREAM://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 #EXTINF:-1 group-title="DEPORTES-ACE",FOX 3 Argentina
 ACESTREAM://9a8c5485a38e9399e81b3eed23e588946946039f
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="Canales M+ ACE",Mega - 1080
-acestream://eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="Canales M+ ACE",Mega - 720
-http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="Canales M+ ACE",National Geographic
+#EXTINF:-1 group-title="TDT-M+ - ACE",,National Geographic
 Acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" group-title="Canales M+ ACE",Historia
+#EXTINF:-1 group-title="TDT-M+ - ACE",,Historia
 Acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
-
-#EXTINF:-1 group-title="TDT-ACE",LA 1 1080
+#EXTINF:-1 group-title="TDT-M+ - ACE",LA 1 1080
 ACESTREAM://b41d52a733be6f4709db3bdf33e260de2b67d27a
-#EXTINF:-1 group-title="TDT-ACE",LA 1 HD
+#EXTINF:-1 group-title="TDT-M+ - ACE",LA 1 HD
 ACESTREAM://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
-#EXTINF:-1 group-title="TDT-ACE",CUATRO 1080
+#EXTINF:-1 group-title="TDT-M+ - ACE",CUATRO 1080
 ACESTREAM://e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 group-title="TDT-ACE",TeleCinco 1080
+#EXTINF:-1 group-title="TDT-M+ - ACE",TeleCinco 1080
 ACESTREAM://cbf281d5e481697aa4184fe1de5e069928c95057
 
 #EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[US] ESPN2 USA 1080
@@ -527,6 +519,1578 @@ http://cc.userport.top:80/live/xp879637/225650/213.ts
 http://cc.userport.top:80/live/xp879637/225650/1503.ts
 #EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 5 HD
 http://cc.userport.top:80/live/xp879637/225650/1502.ts
+
+#EXTINF:-1 group-title="Canales 24/7",Xena La Princesa Guerrera 24/7
+http://cc.userport.top:80/live/xp879637/225650/1839.ts
+#EXTINF:-1 group-title="Canales 24/7",El Principe de Bel Air Temp 1 24/7
+http://cc.userport.top:80/live/xp879637/225650/1840.ts
+#EXTINF:-1 group-title="Canales 24/7",Expedientes X Temp 1 24/7
+http://cc.userport.top:80/live/xp879637/225650/1844.ts
+#EXTINF:-1 group-title="Canales 24/7",Los Simpsons Temp 1-5 24/7
+http://cc.userport.top:80/live/xp879637/225650/1846.ts
+#EXTINF:-1 group-title="Canales 24/7",Los Simpsons HD 24/7
+http://cc.userport.top:80/live/xp879637/225650/1847.ts
+#EXTINF:-1 group-title="Canales 24/7",Los Simpsons La casa-árbol del terror SD 24/7
+http://cc.userport.top:80/live/xp879637/225650/1848.ts
+#EXTINF:-1 group-title="Canales 24/7",Futurama 24/7
+http://cc.userport.top:80/live/xp879637/225650/1850.ts
+#EXTINF:-1 group-title="Canales 24/7",Futurama HD 24/7
+http://cc.userport.top:80/live/xp879637/225650/1851.ts
+#EXTINF:-1 group-title="Canales 24/7",Padre de Familia 24/7
+http://cc.userport.top:80/live/xp879637/225650/1852.ts
+#EXTINF:-1 group-title="Canales 24/7",Ben Y Holly 24/7
+http://cc.userport.top:80/live/xp879637/225650/1853.ts
+#EXTINF:-1 group-title="Canales 24/7",Fabulas de Disney 24/7
+http://cc.userport.top:80/live/xp879637/225650/1854.ts
+#EXTINF:-1 group-title="Canales 24/7",Patrulla Canina 24/7
+http://cc.userport.top:80/live/xp879637/225650/1855.ts
+#EXTINF:-1 group-title="Canales 24/7",Vaca y Pollito 24/7
+http://cc.userport.top:80/live/xp879637/225650/1856.ts
+#EXTINF:-1 group-title="Canales 24/7",Super Wings 24/7
+http://cc.userport.top:80/live/xp879637/225650/1857.ts
+#EXTINF:-1 group-title="Canales 24/7",El Bebé Jefazo (Vuelta al curro) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1858.ts
+#EXTINF:-1 group-title="Canales 24/7",Wabbit 24/7
+http://cc.userport.top:80/live/xp879637/225650/1859.ts
+#EXTINF:-1 group-title="Canales 24/7",Kim Possible HD 24/7
+http://cc.userport.top:80/live/xp879637/225650/1860.ts
+#EXTINF:-1 group-title="Canales 24/7",Lilo y Stitch HD 24/7
+http://cc.userport.top:80/live/xp879637/225650/1861.ts
+#EXTINF:-1 group-title="Canales 24/7",Caballeros del Zodiaco Torneo Galactico HD (1-40) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1862.ts
+#EXTINF:-1 group-title="Canales 24/7",Caballeros del Zodiaco Santuario HD (41-73) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1863.ts
+#EXTINF:-1 group-title="Canales 24/7",Caballeros del Zodiaco Asgard HD (74-99) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1864.ts
+#EXTINF:-1 group-title="Canales 24/7",Caballeros del Zodiaco Poseidon HD (100-114) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1865.ts
+#EXTINF:-1 group-title="Canales 24/7",Caballeros del Zodiaco Hades HD (115-145) 24/7
+http://cc.userport.top:80/live/xp879637/225650/1866.ts
+
+#EXTM3U
+
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL
+ACESTREAM://16150dafbbd4515a8b539a8e21e0f083f86416da
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080
+ACESTREAM://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080 opc1
+ACESTREAM://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080 opc2
+ACESTREAM://4e7b21206691ecdb489d4b1334944236f065e762
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720
+ACESTREAM://ea800270d91039624e821e2e9394d0bee4ea0e35
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc1
+ACESTREAM://bc125e7047cc7a83f58ae31c213899065d88794c
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc2
+ACESTREAM://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc3
+ACESTREAM://16150dafbbd4515a8b539a8e21e0f083f86416da
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 1080
+ACESTREAM://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 1080 opc1
+ACESTREAM://b67faee973e5a969a0adb02d476b78ef8cec4f3e
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 720
+ACESTREAM://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 720
+ACESTREAM://2aab272d05089ce881538a1b3288d391de152d53
+
+#EXTINF:-1 group-title="MUNDIAL",Gol Mundial 4K
+http://cc.userport.top:80/live/xp879637/225650/2083.ts
+#EXTINF:-1 group-title="MUNDIAL",Gol Mundial 2 4K
+http://cc.userport.top:80/live/xp879637/225650/2079.ts
+#EXTINF:-1 group-title="MUNDIAL",Gol Mundial 2 HD (H.265)
+http://cc.userport.top:80/live/xp879637/225650/2084.ts
+#EXTINF:-1 group-title="MUNDIAL",Gol Mundial 2 HD (1080P)
+http://cc.userport.top:80/live/xp879637/225650/2085.ts
+#EXTINF:-1 group-title="MUNDIAL",Gol Mundial 2 HD (720P)
+http://cc.userport.top:80/live/xp879637/225650/2086.ts
+#EXTINF:-1 group-title="MUNDIAL",Gol Mundial 2 HD FHD
+http://cc.userport.top:80/live/xp879637/225650/2080.ts
+#EXTINF:-1 group-title="MUNDIAL",Gol Mundial 2 HD HD
+http://cc.userport.top:80/live/xp879637/225650/2081.ts
+#EXTINF:-1 group-title="MUNDIAL",Gol Mundial 2 SD
+http://cc.userport.top:80/live/xp879637/225650/2082.ts
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL FHD
+http://cc.userport.top:80/live/xp879637/225650/2078.ts
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL HD
+http://cc.userport.top:80/live/xp879637/225650/2077.ts
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL SD
+http://cc.userport.top:80/live/xp879637/225650/2076.ts
+#EXTINF:-1 group-title="MUNDIAL", 001 Gol Mundial - 1080 Multiaudio
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="MUNDIAL", 002 Gol Mundial - 1080 (Opcion 1)
+acestream://4e7b21206691ecdb489d4b1334944236f065e762
+#EXTINF:-1 group-title="MUNDIAL", 003 Gol Mundial - 1080 (Opcion 2)
+acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
+#EXTINF:-1 group-title="MUNDIAL", 004 Gol Mundial - 1080 (Opcion 3)
+acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
+#EXTINF:-1 group-title="MUNDIAL", 005 Gol Mundial - 1080 (Opcion 4)
+acestream://2f54416685b49e9a8fbe73884712fe018e3e9855
+#EXTINF:-1 group-title="MUNDIAL", 006 Gol Mundial - 720 (Opcion 1)
+acestream://ea800270d91039624e821e2e9394d0bee4ea0e35
+#EXTINF:-1 group-title="MUNDIAL", 007 Gol Mundial - 720 (Opcion 2)
+acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
+#EXTINF:-1 group-title="MUNDIAL", 008 Gol Mundial - 720 (Opcion 3)
+acestream://bc125e7047cc7a83f58ae31c213899065d88794c
+#EXTINF:-1 group-title="MUNDIAL", 009 Gol Mundial 2 - 1080 (Opcion 1)
+acestream://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
+#EXTINF:-1 group-title="MUNDIAL", 010 Gol Mundial 2 - 1080 (Opcion 2)
+acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
+#EXTINF:-1 group-title="MUNDIAL", 011 Gol Mundial 2 - 1080 (Opcion 3)
+acestream://8a26b327719faf000af9c0f46014be28415eacf1
+#EXTINF:-1 group-title="MUNDIAL", 012 Gol Mundial 2 - 720 (Opcion 1)
+acestream://2aab272d05089ce881538a1b3288d391de152d53
+#EXTINF:-1 group-title="MUNDIAL", 013 Gol Mundial 2 - 720 (Opcion 2)
+acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL
+http://dalmanve.bio:2082/stop/stop/151637
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL FHD
+http://dalmanve.bio:2082/stop/stop/243743
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL HD
+http://dalmanve.bio:2082/stop/stop/243744
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL SD
+http://dalmanve.bio:2082/stop/stop/243745
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1 FHD
+http://dalmanve.bio:2082/stop/stop/243746
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1 HD
+http://dalmanve.bio:2082/stop/stop/243747
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1 SD
+http://dalmanve.bio:2082/stop/stop/243748
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/96700
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 1
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/96698
+#EXTINF:-1 group-title="MUNDIAL",GOL MUNDIAL 2
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/96699
+
+#EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 MultiAudio
+ACESTREAM://fee5612d57824b6e8db780f210ec54093056dc3a
+#EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 Multi opc-1
+ACESTREAM://df98650743f24a245c44cdf2851e57078f4c487a
+#EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 Multi opc-2
+ACESTREAM://c72263175266c90d376dcb8607c28e02939c1873
+#EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 720 
+ACESTREAM://c35d2207792128fc0ae49c40e885c463f664dbce
+#EXTINF:-1 group-title="LIGA-ACE",Dazn Liga
+ACESTREAM://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+#EXTINF:-1 group-title="LIGA-ACE",LaLiga Tv Bar 1080
+ACESTREAM://01b333b9369c662775902638ef8cffac346a0f61
+#EXTINF:-1 group-title="LIGA-ACE",LaLiga 720
+ACESTREAM://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 1080 MultiAudio
+ACESTREAM://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 1080 Multi opc-1
+ACESTREAM://684e5c085484e8ea79858713eeb7a3668baca29e
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 1080
+ACESTREAM://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 720
+ACESTREAM://df139bbcd7ae6825b46d5955c52d639f1215346a
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 2 1080
+ACESTREAM://4229d640fecf3c0897674241bcf851b67f4310e3
+#EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 2 720
+acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
+
+#EXTINF:-1 group-title="LIGA 2ªDIV-ACE",Liga Smartbank 1080
+ACESTREAM://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+#EXTINF:-1 group-title="LIGA 2ªDIV-ACE",Liga Smartbank 1080 Opc1
+ACESTREAM://d475208e72b5a343080afa0724c7b7c42264b9a0
+#EXTINF:-1 group-title="LIGA 2ªDIV-ACE",Liga Smartbank 720
+ACESTREAM://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
+#EXTINF:-1 group-title="LIGA 2ªDIV-ACE",GOL TV 1080
+ACESTREAM://49c35606668ebf7a895434ec4c9243a163d87718
+#EXTINF:-1 group-title="LIGA 2ªDIV-ACE",GOL TV 1080 Opc1
+ACESTREAM://d4627f7b6b237a8556819445b3283d866caceca2
+
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES HD
+ACESTREAM://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 1080 MultiAudio
+ACESTREAM://aedf221240a0f8513d90b555bf1b6e5306ac1e76
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 1080 Multi Opc1
+ACESTREAM://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 1080
+ACESTREAM://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 720
+ACESTREAM://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 720
+ACESTREAM://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES
+ACESTREAM://6f29350d83ab43eccebaecb6cf2daa887aec9cf6
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES Opc1
+ACESTREAM://b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP MULTICHAMPIONS
+ACESTREAM://f2b785193cfa99c581287be39e2fb5a73827957b
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 2 1080
+acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 2 1080 Opc1
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 2 720
+acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 2 720 Opc1
+acestream:/b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 2 720 Opc2
+acestream:/2d584c7335ff44f97c3cf64947892ef30fde715c
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 3 1080
+ACESTREAM://f2b785193cfa99c581287be39e2fb5a73827957b
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 3 1080 Opc1
+ACESTREAM://ecf4ec41200785812c140e3d1050b412f1519fa7
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 3 1080 Opc2
+ACESTREAM://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 3 1080 Opc3
+ACESTREAM://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 3 720
+ACESTREAM://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 4
+ACESTREAM://8a9018cccaa36014ab0f050e5132d5ee264f7737
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 4 Opc1
+ACESTREAM://a5d22610cb7bd5608c14249e3984bacb54dfe487
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 4 Opc2
+ACESTREAM://1a1b528109edead1904e3dbff575637a452dd1fa
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 4 Opc2
+ACESTREAM://297fab10d7364ca1991fa43fcff469573688ce7a
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 5
+ACESTREAM://662cceb5a2b23f2150172df24247fa220d8d95d4
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 5 Opc1
+ACESTREAM://8446f55486c0d8c39c7dda19f8dfb071ddca4c94
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 5 Opc2
+ACESTREAM://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 6
+acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMP 6 Opc1
+acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 7
+ACESTREAM://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 8
+ACESTREAM://fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 9
+ACESTREAM://69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 10
+ACESTREAM://df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 11
+ACESTREAM://57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF:-1 group-title="CHAMPIONS-ACE",M+ LIGA DE CAMPEONES 12
+ACESTREAM://33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 group-title="CHAMPIONS-ACE",Multichampions/MultiEuropaleague 1080
+ACESTREAM://f2b785193cfa99c581287be39e2fb5a73827957b
+#EXTINF:-1 group-title="CHAMPIONS-ACE",Multichampions/MultiEuropaleague 1080
+ACESTREAM://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
+#EXTINF:-1 group-title="CHAMPIONS-ACE",Multichampions/MultiEuropaleague 1080
+ACESTREAM://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9
+
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 1080
+ACESTREAM://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 1080 opc-1
+ACESTREAM://c372020ed2744033f56548b6beb11a9f3e740f37
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 1080 opc-2
+ACESTREAM://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 1080 opc-3
+ACESTREAM://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 1080 opc-4
+ACESTREAM://b13deca329dfd6b9a670faba1077b73f6ea7e188
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 720
+ACESTREAM://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 720 Opc1
+ACESTREAM://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
+#EXTINF:-1 group-title="F1-ACE",DAZN F1 720 Opc2
+ACESTREAM://12e7fb26141ec4a6d99588e0e870a1a441b37f83
+
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Vamos 1080
+ACESTREAM://069431a1199eb2545a14c0a724095e57bdc58e9c
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Vamos 1080 Opc1
+ACESTREAM://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Vamos 720
+ACESTREAM://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 1080
+ACESTREAM://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 1080 Opc1
+ACESTREAM://49acacbbbcf33be6e843958ceedc7da8dd4f1486
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 720
+ACESTREAM://e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 2 1080
+ACESTREAM://c47f756750190e4b2a9eefe8afdac48a2203b8d6
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 2 1080 Opc1
+ACESTREAM://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 3 1080
+ACESTREAM://85bd65161dfd8c4033194da3c978c0450c9111db
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 3 1080 Opc1
+ACESTREAM://ecf2096f9f612a70638d644fb621472a3ddaeb20
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 4 1080
+ACESTREAM://0c8935087510ee1c5117243a6cc46f9d6d795faf
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 4 1080 Opc1
+ACESTREAM://08db089084ddbaceba7c239817407bf99708b9ad
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 5 1080
+ACESTREAM://478833f6390f04e95c6d94180a784b78ad540d2f
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 5 1080 Opc1
+ACESTREAM://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 6 1080
+ACESTREAM://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 7 1080
+ACESTREAM://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Deportes 8 SD
+ACESTREAM://b779e6056975e3682a804d47cbd5cc806217f64d
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 1 1080
+ACESTREAM://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 1 1080 Opc1
+ACESTREAM://d4d4200a1e52fc23940b2dde915600af7e9a6b05
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 1 720
+ACESTREAM://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 1 720 Opc1
+ACESTREAM://84af46abab9de02bdd22818747738cfa5438132e
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 2 1080
+ACESTREAM://42fea4e172bf3debe0e004260bdd077fe0b4f58e
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 2 1080 opc1
+ACESTREAM://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 2 720
+ACESTREAM://6709a124e9ec6c95d35496cfa59d8ba24ff2cfaf
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 2 720 opc1
+ACESTREAM://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 3 1080
+ACESTREAM://bfbcda5a0999256360ce560caf2a6473aafc3f11
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 3 1080 Opc1
+ACESTREAM://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 4 1080
+ACESTREAM://a0465ef421f30d0c68ff706654147762ec7b6c03
+#EXTINF:-1 group-title="DEPORTES-ACE",DAZN 4 1080 Opc1
+ACESTREAM://149a38e333de920753f1388c43247283bdb05f5b
+#EXTINF:-1 group-title="DEPORTES-ACE",M. Golf 1080
+ACESTREAM://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="DEPORTES-ACE",eurosport 1 1080
+ACESTREAM://40da37534656efcc6179c1b7693335d5e8212e43
+#EXTINF:-1 group-title="DEPORTES-ACE",eurosport 1 1080 Opc1
+ACESTREAM://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+#EXTINF:-1 group-title="DEPORTES-ACE",eurosport 2 1080
+ACESTREAM://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
+#EXTINF:-1 group-title="DEPORTES-ACE",tdp 1080 (TeleDeporte) 
+ACESTREAM://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
+#EXTINF:-1 group-title="DEPORTES-ACE",tdp 1080 (TeleDeporte) 
+ACESTREAM://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+#EXTINF:-1 group-title="DEPORTES-ACE",# 0
+ACESTREAM://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1 group-title="DEPORTES-ACE",Sport Tv 1 1080
+ACESTREAM://56bb17b376ec52b5e58679d87ed2bd9e70be2175
+#EXTINF:-1 group-title="DEPORTES-ACE",Sport Tv 1 1080 Opc1
+ACESTREAM://c95422bc904378be0b035eba721d5e6a004f7d79
+#EXTINF:-1 group-title="DEPORTES-ACE",Sport Tv 2 1080
+ACESTREAM://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
+#EXTINF:-1 group-title="DEPORTES-ACE",Sport Tv 2 1080 Opc1
+ACESTREAM://a1bd609a2d64d1ee4b81af32464b36848fe36541
+#EXTINF:-1 group-title="DEPORTES-ACE",Sport Tv 3
+ACESTREAM://3c81c395fc9385c650e0fba8c286935c594f7e1a
+#EXTINF:-1 group-title="DEPORTES-ACE",Sport Tv 3 Opc1
+ACESTREAM://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
+#EXTINF:-1 group-title="DEPORTES-ACE",beIN SPORTS ñ 1080
+ACESTREAM://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
+#EXTINF:-1 group-title="DEPORTES-ACE",beIN SPORTS ñ 1080
+ACESTREAM://c0f38f2a4b891db823edb45e64f1191655526e5e
+#EXTINF:-1 group-title="DEPORTES-ACE",beIN SPORTS ñ 1080 Opc1
+ACESTREAM://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
+#EXTINF:-1 group-title="DEPORTES-ACE",Barça HD
+ACESTREAM://65c141632af256d70da66c767ba74360042b4396
+#EXTINF:-1 group-title="DEPORTES-ACE",Barça HD Opc1
+ACESTREAM://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+#EXTINF:-1 group-title="DEPORTES-ACE",ESPN Uruguay
+ACESTREAM://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1 group-title="DEPORTES-ACE",ESPN2 Uruguay
+ACESTREAM://e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1 group-title="DEPORTES-ACE",ESPN3 Uruguay
+ACESTREAM://b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1 group-title="DEPORTES-ACE",Directv Ecuador
+ACESTREAM://f3f14b89eb62839f97153593432370b5bd61a5df
+#EXTINF:-1 group-title="DEPORTES-ACE",ESPN Argentina
+ACESTREAM://8d065adeb9603cb93a080930a45eb5bd457483c6
+#EXTINF:-1 group-title="DEPORTES-ACE",ESPN3 Argentina
+ACESTREAM://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
+#EXTINF:-1 group-title="DEPORTES-ACE",FOX 3 Argentina
+ACESTREAM://9a8c5485a38e9399e81b3eed23e588946946039f
+
+#EXTINF:-1 group-title="TDT-M+ - ACE",,National Geographic
+Acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
+#EXTINF:-1 group-title="TDT-M+ - ACE",,Historia
+Acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
+#EXTINF:-1 group-title="TDT-M+ - ACE",LA 1 1080
+ACESTREAM://b41d52a733be6f4709db3bdf33e260de2b67d27a
+#EXTINF:-1 group-title="TDT-M+ - ACE",LA 1 HD
+ACESTREAM://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1 group-title="TDT-M+ - ACE",CUATRO 1080
+ACESTREAM://e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 group-title="TDT-M+ - ACE",TeleCinco 1080
+ACESTREAM://cbf281d5e481697aa4184fe1de5e069928c95057
+
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[US] ESPN2 USA 1080
+ACESTREAM://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[US] ESPN2 USA 720
+ACESTREAM://5ae9afd963961cd07e8f690e44a6596a2bb4e51e 
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[US] ESPN2 USA 720
+ACESTREAM://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[UK] SKY SPORT F1
+ACESTREAM://94cbe1ffb1080b4201f198a09ee0e53d1782dcd2
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[DE] SKY SPORT F1
+ACESTREAM://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[RO] DIGI SPORT 1
+ACESTREAM://5de76e366b44da7f88363a74aa2fa1bef30395fe
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PL] ELEVEN SPORTS 1 4K
+ACESTREAM://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PL] ELEVEN SPORTS 1 HD
+ACESTREAM://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PL] POLSAT HD
+ACESTREAM://c1293ef063e72781be0d93c84d12ec1efbcc961d
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[BE] ZİGGO SPORT SELECT
+ACESTREAM://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[UK] SETANTA SPORTS
+ACESTREAM://58f2d9438e8b7816294dd7fe28aaf1af61e5bf1f
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",TV 3 +
+ACESTREAM://e1e5e6afd93ef6a9beb9e38be2d2f7523f3a6295
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",DIEMA SPORT
+ACESTREAM://8c6a3a49e43b6d05ac93b83fe4a41660caffae01
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",EN RUSO
+ACESTREAM://904171be222a00f513debf23fbc8da283112eb97
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",EN RUSO
+ACESTREAM://70b635b202b7739508e45f0b6a362e0accfeda94
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",EN RUSO
+ACESTREAM://f254bb19c9f01052c2b7f364860c553820d7fbf9
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",EN RUSO
+ACESTREAM://80737dabe2aec2ce56f992d514f7cf1e257ee34d
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[UK] SKY SPORTS MAİN EVENT 1080
+ACESTREAM://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[UK] SKY SPORTS MAİN EVENT 1080
+ACESTREAM://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PT] SPORT TV 3 HD 1080
+ACESTREAM://3c81c395fc9385c650e0fba8c286935c594f7e1a
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PT] SPORT TV 3 HD 1080
+ACESTREAM://4d78fadc6701008fb528202d9671e1d0f2acd486
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[UK]SKY SPORTS ARENA
+ACESTREAM://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[DE] DAZN 2 BAR HD
+ACESTREAM://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PL] CANAL+ SPORT 2 HD
+ACESTREAM://6390b1ab967a25777ea2dde1d41b7400cc0601d3
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PL] POLSAT SPORT PREMİUM 1
+ACESTREAM://4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PT] SPORT TV 1 HD 1080
+ACESTREAM://56bb17b376ec52b5e58679d87ed2bd9e70be2175
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[UK]SKY SPORTS ARENA
+ACESTREAM://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[FR] BEIN SPORTS 1
+ACESTREAM://54cbfaf8ad446499aae28ae50b512d95c263f811
+#EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PL] CANAL+ SPORT 1 HD
+ACESTREAM://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF A" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF A
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/85236
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF B" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF B
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/85237
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF C" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF C
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/85238
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 1 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 1 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95021
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 2 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 2 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95022
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 3 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 3 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95023
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 4 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 4 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95024
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 5 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 5 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95025
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 6 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 6 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95026
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 7 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 7 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95027
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 8 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 8 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95028
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 9 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 9 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95029
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 10 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 10 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95030
+
+#EXTINF:-1 group-title="LA LIGA",DAZN LaLiga SD
+http://cc.userport.top:80/live/xp879637/225650/1774.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LaLiga HD
+http://cc.userport.top:80/live/xp879637/225650/1775.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LA LIGA FHD
+http://cc.userport.top:80/live/xp879637/225650/1888.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LA LIGA 2 SD
+http://cc.userport.top:80/live/xp879637/225650/1781.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LA LIGA 2 HD
+http://cc.userport.top:80/live/xp879637/225650/1780.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LaLiga2 FHD
+http://cc.userport.top:80/live/xp879637/225650/1769.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank FHD
+http://cc.userport.top:80/live/xp879637/225650/1772.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank1 FHD
+http://cc.userport.top:80/live/xp879637/225650/1773.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank1 HD
+http://cc.userport.top:80/live/xp879637/225650/1776.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank1 SD
+http://cc.userport.top:80/live/xp879637/225650/1777.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank HD
+http://cc.userport.top:80/live/xp879637/225650/1778.ts
+#EXTINF:-1 group-title="LA LIGA",LigaSmartBank SD
+http://cc.userport.top:80/live/xp879637/225650/1779.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA SD
+http://cc.userport.top:80/live/xp879637/225650/182.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD
+http://cc.userport.top:80/live/xp879637/225650/183.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA FHD
+http://cc.userport.top:80/live/xp879637/225650/184.ts
+#EXTINF:-1 group-title="LA LIGA",M+LA LIGA 1 SD
+http://cc.userport.top:80/live/xp879637/225650/185.ts
+#EXTINF:-1 group-title="LA LIGA",M+LA LIGA 1 HD
+http://cc.userport.top:80/live/xp879637/225650/186.ts
+#EXTINF:-1 group-title="LA LIGA",M+LA LIGA 1 FHD
+http://cc.userport.top:80/live/xp879637/225650/187.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA SD 2
+http://cc.userport.top:80/live/xp879637/225650/188.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD 2
+http://cc.userport.top:80/live/xp879637/225650/189.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA FHD 2
+http://cc.userport.top:80/live/xp879637/225650/190.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA SD 3
+http://cc.userport.top:80/live/xp879637/225650/191.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD 3
+http://cc.userport.top:80/live/xp879637/225650/192.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA FHD 3
+http://cc.userport.top:80/live/xp879637/225650/193.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA SD 4
+http://cc.userport.top:80/live/xp879637/225650/194.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD 4
+http://cc.userport.top:80/live/xp879637/225650/195.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA FHD 4
+http://cc.userport.top:80/live/xp879637/225650/196.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA SD 5
+http://cc.userport.top:80/live/xp879637/225650/197.ts
+#EXTINF:-1 group-title="LA LIGA",M+ LA LIGA HD 5
+http://cc.userport.top:80/live/xp879637/225650/198.ts
+#EXTINF:-1 group-title="LA LIGA",M+LA LIGA 4k
+http://cc.userport.top:80/live/xp879637/225650/1782.ts
+
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES SD
+http://cc.userport.top:80/live/xp879637/225650/200.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES HD Option1
+http://cc.userport.top:80/live/xp879637/225650/201.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES FHD
+http://cc.userport.top:80/live/xp879637/225650/202.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 SD
+http://cc.userport.top:80/live/xp879637/225650/206.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 HD
+http://cc.userport.top:80/live/xp879637/225650/207.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 FHD
+http://cc.userport.top:80/live/xp879637/225650/208.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 SD
+http://cc.userport.top:80/live/xp879637/225650/209.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 HD
+http://cc.userport.top:80/live/xp879637/225650/210.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 FHD
+http://cc.userport.top:80/live/xp879637/225650/211.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 4 SD
+http://cc.userport.top:80/live/xp879637/225650/212.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 4 HD
+http://cc.userport.top:80/live/xp879637/225650/213.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 6 HD
+http://cc.userport.top:80/live/xp879637/225650/1503.ts
+#EXTINF:-1 group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 5 HD
+http://cc.userport.top:80/live/xp879637/225650/1502.ts
+
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="UT- La 1 HD" tvg-logo="http://discusfish.xyz:8080/images/14db5ba93460bc2fed9a10f4df7eacf2.jpg" group-title="MOVISTAR",UT- La 1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/787
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="L- La 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/14db5ba93460bc2fed9a10f4df7eacf2.jpg" group-title="MOVISTAR",L- La 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2663
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="PT- La 1 FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve1.jpg" group-title="MOVISTAR",PT- La 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1094
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="GT- La 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/14db5ba93460bc2fed9a10f4df7eacf2.jpg" group-title="MOVISTAR",GT- La 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/217663
+#EXTINF:-1 tvg-id="la2.es" tvg-name="GT- La 2 HD" tvg-logo="http://discusfish.xyz:8080/images/12c97692d21da7a1843275600c71ed39.jpg" group-title="MOVISTAR",GT- La 2 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/154
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="L- La 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/12c97692d21da7a1843275600c71ed39.jpg" group-title="MOVISTAR",L- La 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2664
+#EXTINF:-1 tvg-id="" tvg-name="PT- La 2 FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve2.jpg" group-title="MOVISTAR",PT- La 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1095
+#EXTINF:-1 tvg-id="" tvg-name="UT- La 2 FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve2.jpg" group-title="MOVISTAR",UT- La 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/217662
+#EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-name="LT- Antena 3 SD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/antena3-1.jpg" group-title="MOVISTAR",LT- Antena 3 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/155
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-name="GT- Antena 3 HD" tvg-logo="http://discusfish.xyz:8080/images/ed6e4455db1e570be02c8e6bdde8fd4b.jpg" group-title="MOVISTAR",GT- Antena 3 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/526
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="PT- Antena 3 FHD" tvg-logo="http://discusfish.xyz:8080/images/ed6e4455db1e570be02c8e6bdde8fd4b.jpg" group-title="MOVISTAR",PT- Antena 3 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1096
+#EXTINF:-1 tvg-id="" tvg-name="UT- Antena 3 FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/antena3-1.jpg" group-title="MOVISTAR",UT- Antena 3 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/217661
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="TT- Cuatro SD" tvg-logo="http://discusfish.xyz:8080/images/c8f939d234b113f703e2ce8f87d4bb25.jpg" group-title="MOVISTAR",TT- Cuatro SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/157
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="GT- Cuatro HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/cuatro_es.jpg" group-title="MOVISTAR",GT- Cuatro HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1097
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="PT- Cuatro FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/cuatro_es.jpg" group-title="MOVISTAR",PT- Cuatro FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/527
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="UT- Cuatro FHD" tvg-logo="http://discusfish.xyz:8080/images/c8f939d234b113f703e2ce8f87d4bb25.jpg" group-title="MOVISTAR",UT- Cuatro FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/217660
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="UT- Telecinco SD" tvg-logo="http://discusfish.xyz:8080/images/9c028e6e0865b70e63a8cc3b4bf9c7eb.jpg" group-title="MOVISTAR",UT- Telecinco SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/159
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="GT- Telecinco HD" tvg-logo="http://discusfish.xyz:8080/images/9c028e6e0865b70e63a8cc3b4bf9c7eb.jpg" group-title="MOVISTAR",GT- Telecinco HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/528
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="PT- Telecinco FHD" tvg-logo="http://discusfish.xyz:8080/images/9c028e6e0865b70e63a8cc3b4bf9c7eb.jpg" group-title="MOVISTAR",PT- Telecinco FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1098
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TT- Telecinco FHD" tvg-logo="http://discusfish.xyz:8080/images/9c028e6e0865b70e63a8cc3b4bf9c7eb.jpg" group-title="MOVISTAR",TT- Telecinco FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/217659
+#EXTINF:-1 tvg-id="lasxta.es" tvg-name="UT- La Sexta SD" tvg-logo="http://discusfish.xyz:8080/images/14d497d554f56b361d3ceab638eb8c5b.jpg" group-title="MOVISTAR",UT- La Sexta SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1099
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="L- La Sexta FHD" tvg-logo="http://discusfish.xyz:8080/images/14d497d554f56b361d3ceab638eb8c5b.jpg" group-title="MOVISTAR",L- La Sexta FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/777
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="PT- La Sexta FHD" tvg-logo="http://discusfish.xyz:8080/images/14d497d554f56b361d3ceab638eb8c5b.jpg" group-title="MOVISTAR",PT- La Sexta FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/529
+#EXTINF:-1 tvg-id="" tvg-name="OT- La Sexta FHD" tvg-logo="http://discusfish.xyz:8080/images/14d497d554f56b361d3ceab638eb8c5b.jpg" group-title="MOVISTAR",OT- La Sexta FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/217658
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="DT- El Toro TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSiW8l3ksQB27CyfaJab8_eCqh1_ll-Y2UbEgiA5SD8sFpNgh&s" group-title="MOVISTAR",DT- El Toro TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/161
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="UT- 24 Horas" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve_canal_24horas.jpg" group-title="MOVISTAR",UT- 24 Horas
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/530
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + ESTILO DE VIDA + + + + + +" tvg-logo="" group-title="MOVISTAR",+ + + + + ESTILO DE VIDA + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/531
+#EXTINF:-1 tvg-id="NOVA" tvg-name="GT- Nova HD" tvg-logo="http://discusfish.xyz:8080/images/5205e53e92b6420b9721e2de793d990c.jpg" group-title="MOVISTAR",GT- Nova HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/535
+#EXTINF:-1 tvg-id="" tvg-name="UT- Nova FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/antena_nova.jpg" group-title="MOVISTAR",UT- Nova FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/786
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="GT- Canal Cocina HD" tvg-logo="http://discusfish.xyz:8080/images/22b1af1ce02dc958ff528fbb7d94a4fa.jpg" group-title="MOVISTAR",GT- Canal Cocina HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/532
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="LT- Canal Cocina FHD" tvg-logo="http://discusfish.xyz:8080/images/22b1af1ce02dc958ff528fbb7d94a4fa.jpg" group-title="MOVISTAR",LT- Canal Cocina FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/778
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="UT- DeCasa HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/decasa.jpg" group-title="MOVISTAR",UT- DeCasa HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/533
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="GT- DeCasa FHD" tvg-logo="http://discusfish.xyz:8080/images/5039f7b19fd1975ca6c5251415ac988a.jpg" group-title="MOVISTAR",GT- DeCasa FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/779
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="L- Divinity FHD" tvg-logo="http://discusfish.xyz:8080/images/67e643c104c8168cbc93f0d70fbc1835.jpg" group-title="MOVISTAR",L- Divinity FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/198089
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="GT- Divinity HD" tvg-logo="http://discusfish.xyz:8080/images/67e643c104c8168cbc93f0d70fbc1835.jpg" group-title="MOVISTAR",GT- Divinity HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/534
+#EXTINF:-1 tvg-id="DKISS" tvg-name="L- Dkiss SD" tvg-logo="http://discusfish.xyz:8080/images/3cef7b0ac357c339506355d8234d9a7e.jpg" group-title="MOVISTAR",L- Dkiss SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/536
+#EXTINF:-1 tvg-id="DKISS" tvg-name="PT- Dkiss HD" tvg-logo="http://discusfish.xyz:8080/images/3cef7b0ac357c339506355d8234d9a7e.jpg" group-title="MOVISTAR",PT- Dkiss HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/81495
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="L- Be Mad FHD" tvg-logo="http://discusfish.xyz:8080/images/2f397144c8d8148e51e8c8392abfdcbe.png" group-title="MOVISTAR",L- Be Mad FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/745
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="GD- Be Mad HD" tvg-logo="http://discusfish.xyz:8080/images/2f397144c8d8148e51e8c8392abfdcbe.png" group-title="MOVISTAR",GD- Be Mad HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2467
+#EXTINF:-1 tvg-id="NEOX" tvg-name="L- Neox FHD" tvg-logo="http://discusfish.xyz:8080/images/28189d8022ae217a3be20a0abb1b18b8.jpg" group-title="MOVISTAR",L- Neox FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1052
+#EXTINF:-1 tvg-id="NEOX" tvg-name="GT- Neox FHD" tvg-logo="http://discusfish.xyz:8080/images/28189d8022ae217a3be20a0abb1b18b8.jpg" group-title="MOVISTAR",GT- Neox FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/785
+#EXTINF:-1 tvg-id="Ten" tvg-name="UT- TEN" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/ten.jpg" group-title="MOVISTAR",UT- TEN
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/537
+#EXTINF:-1 tvg-id="" tvg-name="DT- TRECE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYTU4rmEOAxgzv6B1MbIRyWr_mFD41lEbu8Ocg5kOfHlvM0EL&s" group-title="MOVISTAR",DT- TRECE
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/25433
+#EXTINF:-1 tvg-id="" tvg-name="PT- M. Fest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Movistar-Fest.png" group-title="MOVISTAR",PT- M. Fest HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/203845
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="L- M. Fest FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Movistar-Fest.png" group-title="MOVISTAR",L- M. Fest FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197500
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + C I N E + + + + + + + +" tvg-logo="" group-title="MOVISTAR",+ + + + + + + C I N E + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197511
+#EXTINF:-1 tvg-id="#0.es" tvg-name="GC- M. #0 SD" tvg-logo="http://discusfish.xyz:8080/images/0.png" group-title="MOVISTAR",GC- M. #0 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2475
+#EXTINF:-1 tvg-id="0.es" tvg-name="UC- M. #0 HD" tvg-logo="http://discusfish.xyz:8080/images/0.png" group-title="MOVISTAR",UC- M. #0 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/759
+#EXTINF:-1 tvg-id="" tvg-name="PC- M. #0 FHD" tvg-logo="http://discusfish.xyz:8080/images/0.png" group-title="MOVISTAR",PC- M. #0 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/370
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="TC- M. Accion SD" tvg-logo="https://spng.pngfind.com/pngs/s/342-3426240_logo-movistar-accion-hd-png-download.png" group-title="MOVISTAR",TC- M. Accion SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/362
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="GC- M. Accion HD" tvg-logo="http://discusfish.xyz:8080/images/53a194da0f455b58f48992f1b871d605.png" group-title="MOVISTAR",GC- M. Accion HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/761
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="PC- M. Accion FHD" tvg-logo="https://spng.pngfind.com/pngs/s/342-3426240_logo-movistar-accion-hd-png-download.png" group-title="MOVISTAR",PC- M. Accion FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1040
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="TC- M. Estrenos SD" tvg-logo="http://discusfish.xyz:8080/images/3c400518941b58e0ec3cc42e708701ab.jpg" group-title="MOVISTAR",TC- M. Estrenos SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1041
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="GC- M. Estrenos HD" tvg-logo="http://discusfish.xyz:8080/images/3c400518941b58e0ec3cc42e708701ab.jpg" group-title="MOVISTAR",GC- M. Estrenos HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/366
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="PC- M. Estrenos FHD" tvg-logo="http://discusfish.xyz:8080/images/3c400518941b58e0ec3cc42e708701ab.jpg" group-title="MOVISTAR",PC- M. Estrenos FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/760
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="OC- Estrenos 2 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/c/8/xmovistar-estrenos-2.jpg.pagespeed.ic.Tw2HX1jioU.jpg" group-title="MOVISTAR",OC- Estrenos 2 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197783
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="L- Estrenos 2 SD" tvg-logo="http://discusfish.xyz:8080/images/aa5d35e8322b48cbc0b35998eb54e63e.jpg" group-title="MOVISTAR",L- Estrenos 2 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197781
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="PC- Estrenos 2 FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/c/8/xmovistar-estrenos-2.jpg.pagespeed.ic.Tw2HX1jioU.jpg" group-title="MOVISTAR",PC- Estrenos 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197815
+#EXTINF:-1 tvg-id="M.COMEDIA" tvg-name="GC- M. Comedia SD" tvg-logo="http://discusfish.xyz:8080/images/628a5ac4500a2c74509d71e956f767f2.jpg" group-title="MOVISTAR",GC- M. Comedia SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1042
+#EXTINF:-1 tvg-id="" tvg-name="TC- M. Comedia HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.Pgg7NiIrIU.jpg" group-title="MOVISTAR",TC- M. Comedia HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/368
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="PC- M. Comedia FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-comedia.jpg.pagespeed.ic.Pgg7NiIrIU.jpg" group-title="MOVISTAR",PC- M. Comedia FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1035
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="PC- M. Dcine Espanyol SD" tvg-logo="http://discusfish.xyz:8080/images/9479e361856b34666142d2a4d6e7d2bf.jpg" group-title="MOVISTAR",PC- M. Dcine Espanyol SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/765
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="UC- M. Dcine Espanyol HD" tvg-logo="http://discusfish.xyz:8080/images/9479e361856b34666142d2a4d6e7d2bf.jpg" group-title="MOVISTAR",UC- M. Dcine Espanyol HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/369
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="GC- M. Dcine Espanyol FHD" tvg-logo="http://discusfish.xyz:8080/images/9479e361856b34666142d2a4d6e7d2bf.jpg" group-title="MOVISTAR",GC- M. Dcine Espanyol FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197785
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="GC- M. Drama SD" tvg-logo="http://discusfish.xyz:8080/images/afdc027805625a9b574a92f423a019ab.jpg" group-title="MOVISTAR",GC- M. Drama SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1043
+#EXTINF:-1 tvg-id="" tvg-name="UC- M. Drama HD" tvg-logo="http://discusfish.xyz:8080/images/afdc027805625a9b574a92f423a019ab.jpg" group-title="MOVISTAR",UC- M. Drama HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/367
+#EXTINF:-1 tvg-id="mdrama.es" tvg-name="PC- M. Drama FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.CCSz56TBeI.jpg" group-title="MOVISTAR",PC- M. Drama FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/758
+#EXTINF:-1 tvg-id="" tvg-name="UC- M. Clasicos SD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/x/7/d/movistar-clasicos.jpg" group-title="MOVISTAR",UC- M. Clasicos SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/203844
+#EXTINF:-1 tvg-id="" tvg-name="L- M. Clasicos HD" tvg-logo="http://discusfish.xyz:8080/images/b2d0a20cd796243dd997abd858f48a20.jpg" group-title="MOVISTAR",L- M. Clasicos HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/202865
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="MC- M. Clasicos FHD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/x/7/d/movistar-clasicos.jpg" group-title="MOVISTAR",MC- M. Clasicos FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/203847
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="GC- M. Series SD" tvg-logo="http://discusfish.xyz:8080/images/b73d774dc28822a76de3d5575237cb7e.png" group-title="MOVISTAR",GC- M. Series SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197787
+#EXTINF:-1 tvg-id="" tvg-name="OC- M. Series HD" tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="MOVISTAR",OC- M. Series HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/754
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="PC- M. Series FHD" tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="MOVISTAR",PC- M. Series FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/365
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="OC- M. Series 2 SD" tvg-logo="http://discusfish.xyz:8080/images/03bf76b6a8bc9bdd0077f4395608f402.jpg" group-title="MOVISTAR",OC- M. Series 2 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197784
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="L- M. Series 2 HD" tvg-logo="http://discusfish.xyz:8080/images/03bf76b6a8bc9bdd0077f4395608f402.jpg" group-title="MOVISTAR",L- M. Series 2 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197786
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="GC- M. Series 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/03bf76b6a8bc9bdd0077f4395608f402.jpg" group-title="MOVISTAR",GC- M. Series 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197782
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="OC- La Resistencia 24h HD" tvg-logo="http://discusfish.xyz:8080/images/7ffae8edd920e3bc628e36ccb719be02.jpg" group-title="MOVISTAR",OC- La Resistencia 24h HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/219877
+#EXTINF:-1 tvg-id="" tvg-name="UC- La Resistencia 24h FHD" tvg-logo="http://discusfish.xyz:8080/images/7ffae8edd920e3bc628e36ccb719be02.jpg" group-title="MOVISTAR",UC- La Resistencia 24h FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/219880
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="PC- A3Series FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/atreseries.jpg" group-title="MOVISTAR",PC- A3Series FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/383
+#EXTINF:-1 tvg-id="fox.es" tvg-name="L- Fox SD" tvg-logo="http://discusfish.xyz:8080/images/02deb97e6f65aca44622a44daa18bd3e.jpg" group-title="MOVISTAR",L- Fox SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197788
+#EXTINF:-1 tvg-id="fox.es" tvg-name="GC- Fox HD" tvg-logo="http://discusfish.xyz:8080/images/02deb97e6f65aca44622a44daa18bd3e.jpg" group-title="MOVISTAR",GC- Fox HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/748
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="O- Fox FHD" tvg-logo="http://discusfish.xyz:8080/images/02deb97e6f65aca44622a44daa18bd3e.jpg" group-title="MOVISTAR",O- Fox FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/371
+#EXTINF:-1 tvg-id="axn.es" tvg-name="TC- AXN SD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/axn-3.jpg" group-title="MOVISTAR",TC- AXN SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197790
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="L- AXN HD" tvg-logo="http://discusfish.xyz:8080/images/7a21753e5eb14a3d4e4accf0fb06762b.jpg" group-title="MOVISTAR",L- AXN HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/749
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="PC- AXN FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/axn-3.jpg" group-title="MOVISTAR",PC- AXN FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/373
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="UC- AXN White SD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/axn_white_us-4.jpg" group-title="MOVISTAR",UC- AXN White SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197791
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="GC- AXN White HD" tvg-logo="http://discusfish.xyz:8080/images/83541236b8f5bfa45618fbb3c54d6e94.jpg" group-title="MOVISTAR",GC- AXN White HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1036
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="PC- AXN White FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/axn_white_us-4.jpg" group-title="MOVISTAR",PC- AXN White FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/374
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="L- TCM SD" tvg-logo="http://discusfish.xyz:8080/images/ca91168b489cb24355801f05b5f2f22b.jpg" group-title="MOVISTAR",L- TCM SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197792
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="GC- TCM HD" tvg-logo="http://discusfish.xyz:8080/images/ca91168b489cb24355801f05b5f2f22b.jpg" group-title="MOVISTAR",GC- TCM HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/767
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="PC- TCM FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tcm_es-1.jpg" group-title="MOVISTAR",PC- TCM FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/377
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="L- SyFy SD" tvg-logo="http://discusfish.xyz:8080/images/8eecc9e8a33f4f27df3586e1c847bde4.jpg" group-title="MOVISTAR",L- SyFy SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197793
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="GC- SyFy HD" tvg-logo="http://discusfish.xyz:8080/images/8eecc9e8a33f4f27df3586e1c847bde4.jpg" group-title="MOVISTAR",GC- SyFy HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/375
+#EXTINF:-1 tvg-id="" tvg-name="PC- SYFY FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg" group-title="MOVISTAR",PC- SYFY FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/770
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="L- Calle 13 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s" group-title="MOVISTAR",L- Calle 13 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197794
+#EXTINF:-1 tvg-id="" tvg-name="OC- Calle 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s" group-title="MOVISTAR",OC- Calle 13 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/747
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="PC- Calle 13 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s" group-title="MOVISTAR",PC- Calle 13 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/376
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="L- Cosmo SD" tvg-logo="http://discusfish.xyz:8080/images/ff489f866ba334af4cfbad797767ffeb.jpg" group-title="MOVISTAR",L- Cosmo SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197795
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="GC- Cosmo HD" tvg-logo="http://discusfish.xyz:8080/images/ff489f866ba334af4cfbad797767ffeb.jpg" group-title="MOVISTAR",GC- Cosmo HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/753
+#EXTINF:-1 tvg-id="COSMO FHD" tvg-name="PC- Cosmo FHD" tvg-logo="https://i.pinimg.com/280x280_RS/8d/74/23/8d7423cbc0aec8894815d523e5ed8d9b.jpg" group-title="MOVISTAR",PC- Cosmo FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/378
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="UC- Comedy Central SD" tvg-logo="http://discusfish.xyz:8080/images/1de023994aa38e685de878126d18d59a.png" group-title="MOVISTAR",UC- Comedy Central SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/751
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="LC- Comedy Central HD" tvg-logo="http://discusfish.xyz:8080/images/1de023994aa38e685de878126d18d59a.png" group-title="MOVISTAR",LC- Comedy Central HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/382
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="PC- Comedy Central FHD" tvg-logo="http://discusfish.xyz:8080/images/1de023994aa38e685de878126d18d59a.png" group-title="MOVISTAR",PC- Comedy Central FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197796
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="L- Hollywood SD" tvg-logo="http://discusfish.xyz:8080/images/4ace1bb85f6278c789eb1d53bb379828.jpg" group-title="MOVISTAR",L- Hollywood SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197797
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="GC- Hollywood HD" tvg-logo="http://discusfish.xyz:8080/images/4ace1bb85f6278c789eb1d53bb379828.jpg" group-title="MOVISTAR",GC- Hollywood HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/757
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="PC- Hollywood FHD" tvg-logo="http://discusfish.xyz:8080/images/4ace1bb85f6278c789eb1d53bb379828.jpg" group-title="MOVISTAR",PC- Hollywood FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/384
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PC- Paramount Channel SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/paramountchannel.jpg" group-title="MOVISTAR",PC- Paramount Channel SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197798
+#EXTINF:-1 tvg-id="Paramount.TV" tvg-name="GC- Paramount Channel HD" tvg-logo="http://discusfish.xyz:8080/images/db84fd722b09a6787fd09b7eb55ff6ab.jpg" group-title="MOVISTAR",GC- Paramount Channel HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/192692
+#EXTINF:-1 tvg-id="FDF" tvg-name="L- FDF SD" tvg-logo="http://discusfish.xyz:8080/images/f0118e9bd2c4fb29c64ee03abce698b8.jpg" group-title="MOVISTAR",L- FDF SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197799
+#EXTINF:-1 tvg-id="" tvg-name="OC- FDF HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fdf.jpg" group-title="MOVISTAR",OC- FDF HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/752
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="UC- FDF FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fdf.jpg" group-title="MOVISTAR",UC- FDF FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/379
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="L- AMC SD" tvg-logo="http://discusfish.xyz:8080/images/f24f9c91e94266e90782773a1b82ea4c.png" group-title="MOVISTAR",L- AMC SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/192693
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="GC- AMC HD" tvg-logo="http://discusfish.xyz:8080/images/f24f9c91e94266e90782773a1b82ea4c.png" group-title="MOVISTAR",GC- AMC HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/381
+#EXTINF:-1 tvg-id="" tvg-name="PC- AMC FHD" tvg-logo="https://cdn.mitvstatic.com/channels/gt_amc_m.png" group-title="MOVISTAR",PC- AMC FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/750
+#EXTINF:-1 tvg-id="Somos" tvg-name="GC- SOMOS SD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/somos_tv.jpg" group-title="MOVISTAR",GC- SOMOS SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/772
+#EXTINF:-1 tvg-id="" tvg-name="TC- SOMOS HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/somos_tv.jpg" group-title="MOVISTAR",TC- SOMOS HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/85178
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="L- TNT SD" tvg-logo="http://discusfish.xyz:8080/images/07f7facb00dd6c2c02bc09d5cfb4a55a.jpg" group-title="MOVISTAR",L- TNT SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/192691
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="UC- TNT HD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tnt_es.jpg" group-title="MOVISTAR",UC- TNT HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/386
+#EXTINF:-1 tvg-id="" tvg-name="PC- TNT FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tnt_es.jpg" group-title="MOVISTAR",PC- TNT FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/769
+#EXTINF:-1 tvg-id="" tvg-name="UC- Sundance SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/sundance.jpg" group-title="MOVISTAR",UC- Sundance SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/768
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="GC- Sundance HD" tvg-logo="http://discusfish.xyz:8080/images/0e450d1e32291326bded0e1a8b9b4c20.jpg" group-title="MOVISTAR",GC- Sundance HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/387
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="PC- Sundance FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/sundance.jpg" group-title="MOVISTAR",PC- Sundance FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197800
+#EXTINF:-1 tvg-id="" tvg-name="TC- XTRM SD" tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/12/xtrm-logo-1.png" group-title="MOVISTAR",TC- XTRM SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/771
+#EXTINF:-1 tvg-id="" tvg-name="UC- XTRM HD" tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/12/xtrm-logo-1.png" group-title="MOVISTAR",UC- XTRM HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/85175
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="PC- XTRM FHD" tvg-logo="http://discusfish.xyz:8080/images/1616fe78b44acc265861b27634b65c96.png" group-title="MOVISTAR",PC- XTRM FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/287
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="PC- MyTime Movie Network HD" tvg-logo="http://discusfish.xyz:8080/images/77b83aaeaa11bb014c2b4893b7f5463d.png" group-title="MOVISTAR",PC- MyTime Movie Network HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/219876
+#EXTINF:-1 tvg-id="" tvg-name="UC- MyTime Movie Network FHD" tvg-logo="http://discusfish.xyz:8080/images/77b83aaeaa11bb014c2b4893b7f5463d.png" group-title="MOVISTAR",UC- MyTime Movie Network FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/219883
+#EXTINF:-1 tvg-id="BOMCine.TV" tvg-name="UC- BOM Cine" tvg-logo="http://discusfish.xyz:8080/images/726a77779595b6e5c4d6e9420e0d0955.png" group-title="MOVISTAR",UC- BOM Cine
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/219879
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="O- Gol Mundial SD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",O- Gol Mundial SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/817
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="O- Gol Mundial HD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",O- Gol Mundial HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/818
+#EXTINF:-1 tvg-id="" tvg-name="L- Gol Mundial FHD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",L- Gol Mundial FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/224995
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="O- Gol Mundial FHD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",O- Gol Mundial FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/224997
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="G- Gol Mundial FHD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",G- Gol Mundial FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/224999
+#EXTINF:-1 tvg-id="Gol Mundial 2 HD" tvg-name="O- Gol Mundial 2 SD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",O- Gol Mundial 2 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/224998
+#EXTINF:-1 tvg-id="Gol Mundial 2 HD" tvg-name="O- Gol Mundial 2 HD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",O- Gol Mundial 2 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/404
+#EXTINF:-1 tvg-id="" tvg-name="L- Gol Mundial 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",L- Gol Mundial 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/224996
+#EXTINF:-1 tvg-id="Gol Mundial 2 HD" tvg-name="O- Gol Mundial 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",O- Gol Mundial 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/816
+#EXTINF:-1 tvg-id="Gol Mundial 2 HD" tvg-name="G- Gol Mundial 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",G- Gol Mundial 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/225000
+#EXTINF:-1 tvg-id="" tvg-name="L- Gol Mundial FHD*" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",L- Gol Mundial FHD*
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/224993
+#EXTINF:-1 tvg-id="" tvg-name="L- Gol Mundial FHD**" tvg-logo="http://discusfish.xyz:8080/images/0698115e304f8c6d5cc55962c4542597.jpg" group-title="DEPORTES ESP",L- Gol Mundial FHD**
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/224994
+#EXTINF:-1 tvg-id="" tvg-name="PDE- MULTIDEPORTE" tvg-logo="http://discusfish.xyz:8080/images/multideporte.png" group-title="DEPORTES ESP",PDE- MULTIDEPORTE
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/304
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="P- M. LaLiga (movil)" tvg-logo="http://discusfish.xyz:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="DEPORTES ESP",P- M. LaLiga (movil)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/217656
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="P- M. LaLiga  SD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",P- M. LaLiga  SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/416
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="O- M. LaLiga SD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",O- M. LaLiga SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2474
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="U- M. LaLiga SD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",U- M. LaLiga SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/85591
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="P- M. LaLiga HD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",P- M. LaLiga HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/789
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="E- M. LaLiga FHD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",E- M. LaLiga FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/205008
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="O- M. LaLiga FHD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",O- M. LaLiga FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/389
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="U- M. Laliga FHD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",U- M. Laliga FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1102
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="G- M. LaLiga FHD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",G- M. LaLiga FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/916
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="G- M. LaLiga 4k" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",G- M. LaLiga 4k
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197510
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="O- M. LaLiga 4K" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",O- M. LaLiga 4K
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/199072
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="P- M. LaLiga 1 HD" tvg-logo="http://discusfish.xyz:8080/images/laliga1.png" group-title="DEPORTES ESP",P- M. LaLiga 1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/88893
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="L- M. LaLiga 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/laliga1.png" group-title="DEPORTES ESP",L- M. LaLiga 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2659
+#EXTINF:-1 tvg-id="" tvg-name="O- M. LaLiga 1" tvg-logo="http://discusfish.xyz:8080/images/laliga1.png" group-title="DEPORTES ESP",O- M. LaLiga 1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/85172
+#EXTINF:-1 tvg-id="" tvg-name="G- M. LaLiga 1" tvg-logo="http://discusfish.xyz:8080/images/laliga1.png" group-title="DEPORTES ESP",G- M. LaLiga 1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/820
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="L- M. LaLiga 2" tvg-logo="http://discusfish.xyz:8080/images/laliga2.png" group-title="DEPORTES ESP",L- M. LaLiga 2
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2660
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="O- M. Laliga 2" tvg-logo="http://discusfish.xyz:8080/images/laliga2.png" group-title="DEPORTES ESP",O- M. Laliga 2
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/418
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="P- M. LaLiga 2" tvg-logo="http://discusfish.xyz:8080/images/laliga2.png" group-title="DEPORTES ESP",P- M. LaLiga 2
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/821
+#EXTINF:-1 tvg-id="" tvg-name="G- M. LaLiga 2" tvg-logo="http://discusfish.xyz:8080/images/laliga2.png" group-title="DEPORTES ESP",G- M. LaLiga 2
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/192684
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="G- M. LaLigaTv BAR HD" tvg-logo="http://discusfish.xyz:8080/images/269d66de64d8d6ec810a76dc8f4dd984.jpg" group-title="DEPORTES ESP",G- M. LaLigaTv BAR HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/192685
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="G- M. LaLigaTv BAR HD" tvg-logo="http://discusfish.xyz:8080/images/269d66de64d8d6ec810a76dc8f4dd984.jpg" group-title="DEPORTES ESP",G- M. LaLigaTv BAR HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/421
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="G- M. LaLigaTv BAR FHD" tvg-logo="http://discusfish.xyz:8080/images/269d66de64d8d6ec810a76dc8f4dd984.jpg" group-title="DEPORTES ESP",G- M. LaLigaTv BAR FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/806
+#EXTINF:-1 tvg-id="" tvg-name="L- LIGA SMARTBANK SD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",L- LIGA SMARTBANK SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/220011
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="O- Liga SmartBank SD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",O- Liga SmartBank SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/195334
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="O- Liga SmartBank HD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",O- Liga SmartBank HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/419
+#EXTINF:-1 tvg-id="" tvg-name="L- LIGA SMARTBANK HD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",L- LIGA SMARTBANK HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/220012
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="O- Liga SmartBank FHD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",O- Liga SmartBank FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/809
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="G- Liga SmartBank FHD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",G- Liga SmartBank FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/217657
+#EXTINF:-1 tvg-id="" tvg-name="L- LIGA SMARTBANK FHD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",L- LIGA SMARTBANK FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/220013
+#EXTINF:-1 tvg-id="" tvg-name="O- Liga SmartBank 1 SD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",O- Liga SmartBank 1 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/420
+#EXTINF:-1 tvg-id="" tvg-name="L- LIGA SMARTBANK 1 SD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",L- LIGA SMARTBANK 1 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/220014
+#EXTINF:-1 tvg-id="" tvg-name="L- LIGA SMARTBANK 1 HD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",L- LIGA SMARTBANK 1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/220015
+#EXTINF:-1 tvg-id="" tvg-name="O- Liga SmartBank 1 HD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",O- Liga SmartBank 1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/808
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="L- Liga SmartBank 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",L- Liga SmartBank 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/220016
+#EXTINF:-1 tvg-id="" tvg-name="O- Liga SmartBank 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",O- Liga SmartBank 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/192686
+#EXTINF:-1 tvg-id="" tvg-name="G- Liga SmartBank 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/3eb1e09b5a4c33557688e41329da2e58.JPG" group-title="DEPORTES ESP",G- Liga SmartBank 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/195333
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="P2- M. Liga Campeones (movil)" tvg-logo="http://discusfish.xyz:8080/images/a4b7fe58cf9ac35ec5b06f431f6dba6a.jpg" group-title="DEPORTES ESP",P2- M. Liga Campeones (movil)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2473
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="O- M. Liga Campeones SD" tvg-logo="http://discusfish.xyz:8080/images/a4b7fe58cf9ac35ec5b06f431f6dba6a.jpg" group-title="DEPORTES ESP",O- M. Liga Campeones SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/407
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="P- M. Liga Campeones SD" tvg-logo="http://discusfish.xyz:8080/images/a4b7fe58cf9ac35ec5b06f431f6dba6a.jpg" group-title="DEPORTES ESP",P- M. Liga Campeones SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197508
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="P1- M. Liga Campeones HD" tvg-logo="http://discusfish.xyz:8080/images/a4b7fe58cf9ac35ec5b06f431f6dba6a.jpg" group-title="DEPORTES ESP",P1- M. Liga Campeones HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/85173
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="U- M. Liga Campeones HD" tvg-logo="http://discusfish.xyz:8080/images/a4b7fe58cf9ac35ec5b06f431f6dba6a.jpg" group-title="DEPORTES ESP",U- M. Liga Campeones HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1104
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="O- M. Liga Campeones FHD" tvg-logo="http://discusfish.xyz:8080/images/a4b7fe58cf9ac35ec5b06f431f6dba6a.jpg" group-title="DEPORTES ESP",O- M. Liga Campeones FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/917
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="L- M. Liga Campeones FHD" tvg-logo="http://discusfish.xyz:8080/images/a4b7fe58cf9ac35ec5b06f431f6dba6a.jpg" group-title="DEPORTES ESP",L- M. Liga Campeones FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/790
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="E- M. Liga Campeones FHD" tvg-logo="http://discusfish.xyz:8080/images/a4b7fe58cf9ac35ec5b06f431f6dba6a.jpg" group-title="DEPORTES ESP",E- M. Liga Campeones FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/221
+#EXTINF:-1 tvg-id="" tvg-name="L- M. Liga Campeones 4K" tvg-logo="http://discusfish.xyz:8080/images/a4b7fe58cf9ac35ec5b06f431f6dba6a.jpg" group-title="DEPORTES ESP",L- M. Liga Campeones 4K
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/199073
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="U- M. Liga Campeones 1 HD" tvg-logo="http://discusfish.xyz:8080/images/campeones1.png" group-title="DEPORTES ESP",U- M. Liga Campeones 1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2661
+#EXTINF:-1 tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="L- M. Liga Campeones 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/campeones1.png" group-title="DEPORTES ESP",L- M. Liga Campeones 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/192687
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="O- M. Liga Campeones 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/campeones1.png" group-title="DEPORTES ESP",O- M. Liga Campeones 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/791
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="G- M. Liga Campeones 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/campeones1.png" group-title="DEPORTES ESP",G- M. Liga Campeones 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/408
+#EXTINF:-1 tvg-id="" tvg-name="G- M. Liga Campeones 2" tvg-logo="http://discusfish.xyz:8080/images/campeones2.png" group-title="DEPORTES ESP",G- M. Liga Campeones 2
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/192688
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="P- M. Liga Campeones 2 SD" tvg-logo="http://discusfish.xyz:8080/images/campeones1.png" group-title="DEPORTES ESP",P- M. Liga Campeones 2 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/89093
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="U- M. Liga Campeones 2 HD" tvg-logo="http://discusfish.xyz:8080/images/campeones2.png" group-title="DEPORTES ESP",U- M. Liga Campeones 2 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2662
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="P- M. Liga Campeones 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/campeones2.png" group-title="DEPORTES ESP",P- M. Liga Campeones 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/409
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="O- M. Liga Campeones 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/campeones2.png" group-title="DEPORTES ESP",O- M. Liga Campeones 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/792
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="P- M. Liga Campeones 3" tvg-logo="http://discusfish.xyz:8080/images/campeones3.png" group-title="DEPORTES ESP",P- M. Liga Campeones 3
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/410
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="O- M. Liga Campeones 3" tvg-logo="http://discusfish.xyz:8080/images/campeones3.png" group-title="DEPORTES ESP",O- M. Liga Campeones 3
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/793
+#EXTINF:-1 tvg-id="" tvg-name="G- M. Liga Campeones 3" tvg-logo="http://discusfish.xyz:8080/images/campeones3.png" group-title="DEPORTES ESP",G- M. Liga Campeones 3
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/192689
+#EXTINF:-1 tvg-id="" tvg-name="L- M. Liga Campeones 4" tvg-logo="http://discusfish.xyz:8080/images/campeones3.png" group-title="DEPORTES ESP",L- M. Liga Campeones 4
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/217655
+#EXTINF:-1 tvg-id="" tvg-name="P- M. Liga Campeones 4" tvg-logo="http://discusfish.xyz:8080/images/campeones4.png" group-title="DEPORTES ESP",P- M. Liga Campeones 4
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/411
+#EXTINF:-1 tvg-id="" tvg-name="O- M. Liga Campeones 4" tvg-logo="http://discusfish.xyz:8080/images/campeones4.png" group-title="DEPORTES ESP",O- M. Liga Campeones 4
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/794
+#EXTINF:-1 tvg-id="" tvg-name="L- M. Liga Campeones 5" tvg-logo="http://discusfish.xyz:8080/images/campeones3.png" group-title="DEPORTES ESP",L- M. Liga Campeones 5
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/195331
+#EXTINF:-1 tvg-id="" tvg-name="P- M. Liga Campeones 5" tvg-logo="http://discusfish.xyz:8080/images/campeones5.png" group-title="DEPORTES ESP",P- M. Liga Campeones 5
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/412
+#EXTINF:-1 tvg-id="" tvg-name="O- M. Liga Campeones 5" tvg-logo="http://discusfish.xyz:8080/images/campeones5.png" group-title="DEPORTES ESP",O- M. Liga Campeones 5
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/795
+#EXTINF:-1 tvg-id="" tvg-name="L- M. Liga Campeones 6" tvg-logo="http://discusfish.xyz:8080/images/campeones3.png" group-title="DEPORTES ESP",L- M. Liga Campeones 6
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/803
+#EXTINF:-1 tvg-id="" tvg-name="P- M. Liga Campeones 6" tvg-logo="http://discusfish.xyz:8080/images/campeones6.png" group-title="DEPORTES ESP",P- M. Liga Campeones 6
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/413
+#EXTINF:-1 tvg-id="" tvg-name="O- M. Liga Campeones 6" tvg-logo="http://discusfish.xyz:8080/images/campeones6.png" group-title="DEPORTES ESP",O- M. Liga Campeones 6
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/796
+#EXTINF:-1 tvg-id="" tvg-name="L- M. Liga Campeones 7" tvg-logo="http://discusfish.xyz:8080/images/campeones3.png" group-title="DEPORTES ESP",L- M. Liga Campeones 7
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/423
+#EXTINF:-1 tvg-id="" tvg-name="P- M. Liga Campeones 7" tvg-logo="http://discusfish.xyz:8080/images/campeones7.png" group-title="DEPORTES ESP",P- M. Liga Campeones 7
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/414
+#EXTINF:-1 tvg-id="" tvg-name="O- M. Liga Campeones 7" tvg-logo="http://discusfish.xyz:8080/images/campeones7.png" group-title="DEPORTES ESP",O- M. Liga Campeones 7
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/797
+#EXTINF:-1 tvg-id="" tvg-name="GDE- Bein Sports ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg" group-title="DEPORTES ESP",GDE- Bein Sports ESP
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/256
+#EXTINF:-1 tvg-id="" tvg-name="P- Gol SD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/4437/brand.gif?itok=lyLplnaG" group-title="DEPORTES ESP",P- Gol SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/205102
+#EXTINF:-1 tvg-id="GOL.TV" tvg-name="GDE- Gol HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/4437/brand.gif?itok=lyLplnaG" group-title="DEPORTES ESP",GDE- Gol HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/81932
+#EXTINF:-1 tvg-id="" tvg-name="BDE- Bein Sports ESP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg" group-title="DEPORTES ESP",BDE- Bein Sports ESP FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191736
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="PD- Dazn 1" tvg-logo="http://discusfish.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.jpg" group-title="DAZN",PD- Dazn 1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191728
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="UD- Dazn 1 (Extra U)" tvg-logo="http://discusfish.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.jpg" group-title="DAZN",UD- Dazn 1 (Extra U)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191732
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="G- Dazn 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.jpg" group-title="DAZN",G- Dazn 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/88909
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="PD- Dazn 2" tvg-logo="https://www.pay-tv-portal.de/wp-content/uploads/dazn-2.jpg" group-title="DAZN",PD- Dazn 2
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191729
+#EXTINF:-1 tvg-id="" tvg-name="UD- Dazn 2 (Extra U)" tvg-logo="https://www.pay-tv-portal.de/wp-content/uploads/dazn-2.jpg" group-title="DAZN",UD- Dazn 2 (Extra U)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191733
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="GD- Dazn 2 (Extra G)" tvg-logo="http://discusfish.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.jpg" group-title="DAZN",GD- Dazn 2 (Extra G)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/88911
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="PD- Dazn 3" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/motor/img/logos/dazn-3.jpg" group-title="DAZN",PD- Dazn 3
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191730
+#EXTINF:-1 tvg-id="" tvg-name="LD- Dazn 3 (Extra L)" tvg-logo="http://discusfish.xyz:8080/images/88d3f88a7db9f71e6d9e22a2bae3e9da.jpg" group-title="DAZN",LD- Dazn 3 (Extra L)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/216468
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="GD- Dazn 3 (Extra G)" tvg-logo="http://discusfish.xyz:8080/images/88d3f88a7db9f71e6d9e22a2bae3e9da.jpg" group-title="DAZN",GD- Dazn 3 (Extra G)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/216465
+#EXTINF:-1 tvg-id="" tvg-name="UD- Dazn 3 (Extra U)" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/motor/img/logos/dazn-3.jpg" group-title="DAZN",UD- Dazn 3 (Extra U)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191734
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="PD- Dazn 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="DAZN",PD- Dazn 4
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191731
+#EXTINF:-1 tvg-id="" tvg-name="LD- Dazn 4 (Extra L)" tvg-logo="http://discusfish.xyz:8080/images/a722253c112ff03df5e1a88cad422397.png" group-title="DAZN",LD- Dazn 4 (Extra L)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/216467
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="GD- Dazn 4 (Extra G)" tvg-logo="http://discusfish.xyz:8080/images/a722253c112ff03df5e1a88cad422397.png" group-title="DAZN",GD- Dazn 4 (Extra G)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/216466
+#EXTINF:-1 tvg-id="" tvg-name="UD- Dazn 4 (Extra U)" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="DAZN",UD- Dazn 4 (Extra U)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191735
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="O- DAZN LaLiga SD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",O- DAZN LaLiga SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/195329
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="U- DAZN LaLiga SD" tvg-logo="http://discusfish.xyz:25461/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="DAZN",U- DAZN LaLiga SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/422
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="U- DAZN LaLiga HD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",U- DAZN LaLiga HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/805
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="O- DAZN LaLiga FHD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",O- DAZN LaLiga FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/88892
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="L- DAZN LaLiga FHD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",L- DAZN LaLiga FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/220009
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="G1- DAZN LaLiga FHD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",G1- DAZN LaLiga FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/217654
+#EXTINF:-1 tvg-id="" tvg-name="G2- DAZN LaLiga FHD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",G2- DAZN LaLiga FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/195330
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-name="L- DAZN LaLiga 2 SD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",L- DAZN LaLiga 2 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/425
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-name="G- DAZN LaLiga 2 SD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",G- DAZN LaLiga 2 SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/195332
+#EXTINF:-1 tvg-id="" tvg-name="L1- DAZN LaLiga 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",L1- DAZN LaLiga 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/424
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-name="L2- DAZN LaLiga 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",L2- DAZN LaLiga 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/220010
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-name="O- DAZN LaLiga 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",O- DAZN LaLiga 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/801
+#EXTINF:-1 tvg-id="" tvg-name="G- DAZN LaLiga 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/c064399c275cbc1f8611968553c2ec63.jpg" group-title="DAZN",G- DAZN LaLiga 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/802
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="P- Dazn F1 HD" tvg-logo="http://discusfish.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="DAZN",P- Dazn F1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/807
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="L- Dazn F1 FHD" tvg-logo="http://discusfish.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="DAZN",L- Dazn F1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/224
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="G1- Dazn F1 HD" tvg-logo="http://discusfish.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="DAZN",G1- Dazn F1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/392
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="G2- Dazn F1 HD" tvg-logo="http://discusfish.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="DAZN",G2- Dazn F1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/218941
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="O- Dazn F1 FHD" tvg-logo="http://discusfish.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="DAZN",O- Dazn F1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/920
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="U- Dazn F1 FHD" tvg-logo="http://discusfish.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="DAZN",U- Dazn F1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/294
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="L- Dazn F1 4K" tvg-logo="http://discusfish.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="DAZN",L- Dazn F1 4K
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/220038
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="O- DAZN F1 4K" tvg-logo="http://discusfish.xyz:8080/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="DAZN",O- DAZN F1 4K
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/199074
+#EXTINF:-1 tvg-id="" tvg-name="P- M. Deporte" tvg-logo="http://discusfish.xyz:8080/images/deportes.png" group-title="DEPORTES ESP",P- M. Deporte
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/222
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="G- M. Deporte" tvg-logo="http://discusfish.xyz:8080/images/deportes.png" group-title="DEPORTES ESP",G- M. Deporte
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/290
+#EXTINF:-1 tvg-id="" tvg-name="U- M. Deporte" tvg-logo="http://discusfish.xyz:8080/images/deportes.png" group-title="DEPORTES ESP",U- M. Deporte
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/810
+#EXTINF:-1 tvg-id="" tvg-name="L- M. Deporte SD" tvg-logo="http://discusfish.xyz:8080/images/deportes.png" group-title="DEPORTES ESP",L- M. Deporte SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/918
+#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-name="ODE- M. Deporte FHD" tvg-logo="http://discusfish.xyz:8080/images/deportes.png" group-title="DEPORTES ESP",ODE- M. Deporte FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/399
+#EXTINF:-1 tvg-id="" tvg-name="P- M. Deporte 1" tvg-logo="http://discusfish.xyz:8080/images/deportes1.png" group-title="DEPORTES ESP",P- M. Deporte 1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/192690
+#EXTINF:-1 tvg-id="" tvg-name="L- M. Deporte 1" tvg-logo="http://discusfish.xyz:8080/images/deportes1.png" group-title="DEPORTES ESP",L- M. Deporte 1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/88894
+#EXTINF:-1 tvg-id="" tvg-name="O- M. Deporte 1" tvg-logo="http://discusfish.xyz:8080/images/deportes1.png" group-title="DEPORTES ESP",O- M. Deporte 1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/88398
+#EXTINF:-1 tvg-id="" tvg-name="G- M. Deporte 1" tvg-logo="http://discusfish.xyz:8080/images/deportes1.png" group-title="DEPORTES ESP",G- M. Deporte 1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/812
+#EXTINF:-1 tvg-id="" tvg-name="PDE- M. Deporte 2" tvg-logo="http://discusfish.xyz:8080/images/deportes2.png" group-title="DEPORTES ESP",PDE- M. Deporte 2
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/813
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="L- M. Deporte 2" tvg-logo="http://discusfish.xyz:8080/images/deportes2.png" group-title="DEPORTES ESP",L- M. Deporte 2
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/216473
+#EXTINF:-1 tvg-id="" tvg-name="U- M. Deporte 2" tvg-logo="http://discusfish.xyz:8080/images/deportes2.png" group-title="DEPORTES ESP",U- M. Deporte 2
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/401
+#EXTINF:-1 tvg-id="" tvg-name="PDE- M. Deporte 3" tvg-logo="http://discusfish.xyz:8080/images/deportes3.png" group-title="DEPORTES ESP",PDE- M. Deporte 3
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/814
+#EXTINF:-1 tvg-id="" tvg-name="L- M. Deporte 3" tvg-logo="http://discusfish.xyz:8080/images/deportes3.png" group-title="DEPORTES ESP",L- M. Deporte 3
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/216474
+#EXTINF:-1 tvg-id="" tvg-name="U- M. Deporte 3" tvg-logo="http://discusfish.xyz:8080/images/deportes3.png" group-title="DEPORTES ESP",U- M. Deporte 3
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/402
+#EXTINF:-1 tvg-id="" tvg-name="L- M. Deporte 4" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=f897b7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem4.png" group-title="DEPORTES ESP",L- M. Deporte 4
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/224652
+#EXTINF:-1 tvg-id="" tvg-name="P- M. Deporte 4" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=f897b7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem4.png" group-title="DEPORTES ESP",P- M. Deporte 4
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/815
+#EXTINF:-1 tvg-id="" tvg-name="U- M. Deporte 4" tvg-logo="http://discusfish.xyz:8080/images/753aa7a2418121e280fb72e49c8dc973.png" group-title="DEPORTES ESP",U- M. Deporte 4
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/403
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="O- M. #Vamos" tvg-logo="http://discusfish.xyz:8080/images/vamos.png" group-title="DEPORTES ESP",O- M. #Vamos
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/223
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="T- M. #Vamos" tvg-logo="http://discusfish.xyz:8080/images/vamos.png" group-title="DEPORTES ESP",T- M. #Vamos
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/289
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="P- M. #Vamos SD" tvg-logo="http://discusfish.xyz:8080/images/vamos.png" group-title="DEPORTES ESP",P- M. #Vamos SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/919
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="PDE- M. #Vamos FHD" tvg-logo="http://discusfish.xyz:8080/images/vamos.png" group-title="DEPORTES ESP",PDE- M. #Vamos FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/390
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="G- M. #Vamos FHD" tvg-logo="http://discusfish.xyz:8080/images/vamos.png" group-title="DEPORTES ESP",G- M. #Vamos FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/823
+#EXTINF:-1 tvg-id="" tvg-name="O- M. ELLAS #V HD" tvg-logo="http://discusfish.xyz:8080/images/2d08263eb5c8d54b36c444b164eb69ff.png" group-title="MOVISTAR",O- M. ELLAS #V HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/219878
+#EXTINF:-1 tvg-id="" tvg-name="G- M. ELLAS #V FHD" tvg-logo="http://discusfish.xyz:8080/images/2d08263eb5c8d54b36c444b164eb69ff.png" group-title="MOVISTAR",G- M. ELLAS #V FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/219875
+#EXTINF:-1 tvg-id="TOROS" tvg-name="T- M. Toros SD" tvg-logo="http://discusfish.xyz:8080/images/toros.png" group-title="DEPORTES ESP",T- M. Toros SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/388
+#EXTINF:-1 tvg-id="TOROS" tvg-name="L- M. Toros FHD" tvg-logo="http://discusfish.xyz:8080/images/toros.png" group-title="DEPORTES ESP",L- M. Toros FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/922
+#EXTINF:-1 tvg-id="TOROS" tvg-name="G- M. Toros FHD" tvg-logo="http://discusfish.xyz:8080/images/toros.png" group-title="DEPORTES ESP",G- M. Toros FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/302
+#EXTINF:-1 tvg-id="TOROS" tvg-name="P- M. Toros FHD" tvg-logo="http://discusfish.xyz:8080/images/toros.png" group-title="DEPORTES ESP",P- M. Toros FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/799
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="EDE- Teledeporte SD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve_teledeporte.jpg" group-title="DEPORTES ESP",EDE- Teledeporte SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/395
+#EXTINF:-1 tvg-id="" tvg-name="PDE- Teledeporte FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve_teledeporte.jpg" group-title="DEPORTES ESP",PDE- Teledeporte FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/80296
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="PDE- Real Madrid TV" tvg-logo="http://discusfish.xyz:8080/images/dc8ef91715fa57845296c89298deb6ef.jpg" group-title="DEPORTES ESP",PDE- Real Madrid TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/396
+#EXTINF:-1 tvg-id="" tvg-name="U- Real Madrid TV" tvg-logo="http://discusfish.xyz:8080/images/dc8ef91715fa57845296c89298deb6ef.jpg" group-title="DEPORTES ESP",U- Real Madrid TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/218925
+#EXTINF:-1 tvg-id="BARCA TV" tvg-name="PDE- Barca TV" tvg-logo="https://telecable.es/bundles/app/images/channels/barsaTV_200x200.png" group-title="DEPORTES ESP",PDE- Barca TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/397
+#EXTINF:-1 tvg-id="" tvg-name="D- Real Betis TV" tvg-logo="http://discusfish.xyz:8080/images/8fb2aa2af752645de50b5385afdd40f7.jpg" group-title="DEPORTES ESP",D- Real Betis TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/199137
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="PDE- M. Golf" tvg-logo="http://discusfish.xyz:8080/images/golf.png" group-title="DEPORTES ESP",PDE- M. Golf
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/804
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="L- M. Golf" tvg-logo="http://discusfish.xyz:8080/images/golf.png" group-title="DEPORTES ESP",L- M. Golf
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/391
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="U- M. Golf SD" tvg-logo="http://discusfish.xyz:8080/images/golf.png" group-title="DEPORTES ESP",U- M. Golf SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/218924
+#EXTINF:-1 tvg-id="" tvg-name="G- M. Golf HD" tvg-logo="http://discusfish.xyz:8080/images/golf.png" group-title="DEPORTES ESP",G- M. Golf HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/218923
+#EXTINF:-1 tvg-id="M+ GOLF HD" tvg-name="O- M. Golf FHD" tvg-logo="http://discusfish.xyz:8080/images/golf.png" group-title="DEPORTES ESP",O- M. Golf FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/921
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="DDE- Esport 3" tvg-logo="https://www.gmkfreelogos.com/logos/E/img/esport3.jpg" group-title="DEPORTES ESP",DDE- Esport 3
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/151
+#EXTINF:-1 tvg-id="" tvg-name="UDE- World Poker Tour" tvg-logo="http://discusfish.xyz:8080/images/fab0ca30ad34ec2a5cf831e46cc1a9f6.jpg" group-title="MOVISTAR",UDE- World Poker Tour
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/219882
+#EXTINF:-1 tvg-id="" tvg-name="UDE- Ubeat" tvg-logo="http://discusfish.xyz:8080/images/ubeat.png" group-title="MOVISTAR",UDE- Ubeat
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/219881
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + EUROSPORT + + + + + +" tvg-logo="" group-title="DEPORTES ESP",+ + + + + EUROSPORT + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197513
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="P- Eurosport 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/eurosport1.png" group-title="DEPORTES ESP",P- Eurosport 1 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/85176
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="L- Eurosport 1" tvg-logo="http://discusfish.xyz:8080/images/eurosport1.png" group-title="DEPORTES ESP",L- Eurosport 1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/209241
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="G- Eurosport 1" tvg-logo="http://discusfish.xyz:8080/images/eurosport1.png" group-title="DEPORTES ESP",G- Eurosport 1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/393
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="T- Eurosport 1" tvg-logo="http://discusfish.xyz:8080/images/eurosport1.png" group-title="DEPORTES ESP",T- Eurosport 1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/198090
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="T- Eurosport 2" tvg-logo="http://discusfish.xyz:8080/images/eurosport2.png" group-title="DEPORTES ESP",T- Eurosport 2
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/88912
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="E- Eurosport 2 HD" tvg-logo="http://discusfish.xyz:8080/images/eurosport2.png" group-title="DEPORTES ESP",E- Eurosport 2 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/394
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="P- Eurosport 2 FHD" tvg-logo="http://discusfish.xyz:8080/images/eurosport2.png" group-title="DEPORTES ESP",P- Eurosport 2 FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/85177
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + INFANTIL + + + + +" tvg-logo="" group-title="MOVISTAR",+ + + + + INFANTIL + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197514
+#EXTINF:-1 tvg-id="BOING" tvg-name="PI- Boing" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/boing_es.jpg" group-title="MOVISTAR",PI- Boing
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2524
+#EXTINF:-1 tvg-id="BOING" tvg-name="GI- Boing (Extra R)" tvg-logo="http://discusfish.xyz:8080/images/e89ea06de1fd9c12dd457585ff27714f.jpg" group-title="MOVISTAR",GI- Boing (Extra R)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/513
+#EXTINF:-1 tvg-id="NICK JR FHD" tvg-name="PI- Nick JR" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/nick_jr_es.jpg" group-title="MOVISTAR",PI- Nick JR
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2523
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="LI- Nick JR (Extra L)" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/nick_jr_es.jpg" group-title="MOVISTAR",LI- Nick JR (Extra L)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/514
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="PI- Disney JR" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg" group-title="MOVISTAR",PI- Disney JR
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2521
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="JI- Disney JR (Extra J)" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg" group-title="MOVISTAR",JI- Disney JR (Extra J)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/517
+#EXTINF:-1 tvg-id="" tvg-name="PI- Nickelodeon" tvg-logo="http://discusfish.xyz:8080/images/ab12209a9af45eb05296552a5508eacf.jpg" group-title="MOVISTAR",PI- Nickelodeon
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/515
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="GI- Nickelodeon (Extra G)" tvg-logo="http://discusfish.xyz:8080/images/ab12209a9af45eb05296552a5508eacf.jpg" group-title="MOVISTAR",GI- Nickelodeon (Extra G)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2522
+#EXTINF:-1 tvg-id="" tvg-name="PI- Disney Channel" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneychannel.jpg" group-title="MOVISTAR",PI- Disney Channel
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/518
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="GI- Disney Channel (Extra G)" tvg-logo="http://discusfish.xyz:8080/images/6bee7677af2813c27e06499b0ac63cce.jpg" group-title="MOVISTAR",GI- Disney Channel (Extra G)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2519
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="PI- Clan" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/tve_clan.jpg" group-title="MOVISTAR",PI- Clan
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2525
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="GI- Clan (Extra G)" tvg-logo="http://discusfish.xyz:8080/images/ac3afb10527b1a6fc4a57cde37c6c5df.jpg" group-title="MOVISTAR",GI- Clan (Extra G)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/519
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="PI- Baby Tv" tvg-logo="https://img.remediosdigitales.com/59382b/baby_tv_/450_1000.jpg" group-title="MOVISTAR",PI- Baby Tv
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2526
+#EXTINF:-1 tvg-id="" tvg-name="LI- Baby Tv (Extra L)" tvg-logo="https://img.remediosdigitales.com/59382b/baby_tv_/450_1000.jpg" group-title="MOVISTAR",LI- Baby Tv (Extra L)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/520
+#EXTINF:-1 tvg-id="" tvg-name="PI- Canal Panda" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg" group-title="MOVISTAR",PI- Canal Panda
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/521
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="GI- Canal Panda (Extra G)" tvg-logo="http://discusfish.xyz:8080/images/ce61649168c4550c2f7acab92354dc6e.jpg" group-title="MOVISTAR",GI- Canal Panda (Extra G)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2527
+#EXTINF:-1 tvg-id="" tvg-name="PI- DreamWorks" tvg-logo="https://satcesc.com/wp-content/uploads/2021/01/DreamWorks.jpg" group-title="MOVISTAR",PI- DreamWorks
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/194987
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="OI- DreamWorks (Extra O)" tvg-logo="https://satcesc.com/wp-content/uploads/2021/01/DreamWorks.jpg" group-title="MOVISTAR",OI- DreamWorks (Extra O)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/194986
+#EXTINF:-1 tvg-id="" tvg-name="GI- Cartoon Network (latino)" tvg-logo="http://cdn2.scratch.mit.edu/get_image/project/20988824_144x108.png?v=1398081506.44" group-title="MOVISTAR",GI- Cartoon Network (latino)
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/39158
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + DOCUMENTALES + + + + + +" tvg-logo="" group-title="MOVISTAR",+ + + + + DOCUMENTALES + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197515
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="UD- NatGeo SD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/nat_geo_es.jpg" group-title="MOVISTAR",UD- NatGeo SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197801
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="GD- NatGeo HD" tvg-logo="http://discusfish.xyz:8080/images/67d30d488f13ebb59f6d1e2f4cf3b59d.jpg" group-title="MOVISTAR",GD- NatGeo HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/501
+#EXTINF:-1 tvg-id="" tvg-name="PD- NatGeo FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/nat_geo_es.jpg" group-title="MOVISTAR",PD- NatGeo FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/737
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="GD- NatGeo  Wild SD" tvg-logo="http://discusfish.xyz:8080/images/0cf1b21a8817ec4259171070cf84a3ff.jpg" group-title="MOVISTAR",GD- NatGeo  Wild SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197802
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="L- NatGeo Wild HD" tvg-logo="http://discusfish.xyz:8080/images/0cf1b21a8817ec4259171070cf84a3ff.jpg" group-title="MOVISTAR",L- NatGeo Wild HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/738
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="PD- NatGeo  Wild FHD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/nat_geo_wild_es.jpg" group-title="MOVISTAR",PD- NatGeo  Wild FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/502
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="GD- Odisea SD" tvg-logo="http://discusfish.xyz:8080/images/odisea.png" group-title="MOVISTAR",GD- Odisea SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/508
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="L- Odisea HD" tvg-logo="http://discusfish.xyz:8080/images/odisea.png" group-title="MOVISTAR",L- Odisea HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197803
+#EXTINF:-1 tvg-id="" tvg-name="PD- Odisea FHD" tvg-logo="http://discusfish.xyz:8080/images/odisea.png" group-title="MOVISTAR",PD- Odisea FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/306
+#EXTINF:-1 tvg-id="" tvg-name="TD- AMC Crime SD" tvg-logo="http://discusfish.xyz:8080/images/crime.png" group-title="MOVISTAR",TD- AMC Crime SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/735
+#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="OD- AMC Crime HD" tvg-logo="http://discusfish.xyz:8080/images/crime.png" group-title="MOVISTAR",OD- AMC Crime HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/505
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="PD- AMC Crime FHD" tvg-logo="http://discusfish.xyz:8080/images/crime.png" group-title="MOVISTAR",PD- AMC Crime FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197804
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="GD- Historia SD" tvg-logo="http://discusfish.xyz:8080/images/7967791d08c33bfa3caa5e521b7957bb.jpg" group-title="MOVISTAR",GD- Historia SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197805
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="L- Historia HD" tvg-logo="http://discusfish.xyz:8080/images/7967791d08c33bfa3caa5e521b7957bb.jpg" group-title="MOVISTAR",L- Historia HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/506
+#EXTINF:-1 tvg-id="" tvg-name="PD- Historia FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg" group-title="MOVISTAR",PD- Historia FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/736
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ED- Discovery SD" tvg-logo="https://cdn.mitvstatic.com/channels/781d4060-8e3d-4329-917d-f9eae248b9c3_m.jpg" group-title="MOVISTAR",ED- Discovery SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/507
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="PD- Discovery FHD" tvg-logo="https://cdn.mitvstatic.com/channels/781d4060-8e3d-4329-917d-f9eae248b9c3_m.jpg" group-title="MOVISTAR",PD- Discovery FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197806
+#EXTINF:-1 tvg-id="" tvg-name="PD- Energy SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/energy.jpg" group-title="MOVISTAR",PD- Energy SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/744
+#EXTINF:-1 tvg-id="Energy.TV" tvg-name="GD- Energy HD" tvg-logo="http://discusfish.xyz:8080/images/05e7d19a6d002118deef70d21ff4226e.jpg" group-title="MOVISTAR",GD- Energy HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/512
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="UD- Energy FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/energy.jpg" group-title="MOVISTAR",UD- Energy FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197807
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="JD- Mega SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg" group-title="MOVISTAR",JD- Mega SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/510
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="GD- Mega HD" tvg-logo="http://discusfish.xyz:8080/images/91805ec00ad20b85226bec0bacf843d3.jpg" group-title="MOVISTAR",GD- Mega HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197808
+#EXTINF:-1 tvg-id="" tvg-name="PD- Mega FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg" group-title="MOVISTAR",PD- Mega FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/746
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="OD- AMC Break SD" tvg-logo="http://discusfish.xyz:8080/images/break.png" group-title="MOVISTAR",OD- AMC Break SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/511
+#EXTINF:-1 tvg-id="" tvg-name="UD- AMC Break HD" tvg-logo="http://discusfish.xyz:8080/images/break.png" group-title="MOVISTAR",UD- AMC Break HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/740
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LD- AMC Break FHD" tvg-logo="http://discusfish.xyz:8080/images/break.png" group-title="MOVISTAR",LD- AMC Break FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197809
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="PD- DMAX SD" tvg-logo="http://nextgen-iptv.com/Logos/int/Dmax.png" group-title="MOVISTAR",PD- DMAX SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197810
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="GD- Dmax HD" tvg-logo="http://discusfish.xyz:8080/images/b86d6c715b67b3d0f00db4d2840fc76f.png" group-title="MOVISTAR",GD- Dmax HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/78469
+#EXTINF:-1 tvg-id="discoverymax.es" tvg-name="TD- DMAX FHD" tvg-logo="http://nextgen-iptv.com/Logos/int/Dmax.png" group-title="MOVISTAR",TD- DMAX FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/739
+#EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name="OD- Caza y Pesca SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wSSYBMOttisaraK0lCNRhLwFyKkdG7690RvJANlvjZhebiYm&s" group-title="MOVISTAR",OD- Caza y Pesca SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197813
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="L- Caza y Pesca HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wSSYBMOttisaraK0lCNRhLwFyKkdG7690RvJANlvjZhebiYm&s" group-title="MOVISTAR",L- Caza y Pesca HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/503
+#EXTINF:-1 tvg-id="" tvg-name="PD- Caza y Pesca FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wSSYBMOttisaraK0lCNRhLwFyKkdG7690RvJANlvjZhebiYm&s" group-title="MOVISTAR",PD- Caza y Pesca FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/742
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="PD- Iberalia SD" tvg-logo="https://www.tv-logo.com/wp-content/uploads/2021/06/canal_iberalia.jpg" group-title="MOVISTAR",PD- Iberalia SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197811
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="GD- Iberalia HD" tvg-logo="http://discusfish.xyz:8080/images/7bd57a7e39b71224b6226b969fac1c23.jpg" group-title="MOVISTAR",GD- Iberalia HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/743
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="L- Iberalia FHD" tvg-logo="http://discusfish.xyz:8080/images/7bd57a7e39b71224b6226b969fac1c23.jpg" group-title="MOVISTAR",L- Iberalia FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197812
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="PD- Cazavision  TV SD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/z/cazavision.jpg" group-title="MOVISTAR",PD- Cazavision  TV SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1037
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="GD- Cazavision TV   HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/z/cazavision.jpg" group-title="MOVISTAR",GD- Cazavision TV   HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/197814
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="LD- Cazavision TV " tvg-logo="http://discusfish.xyz:8080/images/5cf9a939f1731ad8081226559bf911ed.jpg" group-title="MOVISTAR",LD- Cazavision TV 
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/218864
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + V I D E O C L I P + + + + +" tvg-logo="" group-title="MUSICA",+ + + + + V I D E O C L I P + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/2545
+#EXTINF:-1 tvg-id="" tvg-name="VM- MTV" tvg-logo="http://discusfish.xyz:25461/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="MUSICA",VM- MTV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/89094
+#EXTINF:-1 tvg-id="" tvg-name="DM- Del 40 al 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/40tv.jpg" group-title="MUSICA",DM- Del 40 al 1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/165
+#EXTINF:-1 tvg-id="" tvg-name="RT-MEZZO LIVE" tvg-logo="http://discusfish.xyz:25461/images/58f74dab724423f7637a8da1af77841c.png" group-title="MUSICA",RT-MEZZO LIVE
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/784
+#EXTINF:-1 tvg-id="" tvg-name="RM- Stingray" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLASSD.png" group-title="MUSICA",RM- Stingray
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1038
+#EXTINF:-1 tvg-id="" tvg-name="RM- MTV Base" tvg-logo="http://discusfish.xyz:25461/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="MUSICA",RM- MTV Base
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1055
+#EXTINF:-1 tvg-id="" tvg-name="RM- MTV Hits" tvg-logo="http://discusfish.xyz:25461/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="MUSICA",RM- MTV Hits
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1056
+#EXTINF:-1 tvg-id="" tvg-name="RM- MTV Rocks" tvg-logo="http://discusfish.xyz:25461/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="MUSICA",RM- MTV Rocks
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1057
+#EXTINF:-1 tvg-id="" tvg-name="GM- MTV-U" tvg-logo="http://discusfish.xyz:25461/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="MUSICA",GM- MTV-U
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1058
+#EXTINF:-1 tvg-id="" tvg-name="GM- MTV Live" tvg-logo="http://discusfish.xyz:25461/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="MUSICA",GM- MTV Live
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1059
+#EXTINF:-1 tvg-id="" tvg-name="GM- MTV Classic " tvg-logo="http://discusfish.xyz:25461/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="MUSICA",GM- MTV Classic 
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1060
+#EXTINF:-1 tvg-id="" tvg-name="RM- MTV Music" tvg-logo="http://discusfish.xyz:25461/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="MUSICA",RM- MTV Music
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1061
+#EXTINF:-1 tvg-id="" tvg-name="RM- VH1" tvg-logo="http://discusfish.xyz:25461/images/dad8ee483cc9a336cde702e9aa0b0954.png" group-title="MUSICA",RM- VH1
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1062
+#EXTINF:-1 tvg-id="" tvg-name="GM- VH1 Classic" tvg-logo="http://discusfish.xyz:25461/images/dad8ee483cc9a336cde702e9aa0b0954.png" group-title="MUSICA",GM- VH1 Classic
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1067
+#EXTINF:-1 tvg-id="" tvg-name="UM- Sol Music" tvg-logo="http://discusfish.xyz:25461/images/c0ffb0a009d43054fa81a5f172710a6f.png" group-title="MUSICA",UM- Sol Music
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/1078
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + A N D A L U C I A + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + A N D A L U C I A + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/540
+#EXTINF:-1 tvg-id="" tvg-name="LA- Canal Sur FHD." tvg-logo="http://discusfish.xyz:8080/images/45031e29890ff6447a4e5a092b78ffea.png" group-title="AUTONOMICOS",LA- Canal Sur FHD.
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/541
+#EXTINF:-1 tvg-id="" tvg-name="PA- Canal Sur Andalucia HD" tvg-logo="http://discusfish.xyz:25461/images/45031e29890ff6447a4e5a092b78ffea.png" group-title="AUTONOMICOS",PA- Canal Sur Andalucia HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/542
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal Andalucia Cocina HD" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Canal Andalucia Cocina HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/543
+#EXTINF:-1 tvg-id="" tvg-name="JA- Canal Andalucia Turismo" tvg-logo="http://discusfish.xyz:25461/images/45031e29890ff6447a4e5a092b78ffea.png" group-title="AUTONOMICOS",JA- Canal Andalucia Turismo
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/544
+#EXTINF:-1 tvg-id="" tvg-name="MA- Canal Andalucia Flamenco" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",MA- Canal Andalucia Flamenco
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/545
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal Sur La Banda" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Canal Sur La Banda
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/546
+#EXTINF:-1 tvg-id="" tvg-name="DA- El Correo de Andalucia" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- El Correo de Andalucia
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/547
+#EXTINF:-1 tvg-id="" tvg-name="DA- Costa del Sol TV" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Costa del Sol TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/548
+#EXTINF:-1 tvg-id="" tvg-name="DA- Condavision HD" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Condavision HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/549
+#EXTINF:-1 tvg-id="" tvg-name="DA- CanalCosta" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- CanalCosta
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/550
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal San Roque" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Canal San Roque
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/551
+#EXTINF:-1 tvg-id="" tvg-name="DA- Television Municipal de Cordoba" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Television Municipal de Cordoba
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/552
+#EXTINF:-1 tvg-id="" tvg-name="DA- Teleonuba" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Teleonuba
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/553
+#EXTINF:-1 tvg-id="" tvg-name="DA- PTV Malaga HD" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- PTV Malaga HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/554
+#EXTINF:-1 tvg-id="" tvg-name="DA- Onda Cadiz" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Onda Cadiz
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/555
+#EXTINF:-1 tvg-id="" tvg-name="DA- Mijas Comunicacion" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Mijas Comunicacion
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/556
+#EXTINF:-1 tvg-id="" tvg-name="DA- Lebrija TV" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Lebrija TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/557
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal Malaga" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Canal Malaga
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/558
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal Doñana" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Canal Doñana
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/559
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal Coin" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Canal Coin
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/560
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal 45 TV" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Canal 45 TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/561
+#EXTINF:-1 tvg-id="" tvg-name="DA- Cadena Elite" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Cadena Elite
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/562
+#EXTINF:-1 tvg-id="" tvg-name="DA- 101TV Malaga" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- 101TV Malaga
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/563
+#EXTINF:-1 tvg-id="" tvg-name="DA- Interalmeria HD" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Interalmeria HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/564
+#EXTINF:-1 tvg-id="" tvg-name="DA- Estepona TV" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- Estepona TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/565
+#EXTINF:-1 tvg-id="" tvg-name="DA- ESNE TV" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",DA- ESNE TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/566
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + A R A G O N + + + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + A R A G O N + + + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/567
+#EXTINF:-1 tvg-id="" tvg-name="DA- Aragon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Aragon.svg/121px-Flag_of_Aragon.svg.png" group-title="AUTONOMICOS",DA- Aragon TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/568
+#EXTINF:-1 tvg-id="" tvg-name="DA- Aragon Deporte HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Aragon.svg/121px-Flag_of_Aragon.svg.png" group-title="AUTONOMICOS",DA- Aragon Deporte HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/569
+#EXTINF:-1 tvg-id="" tvg-name="DA- Huesca TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Aragon.svg/121px-Flag_of_Aragon.svg.png" group-title="AUTONOMICOS",DA- Huesca TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/570
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal 25 Barbastro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Aragon.svg/121px-Flag_of_Aragon.svg.png" group-title="AUTONOMICOS",DA- Canal 25 Barbastro TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/571
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + A S T U R I A S + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + A S T U R I A S + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/572
+#EXTINF:-1 tvg-id="" tvg-name="DA- -TPA7" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Asturias-200x200.jpg" group-title="AUTONOMICOS",DA- -TPA7
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/573
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + C A N A R I A S + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + C A N A R I A S + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/574
+#EXTINF:-1 tvg-id="" tvg-name="DA- Television Mogan" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",DA- Television Mogan
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/575
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canarias TV" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",DA- Canarias TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/576
+#EXTINF:-1 tvg-id="" tvg-name="DA- Noroeste Television" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",DA- Noroeste Television
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/577
+#EXTINF:-1 tvg-id="" tvg-name="DA- Mirame TV" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",DA- Mirame TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/578
+#EXTINF:-1 tvg-id="" tvg-name="DA- Lancelot TV" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",DA- Lancelot TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/579
+#EXTINF:-1 tvg-id="" tvg-name="DA- Gigante TV" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",DA- Gigante TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/580
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal 4 Tenerife" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",DA- Canal 4 Tenerife
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/581
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + C A N T A B R I A + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + C A N T A B R I A + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/582
+#EXTINF:-1 tvg-id="" tvg-name="DA- Popular TV Cantabria" tvg-logo="https://i.pinimg.com/236x/56/2b/40/562b40821c3fad56260c8a30cf3306d7.jpg" group-title="AUTONOMICOS",DA- Popular TV Cantabria
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/583
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + CASTILLA  LA  MANCHA + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + CASTILLA  LA  MANCHA + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/584
+#EXTINF:-1 tvg-id="" tvg-name="DA- CMM" tvg-logo="https://www.flags.de/animierte-flaggen-gif/images/Flagge_Kastilien-La-Mancha.jpg" group-title="AUTONOMICOS",DA- CMM
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/585
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal 4 Mancha Centro HD" tvg-logo="https://www.flags.de/animierte-flaggen-gif/images/Flagge_Kastilien-La-Mancha.jpg" group-title="AUTONOMICOS",DA- Canal 4 Mancha Centro HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/586
+#EXTINF:-1 tvg-id="" tvg-name="DA- Hellin TV" tvg-logo="https://www.flags.de/animierte-flaggen-gif/images/Flagge_Kastilien-La-Mancha.jpg" group-title="AUTONOMICOS",DA- Hellin TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/587
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal Diocesano Toledo" tvg-logo="https://www.flags.de/animierte-flaggen-gif/images/Flagge_Kastilien-La-Mancha.jpg" group-title="AUTONOMICOS",DA- Canal Diocesano Toledo
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/588
+#EXTINF:-1 tvg-id="" tvg-name="DA- Alcarria TV" tvg-logo="https://www.flags.de/animierte-flaggen-gif/images/Flagge_Kastilien-La-Mancha.jpg" group-title="AUTONOMICOS",DA- Alcarria TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/589
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + CASTILLA  LEON + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + CASTILLA  LEON + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/590
+#EXTINF:-1 tvg-id="" tvg-name="DA- TV Benavente HD" tvg-logo="https://www.az-flag.com/media/catalog/product/cache/9/small_image/168x168/5e06319eda06f020e43594a9c230972d/f/7/f71.jpg" group-title="AUTONOMICOS",DA- TV Benavente HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/591
+#EXTINF:-1 tvg-id="" tvg-name="DA- Telearanda" tvg-logo="https://www.az-flag.com/media/catalog/product/cache/9/small_image/168x168/5e06319eda06f020e43594a9c230972d/f/7/f71.jpg" group-title="AUTONOMICOS",DA- Telearanda
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/592
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + C A T A L U Ñ A + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + C A T A L U Ñ A + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/593
+#EXTINF:-1 tvg-id="" tvg-name="DA- La 1 Catalunya" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",DA- La 1 Catalunya
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/594
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="PA- TV3" tvg-logo="http://discusfish.xyz:8080/images/bc721a146ca63c4d8c0641ab0c9b379a.jpg" group-title="AUTONOMICOS",PA- TV3
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/219805
+#EXTINF:-1 tvg-id="" tvg-name="DA- 25 TV" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",DA- 25 TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/595
+#EXTINF:-1 tvg-id="" tvg-name="DA- TV Girona" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",DA- TV Girona
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/596
+#EXTINF:-1 tvg-id="" tvg-name="DA- Mola TV" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",DA- Mola TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/597
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal Taronja Osona i MoianÃ©s" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",DA- Canal Taronja Osona i MoianÃ©s
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/598
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal Parlament" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",DA- Canal Parlament
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/599
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal 10 EmpordÃ" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",DA- Canal 10 EmpordÃ
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/600
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + + + C E U T A + + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + + + C E U T A + + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/601
+#EXTINF:-1 tvg-id="" tvg-name="DA- RTVCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/lv/thumb/d/d3/Flag_of_Ceuta.svg/320px-Flag_of_Ceuta.svg.png" group-title="AUTONOMICOS",DA- RTVCE HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/602
+#EXTINF:-1 tvg-id="" tvg-name="DA- El Faro" tvg-logo="https://upload.wikimedia.org/wikipedia/lv/thumb/d/d3/Flag_of_Ceuta.svg/320px-Flag_of_Ceuta.svg.png" group-title="AUTONOMICOS",DA- El Faro
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/603
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + EXTREMADURA + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + EXTREMADURA + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/604
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal Extremadura" tvg-logo="http://www.spain.it/navigazione/bandiere-spagna/bandieraextremadura.jpg" group-title="AUTONOMICOS",DA- Canal Extremadura
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/87474
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal Extremadura" tvg-logo="http://discusfish.xyz:25461/images/ec11a40261e5029b6535cbb6b0e0c65b.jpg" group-title="AUTONOMICOS",DA- Canal Extremadura
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/605
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + + + G A L I C I A + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + + + G A L I C I A + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/606
+#EXTINF:-1 tvg-id="" tvg-name="DA- TVG" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA- TVG
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/607
+#EXTINF:-1 tvg-id="" tvg-name="DA- TVG 2 HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA- TVG 2 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/608
+#EXTINF:-1 tvg-id="" tvg-name="DA- TVG Musigal HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA- TVG Musigal HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/609
+#EXTINF:-1 tvg-id="" tvg-name="DA- TVG Momentos G" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA- TVG Momentos G
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/610
+#EXTINF:-1 tvg-id="" tvg-name="DA- TVG Infantil" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA- TVG Infantil
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/611
+#EXTINF:-1 tvg-id="" tvg-name="DA-TVG Evento 1 HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA-TVG Evento 1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/612
+#EXTINF:-1 tvg-id="" tvg-name="DA-TVG Evento 2 HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA-TVG Evento 2 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/613
+#EXTINF:-1 tvg-id="" tvg-name="DA- TVG Evento 3 HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA- TVG Evento 3 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/614
+#EXTINF:-1 tvg-id="" tvg-name="DA- TVG Cultura HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA- TVG Cultura HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/615
+#EXTINF:-1 tvg-id="" tvg-name="DA- TV Ferrol" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA- TV Ferrol
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/616
+#EXTINF:-1 tvg-id="" tvg-name="DA- Televigo" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",DA- Televigo
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/617
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + ISLAS  BALEARES + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + ISLAS  BALEARES + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/618
+#EXTINF:-1 tvg-id="" tvg-name="DA- TEF" tvg-logo="https://profesionaljdeabajo.files.wordpress.com/2013/07/baleares.png?w=150&h=100" group-title="AUTONOMICOS",DA- TEF
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/619
+#EXTINF:-1 tvg-id="" tvg-name="DA- Ibiza Global TV" tvg-logo="https://profesionaljdeabajo.files.wordpress.com/2013/07/baleares.png?w=150&h=100" group-title="AUTONOMICOS",DA- Ibiza Global TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/620
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal 4" tvg-logo="https://profesionaljdeabajo.files.wordpress.com/2013/07/baleares.png?w=150&h=100" group-title="AUTONOMICOS",DA- Canal 4
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/621
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + +  LA  RIOJA + + + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + +  LA  RIOJA + + + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/622
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + + + M A D R I D + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + + + M A D R I D + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/623
+#EXTINF:-1 tvg-id="" tvg-name="TGA: Telemadrid" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",TGA: Telemadrid
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/911
+#EXTINF:-1 tvg-id="" tvg-name="DA- Webcam OndaMadrid" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",DA- Webcam OndaMadrid
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/624
+#EXTINF:-1 tvg-id="" tvg-name="DA-Solidaria TV HD" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",DA-Solidaria TV HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/625
+#EXTINF:-1 tvg-id="" tvg-name="DA- Logos TV" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",DA- Logos TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/626
+#EXTINF:-1 tvg-id="" tvg-name="DA- Distrito TV" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",DA- Distrito TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/627
+#EXTINF:-1 tvg-id="" tvg-name="DA- Dejate de Historias TV" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",DA- Dejate de Historias TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/628
+#EXTINF:-1 tvg-id="" tvg-name="DA- C33 Madrid HD" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",DA- C33 Madrid HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/629
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + + M E L I L L A + + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + + M E L I L L A + + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/630
+#EXTINF:-1 tvg-id="" tvg-name="DA- Popular TV Melilla" tvg-logo="https://st-listas.20minutos.es/images/2011-04/283527/2952671_249px.jpg?1302732532" group-title="AUTONOMICOS",DA- Popular TV Melilla
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/631
+#EXTINF:-1 tvg-id="" tvg-name="DA- Melilla TV HD" tvg-logo="https://st-listas.20minutos.es/images/2011-04/283527/2952671_249px.jpg?1302732532" group-title="AUTONOMICOS",DA- Melilla TV HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/632
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + + + M U R C I A + + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + + + M U R C I A + + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/634
+#EXTINF:-1 tvg-id="" tvg-name="DA- RTV Vida HD" tvg-logo="https://www.bing.com/th?id=OIP.pNAwGYRYktHgV2ZFi3W3dwHaE4&pid=Api&rs=1" group-title="AUTONOMICOS",DA- RTV Vida HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/635
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + N A V A R R A + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + N A V A R R A + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/636
+#EXTINF:-1 tvg-id="" tvg-name="DA- TeleRibera" tvg-logo="http://srmfyc.es/wp-content/uploads/2014/12/navarra.jpg" group-title="AUTONOMICOS",DA- TeleRibera
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/637
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + PAIS  VASCO + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + PAIS  VASCO + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/638
+#EXTINF:-1 tvg-id="" tvg-name="DA- ETB 1 HD" tvg-logo="http://discusfish.xyz:25461/images/e9a57e41c815f2b81a689907f420f7aa.png" group-title="AUTONOMICOS",DA- ETB 1 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/639
+#EXTINF:-1 tvg-id="" tvg-name="DA- ETB 2 HD" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",DA- ETB 2 HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/640
+#EXTINF:-1 tvg-id="" tvg-name="GA- ETB sat" tvg-logo="http://discusfish.xyz:25461/images/e9a57e41c815f2b81a689907f420f7aa.png" group-title="AUTONOMICOS",GA- ETB sat
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/207082
+#EXTINF:-1 tvg-id="" tvg-name="DA- Oizmendi Telebista" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",DA- Oizmendi Telebista
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/641
+#EXTINF:-1 tvg-id="" tvg-name="DA- Hamaika TV" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",DA- Hamaika TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/642
+#EXTINF:-1 tvg-id="" tvg-name="DA- Goiena" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",DA- Goiena
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/643
+#EXTINF:-1 tvg-id="" tvg-name="DA- GITB Goierri Irrati Telebista" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",DA- GITB Goierri Irrati Telebista
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/644
+#EXTINF:-1 tvg-id="" tvg-name="DA- Erlo Telebista" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",DA- Erlo Telebista
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/645
+#EXTINF:-1 tvg-id="" tvg-name="DA- 28 Kanala HD" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",DA- 28 Kanala HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/646
+#EXTINF:-1 tvg-id="" tvg-name="+ + + + + + + V A L E N C I A + + + + + + + +" tvg-logo="" group-title="AUTONOMICOS",+ + + + + + + V A L E N C I A + + + + + + + +
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/647
+#EXTINF:-1 tvg-id="" tvg-name="DA- 7 TeleValencia" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- 7 TeleValencia
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/648
+#EXTINF:-1 tvg-id="" tvg-name="DA- TV4 La Vall" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- TV4 La Vall
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/649
+#EXTINF:-1 tvg-id="" tvg-name="DA- Tv-A" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- Tv-A
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/650
+#EXTINF:-1 tvg-id="" tvg-name="DA- TeVe4" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- TeVe4
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/651
+#EXTINF:-1 tvg-id="" tvg-name="DA- Telesafor" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- Telesafor
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/652
+#EXTINF:-1 tvg-id="" tvg-name="DA- Tele Sagunto" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- Tele Sagunto
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/653
+#EXTINF:-1 tvg-id="" tvg-name="DA- RTV Vida HD" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- RTV Vida HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/654
+#EXTINF:-1 tvg-id="" tvg-name="DA- RiberaTV" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- RiberaTV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/655
+#EXTINF:-1 tvg-id="" tvg-name="DA- Levante TV" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- Levante TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/656
+#EXTINF:-1 tvg-id="" tvg-name="DA- Informacion TV" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- Informacion TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/657
+#EXTINF:-1 tvg-id="" tvg-name="DA- Elche 7 TV" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- Elche 7 TV
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/658
+#EXTINF:-1 tvg-id="" tvg-name="DA- Canal 56" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",DA- Canal 56
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/659
+#EXTINF:-1 tvg-id="dark.es" tvg-name="OC- DARK SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq63lsIgqPOalLcDXrEbSlizaPko4OL7m4xBKTSjZx8sI8R7pn&s" group-title="MOVISTAR",OC- DARK SD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/85590
+#EXTINF:-1 tvg-id="dark.es" tvg-name="GC- DARK HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq63lsIgqPOalLcDXrEbSlizaPko4OL7m4xBKTSjZx8sI8R7pn&s" group-title="MOVISTAR",GC- DARK HD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/286
+#EXTINF:-1 tvg-id="" tvg-name="PC- DARK FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq63lsIgqPOalLcDXrEbSlizaPko4OL7m4xBKTSjZx8sI8R7pn&s" group-title="MOVISTAR",PC- DARK FHD
+http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/83824
+
 
 #EXTINF:-1 group-title="Canales 24/7",Xena La Princesa Guerrera 24/7
 http://cc.userport.top:80/live/xp879637/225650/1839.ts
