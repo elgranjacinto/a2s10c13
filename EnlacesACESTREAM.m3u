@@ -54,6 +54,38 @@ ACESTREAM://4229d640fecf3c0897674241bcf851b67f4310e3
 #EXTINF:-1 group-title="LIGA-ACE",M.LaLiga 2 720
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 
+
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF A" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF A
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/85236
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF B" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF B
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/85237
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF C" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF C
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/85238
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 1 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 1 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95021
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 2 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 2 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95022
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 3 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 3 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95023
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 4 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 4 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95024
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 5 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 5 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95025
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 6 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 6 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95026
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 7 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 7 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95027
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 8 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 8 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95028
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 9 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 9 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95029
+#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 10 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 10 RFEF
+http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95030
+
+
+
+
+
 #EXTINF:-1 group-title="LIGA 2ªDIV-ACE",Liga Smartbank 1080
 ACESTREAM://d4fa689e575f7626c8b136c9ad8685b945d3cccf
 #EXTINF:-1 group-title="LIGA 2ªDIV-ACE",Liga Smartbank 1080 Opc1
