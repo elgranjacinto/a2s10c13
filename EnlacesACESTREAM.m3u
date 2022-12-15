@@ -64,6 +64,31 @@ http://lol.bz:2095/z65MXkeb/abQBJjg/96037
 #EXTINF:-1 tvg-name="Evento 12 HD ES [Live During Events Only]" group-title="1ª RFEF",Evento 12 HD ES [Live During Events Only]
 http://lol.bz:2095/z65MXkeb/abQBJjg/96038
 
+#EXTINF:-1 tvg-id="" tvg-name="Evento 1 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 1 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96027
+#EXTINF:-1 tvg-id="" tvg-name="Evento 2 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 2 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96028
+#EXTINF:-1 tvg-id="" tvg-name="Evento 3 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 3 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96029
+#EXTINF:-1 tvg-id="" tvg-name="Evento 4 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 4 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96030
+#EXTINF:-1 tvg-id="" tvg-name="Evento 5 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 5 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96031
+#EXTINF:-1 tvg-id="" tvg-name="Evento 6 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 6 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96032
+#EXTINF:-1 tvg-id="" tvg-name="Evento 7 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 7 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96033
+#EXTINF:-1 tvg-id="" tvg-name="Evento 8 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 8 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96034
+#EXTINF:-1 tvg-id="" tvg-name="Evento 9 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 9 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96035
+#EXTINF:-1 tvg-id="" tvg-name="Evento 10 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 10 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96036
+#EXTINF:-1 tvg-id="" tvg-name="Evento 11 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 11 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96037
+#EXTINF:-1 tvg-id="" tvg-name="Evento 12 HD ES [Live During Events Only]" tvg-logo="" group-title="¿1 RFEF?",Evento 12 HD ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96038
+
 #EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 MultiAudio
 ACESTREAM://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 Multi opc-1
