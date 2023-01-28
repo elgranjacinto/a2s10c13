@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ACEMAS" tvg-name="PRUEBA" group-title="TEXTO", Si no carga algún canal siempre tenis mas opciones en los grupes, buscad el canal que quereis en otros grupos
+
 #EXTINF:-1 tvg-id="calle13.es" tvg-name="13 TV ES" tvg-logo="" group-title="Spain",13 TV ES
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/48641
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="24 Horas ES" tvg-logo="" group-title="Spain",24 Horas ES
